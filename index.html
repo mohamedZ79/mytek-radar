@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MyTek Promos — Tableau de bord des meilleures remises</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- ======================= En-tête ======================= -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="logo">🏷️</span>
+        <div>
+          <h1>MyTek <span class="accent">Promos</span></h1>
+          <p class="tagline">Toutes les promotions mytek.tn, classées par taux de remise</p>
+        </div>
+      </div>
+      <div class="scan-info">
+        <span class="dot" id="statusDot"></span>
+        <span>Dernier scan : <strong id="lastScan">chargement…</strong></span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======================= Statistiques ======================= -->
+  <section class="stats" id="stats">
+    <div class="stat-card"><span class="stat-value" id="statCount">–</span><span class="stat-label">Promotions</span></div>
+    <div class="stat-card"><span class="stat-value" id="statMax">–</span><span class="stat-label">Remise max</span></div>
+    <div class="stat-card"><span class="stat-value" id="statAvg">–</span><span class="stat-label">Remise moyenne</span></div>
+    <div class="stat-card"><span class="stat-value" id="statSavings">–</span><span class="stat-label">Économies cumulées</span></div>
+  </section>
+
+  <!-- ======================= Barre de filtres ======================= -->
+  <section class="toolbar">
+    <input type="search" id="searchInput" placeholder="🔍 Rechercher un produit, une marque…" />
+
+    <select id="categorySelect">
+      <option value="">Toutes les catégories</option>
+    </select>
+
+    <div class="price-range">
+      <input type="number" id="priceMin" placeholder="Prix min" min="0" />
+      <span>—</span>
+      <input type="number" id="priceMax" placeholder="Prix max" min="0" />
+    </div>
+
+    <select id="sortSelect">
+      <option value="discount_desc">Remise % ▼ (défaut)</option>
+      <option value="discount_asc">Remise % ▲</option>
+      <option value="savings_desc">Économies (DT) ▼</option>
+      <option value="price_asc">Prix croissant</option>
+      <option value="price_desc">Prix décroissant</option>
+      <option value="name_asc">Nom A → Z</option>
+    </select>
+
+    <button id="resetBtn" class="btn-reset" title="Réinitialiser les filtres">↺</button>
+  </section>
+
+  <!-- ======================= Grille produits ======================= -->
+  <main class="grid" id="grid"></main>
+  <p class="empty" id="emptyMsg" hidden>Aucune promotion ne correspond à vos filtres. 😕</p>
+
+  <footer class="footer">
+    Données issues de <a href="https://www.mytek.tn" target="_blank" rel="noopener">mytek.tn</a> —
+    mises en cache dans <code>data/promotions.json</code>. Relancez <code>python3 scraper.py</code> pour actualiser.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
