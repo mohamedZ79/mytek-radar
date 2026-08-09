@@ -2,9 +2,8 @@ name: Daily MyTek Promo Scraper
 
 on:
   schedule:
-    # Tous les jours à 05:00 UTC = 06:00 heure de Tunis (pas de changement d'heure)
     - cron: '0 5 * * *'
-  workflow_dispatch: # Permet un déclenchement manuel depuis l'onglet Actions
+  workflow_dispatch:
 
 jobs:
   scrape-and-update:
@@ -34,4 +33,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/promotions.json
-          git diff --staged --quiet || (git commit -m "🤖 Auto-update MyTek promotions data" && git pull --rebase origin main && git push)
+          git diff --staged --quiet || (git commit -m "Auto-update MyTek promotions data" && git pull --rebase origin main && git push)
