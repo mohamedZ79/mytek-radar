@@ -1,26 +1,10 @@
 {
- "scanned_at": "2026-08-10T06:09:51.171855+00:00",
+ "scanned_at": "2026-08-11T05:53:10.046830+00:00",
  "source": "https://www.mytek.tn",
- "product_count": 4268,
- "duration_seconds": 6.9,
+ "product_count": 4263,
+ "duration_seconds": 11.6,
  "errors": 0,
  "products": [
-  {
-   "id": "78240",
-   "sku": "DS-UPS1200-R",
-   "name": "Onduleur HIKVISION de Secours Avec Batterie Intégrée 1200 VA/720W",
-   "brand": "HILOOK",
-   "categories": [
-    "Onduleur On-Line",
-    "Onduleurs & Protection Électrique"
-   ],
-   "old_price": 589,
-   "new_price": 4.89,
-   "discount_pct": 99.2,
-   "savings": 584.11,
-   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-hikvision-de-secours-avec-batterie-integree-1200-va-720w-004.jpg",
-   "url": "https://www.mytek.tn/onduleur-hikvision-de-secours-avec-batterie-integree-1200-va-720w.html"
-  },
   {
    "id": "10745",
    "sku": "NANO-TAB-IKU-T3",
@@ -1719,21 +1703,6 @@
    "url": "https://www.mytek.tn/cable-de-charge-tn40-usb-a-vers-type-c-6a-blanc.html"
   },
   {
-   "id": "69912",
-   "sku": "LDO-IOS-WH",
-   "name": "Câble de Charge LDO USB-A vers Lightning 6A - Blanc",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Accessoires Téléphonie"
-   ],
-   "old_price": 9.9,
-   "new_price": 1.9,
-   "discount_pct": 80.8,
-   "savings": 8.0,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cable-de-charge-ldo-usb-a-vers-lightning-6a-blanc-w.jpg",
-   "url": "https://www.mytek.tn/cable-de-charge-ldo-usb-a-vers-lightning-6a-blanc.html"
-  },
-  {
    "id": "62094",
    "sku": "SUP-42",
    "name": "Support Mural Fixe SUP-42 Pour TV VEGA 42\" - Noir",
@@ -2072,6 +2041,22 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/g/i/gi-40c_1.jpg",
    "url": "https://www.mytek.tn/bouteille-d-encre-original-canon-gi-40-cyan-gi-40c.html"
+  },
+  {
+   "id": "78239",
+   "sku": "6222023501713",
+   "name": "Set de 6 Bols en Verre 12 cm",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Cuisine",
+    "Vaisselle & Art de la Table"
+   ],
+   "old_price": 29,
+   "new_price": 6.9,
+   "discount_pct": 76.2,
+   "savings": 22.1,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-6-bols-en-verre-12-cm.jpg",
+   "url": "https://www.mytek.tn/set-de-6-bols-en-verre-12-cm.html"
   },
   {
    "id": "59288",
@@ -2580,40 +2565,6 @@
    "url": "https://www.mytek.tn/coque-silicone-labubu-pour-iphone-12-13-pro-max-marron.html"
   },
   {
-   "id": "66223",
-   "sku": "CQ-LABUBU-IPH12/13PRO-MAX-SL",
-   "name": "Coque Silicone Labubu Pour Iphone 12/13 Pro Max - Silver",
-   "brand": "APPLE",
-   "categories": [
-    "Accessoires Téléphonie",
-    "Coque",
-    "Etuis et coques"
-   ],
-   "old_price": 39,
-   "new_price": 9.9,
-   "discount_pct": 74.6,
-   "savings": 29.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coque-silicone-labubu-pour-iphone-12-13-pro-max-silver-aq.jpg",
-   "url": "https://www.mytek.tn/coque-silicone-labubu-pour-iphone-12-13-pro-max-silver.html"
-  },
-  {
-   "id": "66226",
-   "sku": "CQ-LABUBU-IPH12/13PRO-MAX-SBL",
-   "name": "Coque Silicone Labubu Pour Iphone 12/13 Pro Max - Bleu Ciel",
-   "brand": "APPLE",
-   "categories": [
-    "Accessoires Téléphonie",
-    "Coque",
-    "Etuis et coques"
-   ],
-   "old_price": 39,
-   "new_price": 9.9,
-   "discount_pct": 74.6,
-   "savings": 29.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coque-silicone-labubu-pour-iphone-12-13-pro-max-bleu-ciel-qq.jpg",
-   "url": "https://www.mytek.tn/coque-silicone-labubu-pour-iphone-12-13-pro-max-bleu-ciel.html"
-  },
-  {
    "id": "66231",
    "sku": "CQ-LABUBU-IPH12/13PRO-MAX-BK",
    "name": "Coque Silicone Labubu Pour Iphone 12/13 Pro Max - Noir",
@@ -2833,23 +2784,6 @@
    "savings": 29.1,
    "image": "https://www.mytek.tn/media/catalog/product/c/o/coque-silicone-labubu-pour-iphone-14-15-pro-max-lilas.jpg",
    "url": "https://www.mytek.tn/coque-silicone-labubu-pour-iphone-14-15-pro-max-lilas.html"
-  },
-  {
-   "id": "67328",
-   "sku": "CQ-LABUBU-IPH14/15PRO-MAX-BK",
-   "name": "Coque Silicone Labubu Pour Iphone 14/15 Pro Max - Noir",
-   "brand": "APPLE",
-   "categories": [
-    "Accessoires Téléphonie",
-    "Coque",
-    "Etuis et coques"
-   ],
-   "old_price": 39,
-   "new_price": 9.9,
-   "discount_pct": 74.6,
-   "savings": 29.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coque-silicone-labubu-pour-iphone-14-15-pro-max-noir-b.jpg",
-   "url": "https://www.mytek.tn/coque-silicone-labubu-pour-iphone-14-15-pro-max-noir.html"
   },
   {
    "id": "67329",
@@ -3292,23 +3226,6 @@
    "savings": 29.1,
    "image": "https://www.mytek.tn/media/catalog/product/c/o/coque-silicone-labubu-pour-samsung-a16-rose.jpg",
    "url": "https://www.mytek.tn/coque-silicone-labubu-pour-samsung-a16-rose.html"
-  },
-  {
-   "id": "67438",
-   "sku": "CQ-LABUBU-SM/A16-DPK",
-   "name": "Coque Silicone Labubu Pour SAMSUNG A16 - Rose foncé",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Accessoires Téléphonie",
-    "Coque",
-    "Etuis et coques"
-   ],
-   "old_price": 39,
-   "new_price": 9.9,
-   "discount_pct": 74.6,
-   "savings": 29.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coque-silicone-labubu-pour-samsung-a16-rose-fonce.jpg",
-   "url": "https://www.mytek.tn/coque-silicone-labubu-pour-samsung-a16-rose-fonce.html"
   },
   {
    "id": "67441",
@@ -5122,21 +5039,6 @@
    "url": "https://www.mytek.tn/pompe-a-air-electrique-ht-196a-pour-voiture-noir.html"
   },
   {
-   "id": "74634",
-   "sku": "PANIER-PLAGE-BC",
-   "name": "Panier Pique-Nique Isotherme Pliable Pour Plage - Bleu ciel",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs & Bagages"
-   ],
-   "old_price": 59,
-   "new_price": 19.9,
-   "discount_pct": 66.3,
-   "savings": 39.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/panier-pique-nique-isotherme-pliable-pour-plage---bleu.jpg",
-   "url": "https://www.mytek.tn/panier-pique-nique-isotherme-pliable-pour-plage-bleu-ciel.html"
-  },
-  {
    "id": "74637",
    "sku": "PANIER-PLAGE-J",
    "name": "Panier Pique-Nique Isotherme Pliable Pour Plage - Jaune",
@@ -5165,21 +5067,6 @@
    "savings": 39.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/panier-pique-nique-isotherme-pliable-compagnon-id_al-_t_.jpg",
    "url": "https://www.mytek.tn/panier-pique-nique-isotherme-pliable-pour-plage-bleu.html"
-  },
-  {
-   "id": "75690",
-   "sku": "PANIER-PLAGE-FR",
-   "name": "Panier Pique-Nique Isotherme Pliable Pour Plage - Fleur Rose",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs & Bagages"
-   ],
-   "old_price": 59,
-   "new_price": 19.9,
-   "discount_pct": 66.3,
-   "savings": 39.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/panier-pique-nique-isotherme-pliable-compagnon-id_al-_t_-1.jpg",
-   "url": "https://www.mytek.tn/panier-pique-nique-isotherme-pliable-pour-plage-fleur-rose.html"
   },
   {
    "id": "77827",
@@ -5345,21 +5232,6 @@
    "savings": 19.1,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/cable-de-charge-aspor-ac-60-type-c-60w-blanc-001.jpg",
    "url": "https://www.mytek.tn/cable-de-charge-aspor-ac-60-type-c-60w-blanc.html"
-  },
-  {
-   "id": "74926",
-   "sku": "POWER-PODL-SILVER",
-   "name": "Porte clé power bank 1500 mah Lightning - Silver",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Accessoires Téléphonie"
-   ],
-   "old_price": 29,
-   "new_price": 9.9,
-   "discount_pct": 65.9,
-   "savings": 19.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/o/porte-cle-power-bank-1500-mah-lightning-silver-1.jpg",
-   "url": "https://www.mytek.tn/porte-cle-power-bank-1500-mah-lightning-silver.html"
   },
   {
    "id": "74084",
@@ -5580,22 +5452,6 @@
    "savings": 19.1,
    "image": "https://www.mytek.tn/media/catalog/product/m/i/mini-ventilateur-portable-usb---1.5w---silencieux---rose-1_4.jpg",
    "url": "https://www.mytek.tn/mini-ventilateur-a-main-rechargeable-support-fleur-pink.html"
-  },
-  {
-   "id": "77958",
-   "sku": "MINI-VEN-O",
-   "name": "Mini Ventilateur à Main Rechargeable Support Fleur - Orange",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Climatisation",
-    "Ventilateur"
-   ],
-   "old_price": 29,
-   "new_price": 9.9,
-   "discount_pct": 65.9,
-   "savings": 19.1,
-   "image": "https://www.mytek.tn/media/catalog/product/m/i/mini-ventilateur-rechargeable-usb-_-compact-_-portable.jpg",
-   "url": "https://www.mytek.tn/mini-ventilateur-a-main-rechargeable-support-fleur-orange.html"
   },
   {
    "id": "78054",
@@ -7337,22 +7193,6 @@
    "url": "https://www.mytek.tn/ardoise-magique-lcd-10-pour-enfant-vert.html"
   },
   {
-   "id": "58782",
-   "sku": "R-7114",
-   "name": "Moulin À Épices et Café RAF R-7114 300W - Chrome",
-   "brand": "RAF",
-   "categories": [
-    "Café et Petit déjeuner",
-    "Cuisine"
-   ],
-   "old_price": 89,
-   "new_price": 35,
-   "discount_pct": 60.7,
-   "savings": 54,
-   "image": "https://www.mytek.tn/media/catalog/product/m/o/moulin-a-epices-et-cafe-raf-r-7114-300w-chrome.jpg",
-   "url": "https://www.mytek.tn/moulin-a-epices-et-cafe-raf-r-7114-300w-chrome.html"
-  },
-  {
    "id": "3856",
    "sku": "FILM-SMART5",
    "name": "Film de Protection Pour INFINIX Smart 5",
@@ -8068,6 +7908,54 @@
    "savings": 59.1,
    "image": "https://www.mytek.tn/media/catalog/product/_/c/_couteurs_bluetooth_mibro_earbuds_5_rose_-_tws_bluetooth_5.3-h.jpg",
    "url": "https://www.mytek.tn/ecouteurs-bluetooth-mibro-earbuds-5-tws-rose.html"
+  },
+  {
+   "id": "70683",
+   "sku": "MC881-B",
+   "name": "Haut Parleur et Microphone karaoké Best Sound MC881 - Noir",
+   "brand": "BEST-SOUND",
+   "categories": [
+    "Haut-Parleur",
+    "Son Numérique"
+   ],
+   "old_price": 59,
+   "new_price": 23.9,
+   "discount_pct": 59.5,
+   "savings": 35.1,
+   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-et-microphone-karaoke-best-sound-mc881-noir-1a.jpg",
+   "url": "https://www.mytek.tn/haut-parleur-et-microphone-karaoke-best-sound-mc881-noir.html"
+  },
+  {
+   "id": "70686",
+   "sku": "MC881-W",
+   "name": "Haut Parleur et Microphone karaoké Best Sound MC881-W - Blanc",
+   "brand": "BEST-SOUND",
+   "categories": [
+    "Haut-Parleur",
+    "Son Numérique"
+   ],
+   "old_price": 59,
+   "new_price": 23.9,
+   "discount_pct": 59.5,
+   "savings": 35.1,
+   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-et-microphone-karaoke-best-sound-mc881-w-blanc-1.jpg",
+   "url": "https://www.mytek.tn/haut-parleur-et-microphone-karaoke-best-sound-mc881-w-blanc.html"
+  },
+  {
+   "id": "70688",
+   "sku": "MC881-BL",
+   "name": "Haut Parleur et Microphone karaoké Best Sound MC881 - Bleu",
+   "brand": "BEST-SOUND",
+   "categories": [
+    "Haut-Parleur",
+    "Son Numérique"
+   ],
+   "old_price": 59,
+   "new_price": 23.9,
+   "discount_pct": 59.5,
+   "savings": 35.1,
+   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-et-microphone-karaoke-best-sound-mc881-bleu-1.jpg",
+   "url": "https://www.mytek.tn/haut-parleur-et-microphone-karaoke-best-sound-mc881-bleu.html"
   },
   {
    "id": "72597",
@@ -11059,6 +10947,22 @@
    "url": "https://www.mytek.tn/set-de-3-poeles-a-frire-22cm-24cm-26cm-inox.html"
   },
   {
+   "id": "67608",
+   "sku": "SY-933",
+   "name": "Haut Parleur Sans Fil Portable Avec Torche SY-933 - Noir",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Haut-Parleur",
+    "Son Numérique"
+   ],
+   "old_price": 99,
+   "new_price": 49,
+   "discount_pct": 50.5,
+   "savings": 50,
+   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-sans-fil-portable-avec-torche-sy-933-noir-1.jpg",
+   "url": "https://www.mytek.tn/haut-parleur-sans-fil-portable-avec-torche-sy-933-noir.html"
+  },
+  {
    "id": "68767",
    "sku": "MP3-CORAN",
    "name": "Mini Haut Parleur Coran Magnétique Pour Réfrigérateur - Noir",
@@ -11624,22 +11528,6 @@
    "savings": 100,
    "image": "https://www.mytek.tn/media/catalog/product/c/u/cuiseur_vapeur_jata_cv5020_400w_-_blanc.jpg",
    "url": "https://www.mytek.tn/cuiseur-vapeur-jata-cv5020-400w-blanc.html"
-  },
-  {
-   "id": "73085",
-   "sku": "JK-221M-N",
-   "name": "Appareil de Cuisson 4EN1 REMAX JK-221M 750W - Noir",
-   "brand": "REMAX",
-   "categories": [
-    "Appareil de cuisson",
-    "Panini Gaufrier"
-   ],
-   "old_price": 199,
-   "new_price": 99,
-   "discount_pct": 50.3,
-   "savings": 100,
-   "image": "https://www.mytek.tn/media/catalog/product/r/e/remax-jk-221m-noir.jpg",
-   "url": "https://www.mytek.tn/appareil-de-cuisson-4en1-remax-jk-221m-750w-noir.html"
   },
   {
    "id": "66905",
@@ -12755,22 +12643,6 @@
    "url": "https://www.mytek.tn/adaptateur-de-charge-hoco-c80a-rapide-20w-blanc.html"
   },
   {
-   "id": "58089",
-   "sku": "R-440-VERT",
-   "name": "Blender RAF R-440 450Watts - Vert",
-   "brand": "RAF",
-   "categories": [
-    "Blender",
-    "Préparation culinaire"
-   ],
-   "old_price": 129,
-   "new_price": 65,
-   "discount_pct": 49.6,
-   "savings": 64,
-   "image": "https://www.mytek.tn/media/catalog/product/b/l/blender-raf-r-440-1000watts-vert-1.jpg",
-   "url": "https://www.mytek.tn/blender-raf-r-440-1000watts-vert.html"
-  },
-  {
    "id": "27398",
    "sku": "42785",
    "name": "Pack de 8 Feutres CARIOCA Néon - Assortis",
@@ -13290,23 +13162,6 @@
    "savings": 19.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/o/power-bank-y03-20000-mah-noir-1.jpg",
    "url": "https://www.mytek.tn/power-bank-y03-20000-mah-noir.html"
-  },
-  {
-   "id": "70813",
-   "sku": "COQ-IPH11",
-   "name": "Coque Transparent Pour IPhone 11 - COQ-IPH11",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Accessoires Téléphonie",
-    "Coque",
-    "Etuis et coques"
-   ],
-   "old_price": 39,
-   "new_price": 19.9,
-   "discount_pct": 49.0,
-   "savings": 19.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coque-transparent-pour-iphone-11-coq-iph11-f.jpg",
-   "url": "https://www.mytek.tn/coque-transparent-pour-iphone-11-coq-iph11.html"
   },
   {
    "id": "70815",
@@ -14232,6 +14087,21 @@
    "url": "https://www.mytek.tn/cartouche-d-encre-hp-authentique-d-origine-938-cyan.html"
   },
   {
+   "id": "78297",
+   "sku": "E39154",
+   "name": "Ardoise Scolaire Magnétique DELI Avec Stylo & Chiffon",
+   "brand": "DELI",
+   "categories": [
+    "Fourniture de Bureau"
+   ],
+   "old_price": 18.9,
+   "new_price": 9.9,
+   "discount_pct": 47.6,
+   "savings": 9.0,
+   "image": "https://www.mytek.tn/media/catalog/product/a/r/ardoise-scolaire-magnetique-deli-avec-stylo-chiffon-1.jpg",
+   "url": "https://www.mytek.tn/ardoise-scolaire-magnetique-deli-avec-stylo-chiffon.html"
+  },
+  {
    "id": "56910",
    "sku": "8C524AA",
    "name": "Sac à dos Gamer HYPERX Delta - Noir",
@@ -14541,22 +14411,6 @@
    "url": "https://www.mytek.tn/ecouteurs-sans-fil-bluetooth-inkax-tz06-tws-blanc.html"
   },
   {
-   "id": "65074",
-   "sku": "MSF-1801",
-   "name": "Ventilateur 3En1 STARONE MSF-1801 - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
-   "categories": [
-    "Climatisation",
-    "Ventilateur"
-   ],
-   "old_price": 149,
-   "new_price": 79,
-   "discount_pct": 47.0,
-   "savings": 70,
-   "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur_3en1_starone_msf-1801_-_noir-1mspks.jpg",
-   "url": "https://www.mytek.tn/ventilateur-3en1-starone-msf-1801-black.html"
-  },
-  {
    "id": "76956",
    "sku": "ABM-18",
    "name": "Ventilateur ABM 3en1 - 18 pouces - Bleu",
@@ -14840,7 +14694,7 @@
    "id": "75770",
    "sku": "803113",
    "name": "Boîte D'Archives RIBAT Z 5 à Bouton -Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -15019,54 +14873,6 @@
    "savings": 59.1,
    "image": "https://www.mytek.tn/media/catalog/product/h/a/hachoir-manuel-3en1-jata-hmaq4505-noir-rouge.jpg",
    "url": "https://www.mytek.tn/hachoir-manuel-3en1-jata-hmaq4505-noir-rouge.html"
-  },
-  {
-   "id": "70683",
-   "sku": "MC881-B",
-   "name": "Haut Parleur et Microphone karaoké Best Sound MC881 - Noir",
-   "brand": "BEST-SOUND",
-   "categories": [
-    "Haut-Parleur",
-    "Son Numérique"
-   ],
-   "old_price": 59,
-   "new_price": 32,
-   "discount_pct": 45.8,
-   "savings": 27,
-   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-et-microphone-karaoke-best-sound-mc881-noir-1a.jpg",
-   "url": "https://www.mytek.tn/haut-parleur-et-microphone-karaoke-best-sound-mc881-noir.html"
-  },
-  {
-   "id": "70686",
-   "sku": "MC881-W",
-   "name": "Haut Parleur et Microphone karaoké Best Sound MC881-W - Blanc",
-   "brand": "BEST-SOUND",
-   "categories": [
-    "Haut-Parleur",
-    "Son Numérique"
-   ],
-   "old_price": 59,
-   "new_price": 32,
-   "discount_pct": 45.8,
-   "savings": 27,
-   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-et-microphone-karaoke-best-sound-mc881-w-blanc-1.jpg",
-   "url": "https://www.mytek.tn/haut-parleur-et-microphone-karaoke-best-sound-mc881-w-blanc.html"
-  },
-  {
-   "id": "70688",
-   "sku": "MC881-BL",
-   "name": "Haut Parleur et Microphone karaoké Best Sound MC881 - Bleu",
-   "brand": "BEST-SOUND",
-   "categories": [
-    "Haut-Parleur",
-    "Son Numérique"
-   ],
-   "old_price": 59,
-   "new_price": 32,
-   "discount_pct": 45.8,
-   "savings": 27,
-   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-et-microphone-karaoke-best-sound-mc881-bleu-1.jpg",
-   "url": "https://www.mytek.tn/haut-parleur-et-microphone-karaoke-best-sound-mc881-bleu.html"
   },
   {
    "id": "33185",
@@ -15268,6 +15074,54 @@
    "savings": 13.1,
    "image": "https://www.mytek.tn/media/catalog/product/m/o/moule-_-glaces-6-cornets---cr_ez-vos-desserts-maison-sain-_.jpg",
    "url": "https://www.mytek.tn/moule-pour-6-cornets-de-glace.html"
+  },
+  {
+   "id": "69312",
+   "sku": "MK30",
+   "name": "Haut Parleur Portable Meimi MK30 pour enfant avec 2 micros - Rose",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Haut-Parleur",
+    "Son Numérique"
+   ],
+   "old_price": 199,
+   "new_price": 109,
+   "discount_pct": 45.2,
+   "savings": 90,
+   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-portable-meimi-mk30-pour-enfant-avec-2-micros-rose-4.jpg",
+   "url": "https://www.mytek.tn/haut-parleur-portable-meimi-mk30-pour-enfant-avec-2-micros-rose.html"
+  },
+  {
+   "id": "69330",
+   "sku": "MK20-N",
+   "name": "Haut Parleur Portable Meimi MK20 pour enfant avec 2 micros - Noir",
+   "brand": "MEIMI",
+   "categories": [
+    "Haut-Parleur",
+    "Son Numérique"
+   ],
+   "old_price": 199,
+   "new_price": 109,
+   "discount_pct": 45.2,
+   "savings": 90,
+   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-portable-meimi-mk20-pour-enfant-avec-2-micros-noir-2dsq.jpg",
+   "url": "https://www.mytek.tn/haut-parleur-portable-meimi-mk20-pour-enfant-avec-2-micros-noir.html"
+  },
+  {
+   "id": "69340",
+   "sku": "MK30-B",
+   "name": "Haut Parleur Portable Meimi MK30 pour enfant avec 2 micros - Bleu",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Haut-Parleur",
+    "Son Numérique"
+   ],
+   "old_price": 199,
+   "new_price": 109,
+   "discount_pct": 45.2,
+   "savings": 90,
+   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-portable-meimi-mk30-pour-enfant-avec-2-micros-bleu-1.jpg",
+   "url": "https://www.mytek.tn/haut-parleur-portable-meimi-mk30-pour-enfant-avec-2-micros-bleu.html"
   },
   {
    "id": "71051",
@@ -15867,23 +15721,6 @@
    "savings": 70,
    "image": "https://www.mytek.tn/media/catalog/product/b/l/blender-2en1-tonix-sc-1589-4500w-noir-r.jpg",
    "url": "https://www.mytek.tn/blender-2en1-tonix-sc-1589-4500w-noir.html"
-  },
-  {
-   "id": "74934",
-   "sku": "ZQS-F802",
-   "name": "Ventilateur Haut-Parleur électrique du Bureau ZQS-F802 LED - White",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Climatisation",
-    "Haut-Parleur",
-    "Ventilateur"
-   ],
-   "old_price": 159,
-   "new_price": 89,
-   "discount_pct": 44.0,
-   "savings": 70,
-   "image": "https://www.mytek.tn/media/catalog/product/m/i/mini-haut-parleur-bluetooth-avec-ventilateur-tws---blanc-11.jpg",
-   "url": "https://www.mytek.tn/catalog/product/view/id/74934/s/ventilateur-haut-parleur-electrique-du-bureau-zqs-f802-led-white/"
   },
   {
    "id": "12910",
@@ -16734,6 +16571,22 @@
    "url": "https://www.mytek.tn/lot-el-gusto-by-cook-art-de-5-pieces-noir.html"
   },
   {
+   "id": "78272",
+   "sku": "LHB-1665",
+   "name": "Mixeur Plongeant LEXICAL 3 En 1 LHB-1665 - Blanc",
+   "brand": "LEXICAL",
+   "categories": [
+    "Mixeur",
+    "Préparation culinaire"
+   ],
+   "old_price": 139,
+   "new_price": 79,
+   "discount_pct": 43.2,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/m/i/mixeur-plongeant-lexical-3-en-1-lhb-1665-blanc-003.jpg",
+   "url": "https://www.mytek.tn/mixeur-plongeant-lexical-3-en-1-lhb-1665-blanc.html"
+  },
+  {
    "id": "73796",
    "sku": "K371",
    "name": "Porte bidon vélo K371 ajustable - Blanc",
@@ -16830,7 +16683,7 @@
    "id": "75743",
    "sku": "803120",
    "name": "Boîte d'Archives RIBAT Z 10 à Bouton - Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -16846,7 +16699,7 @@
    "id": "75744",
    "sku": "806046",
    "name": "Boîte D'Archives RIBAT Z 10 à Bouton - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -16862,7 +16715,7 @@
    "id": "75747",
    "sku": "806022",
    "name": "Boîte d'Archives RIBAT Z 10 à Bouton - Rouge",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -16878,7 +16731,7 @@
    "id": "75749",
    "sku": "806039",
    "name": "Boîte D'Archives RIBAT Z 10 à Bouton - Vert",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -16894,7 +16747,7 @@
    "id": "75754",
    "sku": "808064",
    "name": "Boîte D'Archives RIBAT Z 10 à Bouton - Orange",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -16910,7 +16763,7 @@
    "id": "75755",
    "sku": "808071",
    "name": "Boîte D'Archives RIBAT Z 10 à Bouton - Violet",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -17349,21 +17202,6 @@
    "url": "https://www.mytek.tn/kit-d-outils-de-timbres-maped-creatifs-pour-les-jeunes-enfants.html"
   },
   {
-   "id": "67425",
-   "sku": "R-1217G-BLEU",
-   "name": "Fer a repasser RAF R-1217G 2200Watts - Bleu",
-   "brand": "RAF",
-   "categories": [
-    "Hygiene et soin maison"
-   ],
-   "old_price": 119,
-   "new_price": 69,
-   "discount_pct": 42.0,
-   "savings": 50,
-   "image": "https://www.mytek.tn/media/catalog/product/f/e/fer-a-repasser-raf-r-1217g-2200watts-bleu--s.jpg",
-   "url": "https://www.mytek.tn/fer-a-repasser-raf-r-1217g-2200watts-bleu.html"
-  },
-  {
    "id": "75884",
    "sku": "CHAISE-PLAGE-ACC-R",
    "name": "Chaise De Plage Avec Accoudoirs - Rouge",
@@ -17696,7 +17534,7 @@
    "id": "75763",
    "sku": "806008",
    "name": "Boîte D'Archives RIBAT Z 5  à Bouton -Vert",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -17712,7 +17550,7 @@
    "id": "75769",
    "sku": "806015",
    "name": "Boîte D'Archives RIBAT Z 5 à Bouton -Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -19021,22 +18859,6 @@
    "url": "https://www.mytek.tn/imprimante-multifonction-jet-d-encre-canon-pixma-mg2541s-couleur.html"
   },
   {
-   "id": "78088",
-   "sku": "LED-PROJECTEUR",
-   "name": "Mini Vidéo Projecteur LED Portable FHD LCD (LED-PROJECTEUR)",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Projection",
-    "Vidéo Projecteurs"
-   ],
-   "old_price": 199,
-   "new_price": 119,
-   "discount_pct": 40.2,
-   "savings": 80,
-   "image": "https://www.mytek.tn/media/catalog/product/m/i/mini-video-projecteur-portable-fhd-lcd-led-projecteur.jpg",
-   "url": "https://www.mytek.tn/mini-video-projecteur-portable-fhd-lcd-led-projecteur.html"
-  },
-  {
    "id": "3707",
    "sku": "TD-W8961N",
    "name": "Modem Routeur Sans Fil TP-LINK TD-W8961N ADSL2+ WiFi N 300 Mbps",
@@ -19131,22 +18953,6 @@
    "url": "https://www.mytek.tn/toner-originale-kyocera-tk-1120-pour-fs-1060dn-fs-1025mfp-fs-1125mfp.html"
   },
   {
-   "id": "65785",
-   "sku": "YMKC060-01",
-   "name": "Coffret Ménagère IRONIX 72 pièces - Inox 18/10",
-   "brand": "IRONIX",
-   "categories": [
-    "Cuisine",
-    "Vaisselle & Art de la Table"
-   ],
-   "old_price": 399,
-   "new_price": 239,
-   "discount_pct": 40.1,
-   "savings": 160,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-menagere-ironix-72-pieces-inox-18-10-z.jpg",
-   "url": "https://www.mytek.tn/coffret-menagere-ironix-72-pieces-inox-18-10.html"
-  },
-  {
    "id": "31221",
    "sku": "KEEN800USB",
    "name": "Onduleur NJOY IN LINE Keen 800 800VA/480W - Noir",
@@ -19192,6 +18998,21 @@
    "savings": 10,
    "image": "https://www.mytek.tn/media/catalog/product/t/e/telecommande-universelle-pour-climatiseurs-kt-109ii-blanc.jpg",
    "url": "https://www.mytek.tn/telecommande-universelle-pour-climatiseurs-kt-109ii-blanc.html"
+  },
+  {
+   "id": "78248",
+   "sku": "E0012N",
+   "name": "Agrafe DELI 24/6 1000 Pièces 70G - E0012N",
+   "brand": "DELI",
+   "categories": [
+    "Adhésifs & Agrafage"
+   ],
+   "old_price": 1.5,
+   "new_price": 0.9,
+   "discount_pct": 40.0,
+   "savings": 0.6,
+   "image": "https://www.mytek.tn/media/catalog/product/a/g/agrafe-deli-24-6-1000-pieces-70g-e0012n.jpg",
+   "url": "https://www.mytek.tn/agrafe-deli-24-6-1000-pieces-70g-e0012n.html"
   },
   {
    "id": "73197",
@@ -19492,21 +19313,6 @@
    "savings": 59,
    "image": "https://www.mytek.tn/media/catalog/product/r/o/routeur-d-link-ac750-750-mbps-noir-dir-806aena.jpg",
    "url": "https://www.mytek.tn/routeur-d-link-ac750-750-mbps-noir-dir-806aena.html"
-  },
-  {
-   "id": "68556",
-   "sku": "PB-08-B",
-   "name": "Power Bank INKAX PB-08 30000 mAh Charge Rapide - Blanc",
-   "brand": "INKAX",
-   "categories": [
-    "Accessoires Téléphonie"
-   ],
-   "old_price": 90.9,
-   "new_price": 55,
-   "discount_pct": 39.5,
-   "savings": 35.9,
-   "image": "https://www.mytek.tn/media/catalog/product/p/o/power-bank-inkax-pb-08-30000-mah-charge-rapide-blanc-0033.jpg",
-   "url": "https://www.mytek.tn/power-bank-inkax-pb-08-30000-mah-charge-rapide-blanc.html"
   },
   {
    "id": "69131",
@@ -20580,7 +20386,7 @@
    "id": "75766",
    "sku": "805995",
    "name": "Boîte D'Archives RIBAT Z 5 à Bouton - Rouge",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -20612,7 +20418,7 @@
    "id": "75283",
    "sku": "FS-1813",
    "name": "2x Ventilateurs 3en1 UTECH FS-1813 - Silver",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "UTECH",
    "categories": [
     "Climatisation",
     "Ventilateur"
@@ -20994,7 +20800,7 @@
    "new_price": 249,
    "discount_pct": 37.6,
    "savings": 150,
-   "image": "https://www.mytek.tn/media/catalog/product/t/o/tondeuse-a-gazon-wadfow-1200w-wen3201-b.jpg",
+   "image": "https://www.mytek.tn/media/catalog/product/t/o/tondeuse-a-gazon-wadfow-1200w-wen3201-d.jpg",
    "url": "https://www.mytek.tn/tondeuse-a-gazon-wadfow-1200w-wen3201.html"
   },
   {
@@ -22540,7 +22346,7 @@
    "id": "75929",
    "sku": "5802796",
    "name": "Séparation intercalaire RIBAT 06 Positions A4 - Couleur",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages",
     "Intercalaire"
@@ -22788,21 +22594,6 @@
    "url": "https://www.mytek.tn/porte-revue-opaque-fabio-rose-pastel-51p032.html"
   },
   {
-   "id": "47728",
-   "sku": "LD85B",
-   "name": "Exfoliant JATA LD85B Pour Pieds - Bleu",
-   "brand": "JATA",
-   "categories": [
-    "Hygiène - Soin - Beauté"
-   ],
-   "old_price": 45,
-   "new_price": 29,
-   "discount_pct": 35.6,
-   "savings": 16,
-   "image": "https://www.mytek.tn/media/catalog/product/e/x/exfoliant_jata_ld85b_pour_pieds_-_bleu.jpg",
-   "url": "https://www.mytek.tn/exfoliant-jata-ld85b-pour-pieds-bleu.html"
-  },
-  {
    "id": "47972",
    "sku": "DP-7011",
    "name": "Compteuse de Billets HARDYBILL DP-7011",
@@ -22911,21 +22702,6 @@
    "savings": 7.0,
    "image": "https://www.mytek.tn/media/catalog/product/t/_/t_te_de_parabole_ecosat_band_twin_lnb_kl_216r-11.jpg",
    "url": "https://www.mytek.tn/tete-de-parabole-ecosat-band-twin-lnb-kl-216r.html"
-  },
-  {
-   "id": "62499",
-   "sku": "KAKU-CHR-MICRO-BK",
-   "name": "Chargeur KAKUSIGA Fast avec Cable USB-A vers Micro 1M - Noir",
-   "brand": "KAKUSIGA",
-   "categories": [
-    "Accessoires Téléphonie"
-   ],
-   "old_price": 19.9,
-   "new_price": 12.9,
-   "discount_pct": 35.2,
-   "savings": 7.0,
-   "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-kakusiga-fast-avec-cable-usb-a-vers-micro-1m-noir.jpg",
-   "url": "https://www.mytek.tn/chargeur-kakusiga-fast-avec-cable-usb-a-vers-micro-1m-noir.html"
   },
   {
    "id": "64267",
@@ -23115,22 +22891,6 @@
    "url": "https://www.mytek.tn/imprimante-thermique-rp80-usb-noir.html"
   },
   {
-   "id": "40685",
-   "sku": "V12",
-   "name": "Modem-routeur TENDA V12 AC1200 Dualband Wi-Fi Gigabit  VDSL/ADSL - Noir",
-   "brand": "TENDA",
-   "categories": [
-    "Reseaux",
-    "Routeur"
-   ],
-   "old_price": 399,
-   "new_price": 259,
-   "discount_pct": 35.1,
-   "savings": 140,
-   "image": "https://www.mytek.tn/media/catalog/product/m/o/modem-routeur-tenda-v12-ac1200-dualband-wi-fi-gigabit--vdsl-adsl---noir_v12_.jpg",
-   "url": "https://www.mytek.tn/modem-routeur-tenda-v12-ac1200-dualband-wi-fi-gigabit-vdsl-adsl-noir-v12.html"
-  },
-  {
    "id": "73987",
    "sku": "300-DAT",
    "name": "Dateur Français 5 mm (2024-2035) - 300-DAT",
@@ -23150,7 +22910,7 @@
    "id": "75647",
    "sku": "800730",
    "name": "Paquet De 10 Chemises RIBAT Bristol Vives 160Gr 24*32 - Assorties",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -23166,7 +22926,7 @@
    "id": "75834",
    "sku": "806992",
    "name": "Paquet de 30 Chemises RIBAT Krafet Verge 55 G 24 x 32 Cm",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -23239,6 +22999,22 @@
    "savings": 1400,
    "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-jet-d-encre-epson-ecotank-its-l6550-4en1-couleur-wifi-c11cj30403-012.jpg",
    "url": "https://www.mytek.tn/imprimante-jet-d-encre-epson-ecotank-its-l6550-4en1-couleur-wifi-c11cj30403.html"
+  },
+  {
+   "id": "29385",
+   "sku": "ARGUS1200",
+   "name": "Onduleur IN LINE NJOY ARGUS 1200 1200VA/720W Noir",
+   "brand": "NJOY",
+   "categories": [
+    "Onduleur In-Line",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 1999,
+   "new_price": 1299,
+   "discount_pct": 35.0,
+   "savings": 700,
+   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-in-line-njoy-argus-1200-1200va-720w-d.jpg",
+   "url": "https://www.mytek.tn/onduleur-in-line-njoy-argus-1200-1200va-720w.html"
   },
   {
    "id": "15719",
@@ -23620,6 +23396,51 @@
    "url": "https://www.mytek.tn/carte-reseau-d-link-dge-528t-pci-10-100-1000mbps.html"
   },
   {
+   "id": "78176",
+   "sku": "S1508",
+   "name": "Sac À Dos Scolaire 2 Compartiments Hello Kitty - Rose",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 69,
+   "new_price": 45,
+   "discount_pct": 34.8,
+   "savings": 24,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac_dos_scolaire_hello_kitty_3d_rose_primaire.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-2-compartiments-hello-kitty-rose.html"
+  },
+  {
+   "id": "78177",
+   "sku": "SM10036",
+   "name": "Sac À Dos scolaire 2 Compartiments Mickey - Bleu",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 69,
+   "new_price": 45,
+   "discount_pct": 34.8,
+   "savings": 24,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-2-compartiments-mickey-bleu.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-2-compartiments-mickey-bleu.html"
+  },
+  {
+   "id": "78185",
+   "sku": "S253",
+   "name": "Sac À  Dos Scolaire 4 Compartiments - Gris",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 69,
+   "new_price": 45,
+   "discount_pct": 34.8,
+   "savings": 24,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-4-compartiments-gris.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-4-compartiments-gris.html"
+  },
+  {
    "id": "48377",
    "sku": "20G07A",
    "name": "Scanner HP SCANJET PRO N4600 FNW1 à Plat Couleur",
@@ -23805,21 +23626,6 @@
    "savings": 8.9,
    "image": "https://www.mytek.tn/media/catalog/product/4/-/4-pots-p_tes-a-modeler-maped-creativ-pat_dough----assortis.jpg",
    "url": "https://www.mytek.tn/4-pots-pates-a-modeler-maped-creativ-pat-dough-assortis.html"
-  },
-  {
-   "id": "43449",
-   "sku": "TS433-4G",
-   "name": "Serveur NAS QNAP TS433-4G Tour Quad Core 4 Baies 4 Go - Blanc",
-   "brand": "QNAP",
-   "categories": [
-    "Reseaux"
-   ],
-   "old_price": 2500,
-   "new_price": 1639,
-   "discount_pct": 34.4,
-   "savings": 861,
-   "image": "https://www.mytek.tn/media/catalog/product/s/e/serveur-nas-qnap-ts433-4g.gif",
-   "url": "https://www.mytek.tn/serveur-nas-qnap-ts433-4g.html"
   },
   {
    "id": "66489",
@@ -24328,7 +24134,7 @@
    "id": "75995",
    "sku": "801010",
    "name": "Paquet 100 Feuilles RIBAT Couché Brillant A4 170G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -24343,7 +24149,7 @@
    "id": "76817",
    "sku": "801096",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A4 135G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -24717,7 +24523,7 @@
    "id": "75577",
    "sku": "807029",
    "name": "Paquet De 20 Chemises Cartonné RIBAT Bristol Pastel - Assorties",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -24774,22 +24580,6 @@
    "savings": 3.0,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/parascolaire-les-examens-elfawouz-bnajah-sixi_me-ann_e-t03---toutes-les-mati_res.jpg",
    "url": "https://www.mytek.tn/parascolaire-les-examens-elfawouz-bnajah-sixieme-annee-t03-toutes-les-matieres.html"
-  },
-  {
-   "id": "68627",
-   "sku": "YL-906",
-   "name": "Support Pour PC Portable Rotatif 360° Degré Avec 2 Ventillateurs - Gris",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Accessoires Divers",
-    "Périphériques & Accessoires"
-   ],
-   "old_price": 149,
-   "new_price": 99,
-   "discount_pct": 33.6,
-   "savings": 50,
-   "image": "https://www.mytek.tn/media/catalog/product/s/u/support-pour-pc-portable-rotatif-360-degre-avec-2-ventillateurs-gris-1.jpg",
-   "url": "https://www.mytek.tn/support-pour-pc-portable-rotatif-360-degre-avec-2-ventillateurs-gris.html"
   },
   {
    "id": "74852",
@@ -24921,7 +24711,7 @@
    "id": "75988",
    "sku": "801003",
    "name": "Paquet 100 Feuilles RIBAT Couché Brillant A4 135 G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -24936,7 +24726,7 @@
    "id": "76090",
    "sku": "801119",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A4 170G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -24951,7 +24741,7 @@
    "id": "76994",
    "sku": "801072",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A4 115G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -24961,6 +24751,21 @@
    "savings": 5.0,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-100-feuilles-ribat-couche-mat-a4-115g.jpg",
    "url": "https://www.mytek.tn/paquet-de-100-feuilles-ribat-couche-mat-a4-115g.html"
+  },
+  {
+   "id": "68627",
+   "sku": "YL-906",
+   "name": "Support Pour PC Portable Rotatif 360° Degré Avec 2 Ventillateurs - Gris",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Périphériques & Accessoires"
+   ],
+   "old_price": 149,
+   "new_price": 99,
+   "discount_pct": 33.6,
+   "savings": 50,
+   "image": "https://www.mytek.tn/media/catalog/product/s/u/support-pour-pc-portable-rotatif-360-degre-avec-2-ventillateurs-gris-1.jpg",
+   "url": "https://www.mytek.tn/support-pour-pc-portable-rotatif-360-degre-avec-2-ventillateurs-gris.html"
   },
   {
    "id": "68807",
@@ -25803,6 +25608,21 @@
    "url": "https://www.mytek.tn/hotte-casquette-whirlpool-wslk-95-ls-g-90-cm-inox.html"
   },
   {
+   "id": "43449",
+   "sku": "TS433-4G",
+   "name": "Serveur NAS QNAP TS433-4G Tour Quad Core 4 Baies 4 Go - Blanc",
+   "brand": "QNAP",
+   "categories": [
+    "Reseaux"
+   ],
+   "old_price": 2500,
+   "new_price": 1669,
+   "discount_pct": 33.2,
+   "savings": 831,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/serveur-nas-qnap-ts433-4g.gif",
+   "url": "https://www.mytek.tn/serveur-nas-qnap-ts433-4g.html"
+  },
+  {
    "id": "16756",
    "sku": "CE505D",
    "name": "Pack de 2 Toners Original LaserJet HP 05A Noir (CE505D)",
@@ -26193,7 +26013,7 @@
    "id": "75730",
    "sku": "806640",
    "name": "Boite d'archives RIBAT A 2 Bouton Z 15 - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -26209,7 +26029,7 @@
    "id": "75734",
    "sku": "803137",
    "name": "Boîte d'Archives RIBAT Z 15 à 2 Boutons Dos 15cm -Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -26225,7 +26045,7 @@
    "id": "75735",
    "sku": "206657",
    "name": "Boîte d'Archives RIBAT Z 15 à 2 Boutons Dos 15cm - Rouge",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -26241,7 +26061,7 @@
    "id": "75737",
    "sku": "806664",
    "name": "Boîte d'Archives RIBAT Z 15 à 2 Boutons Dos 15cm - Vert",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -26922,22 +26742,6 @@
    "url": "https://www.mytek.tn/corbeille-a-papier-metal-moyen-modele-carre-noir.html"
   },
   {
-   "id": "29385",
-   "sku": "ARGUS1200",
-   "name": "Onduleur IN LINE NJOY ARGUS 1200 1200VA/720W Noir",
-   "brand": "NJOY",
-   "categories": [
-    "Onduleur In-Line",
-    "Onduleurs & Protection Électrique"
-   ],
-   "old_price": 1999,
-   "new_price": 1359,
-   "discount_pct": 32.0,
-   "savings": 640,
-   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-in-line-njoy-argus-1200-1200va-720w-d.jpg",
-   "url": "https://www.mytek.tn/onduleur-in-line-njoy-argus-1200-1200va-720w.html"
-  },
-  {
    "id": "58748",
    "sku": "GS27QCA",
    "name": "Ecran Gaming GIGABYTE GS27QCA 27'' QHD Incurvé 180 Hz",
@@ -27455,7 +27259,7 @@
    "id": "75862",
    "sku": "803069",
    "name": "Boîte D'Archives RIBAT Z 10 à Bouton Avec Blocage Document",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Boîte d'archives",
     "Classements & Archivages"
@@ -28170,22 +27974,6 @@
    "url": "https://www.mytek.tn/toner-hp-d-origine-973x-pagewide-magenta-f6t82ae.html"
   },
   {
-   "id": "75467",
-   "sku": "VENT-VOLANT",
-   "name": "2x Ventilateur HGE Volant V-Vol - Noir",
-   "brand": "HGE",
-   "categories": [
-    "Climatisation",
-    "Ventilateur"
-   ],
-   "old_price": 229,
-   "new_price": 159,
-   "discount_pct": 30.6,
-   "savings": 70,
-   "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur-sur-pied-hge-volant-v-vol---3-vitesses.jpg",
-   "url": "https://www.mytek.tn/ventilateur-sur-pieds-hge-volant-v-vol-noir.html"
-  },
-  {
    "id": "70283",
    "sku": "BU-HS15",
    "name": "Pack Sèche Cheveux & Lisseur BEURER HS15 - Gris",
@@ -28591,7 +28379,7 @@
    "id": "75847",
    "sku": "807623",
    "name": "Paquet de 30 Sous Chemises RIBAT 60 G 22 x 32 Cm - Assortis",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -28859,6 +28647,126 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/r/o/routeur-wifi-tenda-f3-300-mbps-3-5dbi-antennes-blanc-tenda-f3-c.jpg",
    "url": "https://www.mytek.tn/routeur-wifi-tenda-f3-300-mbps-3-5dbi-antennes-blanc-tenda-f3.html"
+  },
+  {
+   "id": "78181",
+   "sku": "S1138",
+   "name": "Sac À Dos Scolaire Monster Truck 3 Compartiments Avec Panier Et Trousse - Noir",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 99,
+   "new_price": 69,
+   "discount_pct": 30.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-monster-truck-3-compartiments-avec-panier-et-trousse-noir.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-monster-truck-3-compartiments-avec-panier-et-trousse-noir.html"
+  },
+  {
+   "id": "78188",
+   "sku": "S1135",
+   "name": "Sac À Dos Scolaire Motif Ballon Truck 3 Compartiments Avec Panier Et Trousse - Noir",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 99,
+   "new_price": 69,
+   "discount_pct": 30.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-ballon-truck-3-compartiments-avec-panier-et-trousse-noir.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-ballon-truck-3-compartiments-avec-panier-et-trousse-noir.html"
+  },
+  {
+   "id": "78190",
+   "sku": "S1136",
+   "name": "Sac À Dos Scolaire Motif Cool Cars Truck 3 Compartiments Avec Panier Et Trousse - Noir",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 99,
+   "new_price": 69,
+   "discount_pct": 30.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse-noir.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse-noir.html"
+  },
+  {
+   "id": "78199",
+   "sku": "S1137",
+   "name": "Sac À Dos Scolaire Motif Cool Cars Truck 3 Compartiments Avec Panier Et Trousse",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 99,
+   "new_price": 69,
+   "discount_pct": 30.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse.html"
+  },
+  {
+   "id": "78201",
+   "sku": "S1133",
+   "name": "Sac À Dos Scolaire 3 Compartiments Avec Panier Et Trousse - bleu marine",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 99,
+   "new_price": 69,
+   "discount_pct": 30.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse-bleu-marine.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse-bleu-marine.html"
+  },
+  {
+   "id": "78202",
+   "sku": "S1131",
+   "name": "Sac À Dos Scolaire Motif Paris 3 Compartiments Avec Panier Et Trousse - Bleu Turquoise",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 99,
+   "new_price": 69,
+   "discount_pct": 30.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-paris-3-compartiments-avec-panier-et-trousse-bleu-turquoise.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-paris-3-compartiments-avec-panier-et-trousse-bleu-turquoise.html"
+  },
+  {
+   "id": "78212",
+   "sku": "S1132",
+   "name": "Sac À Dos Scolaire Papillon 3 Compartiments Avec Panier Et Trousse - Violet",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 99,
+   "new_price": 69,
+   "discount_pct": 30.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-papillon-3-compartiments-avec-panier-et-trousse-violet.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-papillon-3-compartiments-avec-panier-et-trousse-violet.html"
+  },
+  {
+   "id": "78215",
+   "sku": "S1134",
+   "name": "Sac À Dos Scolaire Love Bear 3 Compartiments Avec Panier Et Trousse - Rose",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 99,
+   "new_price": 69,
+   "discount_pct": 30.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-love-bear-3-compartiments-avec-panier-et-trousse-rose.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-love-bear-3-compartiments-avec-panier-et-trousse-rose.html"
   },
   {
    "id": "72743",
@@ -29261,7 +29169,7 @@
    "id": "75384",
    "sku": "MILANO-5-BEIGE",
    "name": "Set de 5 Valises MILANO BAG avec 4 roues à 360° - Beige",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -29276,7 +29184,7 @@
    "id": "75387",
    "sku": "MILANO-5-NOIR",
    "name": "Set de 5 valises MILANO BAG avec 4 roues à 360° - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -29291,7 +29199,7 @@
    "id": "75388",
    "sku": "MILANO-5-BLEU",
    "name": "Set de 5 valises MILANO BAG avec 4 roues à 360° - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -29306,7 +29214,7 @@
    "id": "75389",
    "sku": "MILANO-5-ROSE",
    "name": "Set de 5 valises MILANO BAG avec 4 roues à 360° - Rouge bordeaux",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -29321,7 +29229,7 @@
    "id": "75390",
    "sku": "MILANO-5-GREY",
    "name": "Set de 5 valises MILANO BAG avec 4 roues à 360° - Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -30145,7 +30053,7 @@
    "id": "75938",
    "sku": "802802",
    "name": "Séparation intercalaire RIBAT 12 Positions A4 - Couleur",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages",
     "Intercalaire"
@@ -30666,7 +30574,7 @@
    "id": "75608",
    "sku": "806350",
    "name": "Paquet De 100 Chemises Cartonné RIBAT Bristol Pastel 160Gr 24*32 - Rose",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -30682,7 +30590,7 @@
    "id": "75613",
    "sku": "806398",
    "name": "Paquet De 100 Chemises Cartonné RIBAT Bristol Pastel 160Gr 24*32 - Vert",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -30698,7 +30606,7 @@
    "id": "76984",
    "sku": "806367",
    "name": "Paquet de 100 Chemises RIBAT Bristol 160 G 24 x 32 Cm - Bleu Pastel",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -30987,6 +30895,22 @@
    "url": "https://www.mytek.tn/jouet-anti-stress-pop-it-glace-claire.html"
   },
   {
+   "id": "39881",
+   "sku": "KEEN1000",
+   "name": "Onduleur IN-LINE NJOY Keen 1000 1000VA/600W",
+   "brand": "NJOY",
+   "categories": [
+    "Onduleur In-Line",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 559,
+   "new_price": 399,
+   "discount_pct": 28.6,
+   "savings": 160,
+   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur_njoy_keen_1000_in_line_1000va-600w_2.jpg",
+   "url": "https://www.mytek.tn/onduleur-in-line-njoy-keen-1000-1000va-600w.html"
+  },
+  {
    "id": "67086",
    "sku": "TL-SG1008MP",
    "name": "Switch TP-Link TL-SG1008MP 8 Ports (Gigabyte) POE+ 126W",
@@ -31094,26 +31018,10 @@
    "url": "https://www.mytek.tn/chaise-machmoum-sotufab-blanc.html"
   },
   {
-   "id": "39881",
-   "sku": "KEEN1000",
-   "name": "Onduleur IN-LINE NJOY Keen 1000 1000VA/600W",
-   "brand": "NJOY",
-   "categories": [
-    "Onduleur In-Line",
-    "Onduleurs & Protection Électrique"
-   ],
-   "old_price": 559,
-   "new_price": 400,
-   "discount_pct": 28.4,
-   "savings": 159,
-   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur_njoy_keen_1000_in_line_1000va-600w_2.jpg",
-   "url": "https://www.mytek.tn/onduleur-in-line-njoy-keen-1000-1000va-600w.html"
-  },
-  {
    "id": "76112",
    "sku": "802789",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A4 300G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -31506,7 +31414,7 @@
    "id": "76100",
    "sku": "801133",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A4 200G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -32023,7 +31931,7 @@
    "id": "75776",
    "sku": "801577",
    "name": "Parapheur De Signature RIBAT De 12 Volets Mousse",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -32115,7 +32023,7 @@
    "id": "76128",
    "sku": "801201",
    "name": "Paquet de 100 Feuilles RIBAT Vergés Crème A4 90G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -33502,22 +33410,6 @@
    "url": "https://www.mytek.tn/calculatrice-casio-simple-12-chiffres-noir.html"
   },
   {
-   "id": "22353",
-   "sku": "DR-C225II",
-   "name": "Scanner de bureau CANON DR-C225 II A4 - Noir (DR-C225II)",
-   "brand": "CANON",
-   "categories": [
-    "Scanner De Document",
-    "Scanners"
-   ],
-   "old_price": 1199,
-   "new_price": 889,
-   "discount_pct": 25.9,
-   "savings": 310,
-   "image": "https://www.mytek.tn/media/catalog/product/s/c/scanner-de-bureau-canon-dr-c225-ii-a4-noir-dr-c225ii--d.jpg",
-   "url": "https://www.mytek.tn/scanner-de-bureau-canon-dr-c225-ii-a4-noir-dr-c225ii.html"
-  },
-  {
    "id": "66605",
    "sku": "KX2200K-QS",
    "name": "Décapeur Thermique BLACK&DECKER 2000W - KX2200K-QS",
@@ -33822,7 +33714,7 @@
    "id": "76104",
    "sku": "801157",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A4 250G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -34047,7 +33939,7 @@
    "id": "75565",
    "sku": "983359",
    "name": "Globe Terrestre Lumineux TECNODIDATTICA Cobalto 25cm - 983359",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "TECNODIDATTICA",
    "categories": [
     "Accessoires de Bureau"
    ],
@@ -34359,7 +34251,7 @@
    "id": "75849",
    "sku": "807616",
    "name": "Paquet de 100 Sous Chemises RIBAT 60 G 22 x 32 Cm - Assortis",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -34375,7 +34267,7 @@
    "id": "75799",
    "sku": "801591",
    "name": "Parapheur De Signature RIBAT De 16 Volets Mousse",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -34400,6 +34292,70 @@
    "savings": 100,
    "image": "https://www.mytek.tn/media/catalog/product/r/a/rafra_chisseur-d_air-fresh-fr-tu25-25l-design-et-efficacit_-blanc-1.jpg",
    "url": "https://www.mytek.tn/climeur-mobile-fresh-fr-tu25-25-litres-turbo-blanc.html"
+  },
+  {
+   "id": "78252",
+   "sku": "EU10130",
+   "name": "Pack de 12 Marqueurs Permanents DELI Bleu EU10130",
+   "brand": "DELI",
+   "categories": [
+    "Ecriture & Correction",
+    "Marqueurs"
+   ],
+   "old_price": 19.9,
+   "new_price": 14.9,
+   "discount_pct": 25.1,
+   "savings": 5.0,
+   "image": "https://www.mytek.tn/media/catalog/product/m/a/marqueur-permanent-deli-bleu-eu10130--1.jpg",
+   "url": "https://www.mytek.tn/marqueur-permanent-deli-bleu-eu10130.html"
+  },
+  {
+   "id": "78264",
+   "sku": "EU10120",
+   "name": "Pack de 12 Marqueurs Permanents DELI Noir EU10120",
+   "brand": "DELI",
+   "categories": [
+    "Ecriture & Correction",
+    "Marqueurs"
+   ],
+   "old_price": 19.9,
+   "new_price": 14.9,
+   "discount_pct": 25.1,
+   "savings": 5.0,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-marqueurs-permanents-deli-noir-eu10120.jpg",
+   "url": "https://www.mytek.tn/pack-de-12-marqueurs-permanents-deli-noir-eu10120.html"
+  },
+  {
+   "id": "78265",
+   "sku": "EU10140",
+   "name": "Pack de 12 Marqueurs Permanents DELI Rouge EU10140",
+   "brand": "DELI",
+   "categories": [
+    "Ecriture & Correction",
+    "Marqueurs"
+   ],
+   "old_price": 19.9,
+   "new_price": 14.9,
+   "discount_pct": 25.1,
+   "savings": 5.0,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-marqueurs-permanents-deli-rouge-eu10140.jpg",
+   "url": "https://www.mytek.tn/pack-de-12-marqueurs-permanents-deli-rouge-eu10140.html"
+  },
+  {
+   "id": "78269",
+   "sku": "EU10101",
+   "name": "Pochette De 4 Marqueurs Permanent DELI EU10101 Assorties",
+   "brand": "DELI",
+   "categories": [
+    "Ecriture & Correction",
+    "Marqueurs"
+   ],
+   "old_price": 19.9,
+   "new_price": 14.9,
+   "discount_pct": 25.1,
+   "savings": 5.0,
+   "image": "https://www.mytek.tn/media/catalog/product/p/o/pochette-de-4-marqueurs-permanent-deli-eu10101-assorties.jpg",
+   "url": "https://www.mytek.tn/pochette-de-4-marqueurs-permanent-deli-eu10101-assorties.html"
   },
   {
    "id": "37969",
@@ -34433,54 +34389,6 @@
    "savings": 90,
    "image": "https://www.mytek.tn/media/catalog/product/m/i/mini_hachoir_moulinex_dp712825_1000w_-_noir1.jpg",
    "url": "https://www.mytek.tn/mini-hachoir-moulinex-dp712825-1000w-noir.html"
-  },
-  {
-   "id": "69312",
-   "sku": "MK30",
-   "name": "Haut Parleur Portable Meimi MK30 pour enfant avec 2 micros - Rose",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
-   "categories": [
-    "Haut-Parleur",
-    "Son Numérique"
-   ],
-   "old_price": 199,
-   "new_price": 149,
-   "discount_pct": 25.1,
-   "savings": 50,
-   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-portable-meimi-mk30-pour-enfant-avec-2-micros-rose-4.jpg",
-   "url": "https://www.mytek.tn/haut-parleur-portable-meimi-mk30-pour-enfant-avec-2-micros-rose.html"
-  },
-  {
-   "id": "69330",
-   "sku": "MK20-N",
-   "name": "Haut Parleur Portable Meimi MK20 pour enfant avec 2 micros - Noir",
-   "brand": "MEIMI",
-   "categories": [
-    "Haut-Parleur",
-    "Son Numérique"
-   ],
-   "old_price": 199,
-   "new_price": 149,
-   "discount_pct": 25.1,
-   "savings": 50,
-   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-portable-meimi-mk20-pour-enfant-avec-2-micros-noir-2dsq.jpg",
-   "url": "https://www.mytek.tn/haut-parleur-portable-meimi-mk20-pour-enfant-avec-2-micros-noir.html"
-  },
-  {
-   "id": "69340",
-   "sku": "MK30-B",
-   "name": "Haut Parleur Portable Meimi MK30 pour enfant avec 2 micros - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
-   "categories": [
-    "Haut-Parleur",
-    "Son Numérique"
-   ],
-   "old_price": 199,
-   "new_price": 149,
-   "discount_pct": 25.1,
-   "savings": 50,
-   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-portable-meimi-mk30-pour-enfant-avec-2-micros-bleu-1.jpg",
-   "url": "https://www.mytek.tn/haut-parleur-portable-meimi-mk30-pour-enfant-avec-2-micros-bleu.html"
   },
   {
    "id": "72221",
@@ -34550,7 +34458,7 @@
    "id": "76076",
    "sku": "801041",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A4 250G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -34565,7 +34473,7 @@
    "id": "76801",
    "sku": "802826",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A3 90G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -34580,7 +34488,7 @@
    "id": "76851",
    "sku": "803472",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A3 90G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -35194,21 +35102,6 @@
    "url": "https://www.mytek.tn/onduleur-njoy-on-line-echo-pro-2000-va.html"
   },
   {
-   "id": "74181",
-   "sku": "MA3500CIX",
-   "name": "Photocopieur KYOCERA Ecosys MA3500cix 3en1 Laser Couleur",
-   "brand": "KYOCERA",
-   "categories": [
-    "Photocopieurs"
-   ],
-   "old_price": 2399,
-   "new_price": 1799,
-   "discount_pct": 25.0,
-   "savings": 600,
-   "image": "https://www.mytek.tn/media/catalog/product/p/h/photocopieur-kyocera-ecosys-ma3500cix-3en1-laser-couleur-1.jpg",
-   "url": "https://www.mytek.tn/photocopieur-kyocera-ecosys-ma3500cix-3en1-laser-couleur.html"
-  },
-  {
    "id": "68795",
    "sku": "IRISPR8",
    "name": "Scanner IRIS Pen Reader 8 - Noir",
@@ -35514,6 +35407,21 @@
    "url": "https://www.mytek.tn/pack-de-5-rouleaux-papier-thermique-80-x-60-mm.html"
   },
   {
+   "id": "78275",
+   "sku": "V450",
+   "name": "Tableau Blanc Magnétique DELI 45 x 60 cm",
+   "brand": "DELI",
+   "categories": [
+    "Tableaux"
+   ],
+   "old_price": 49,
+   "new_price": 36.9,
+   "discount_pct": 24.7,
+   "savings": 12.1,
+   "image": "https://www.mytek.tn/media/catalog/product/t/a/tableau-blanc-magnetique-deli-45-x-60-cm-2_1.jpg",
+   "url": "https://www.mytek.tn/tableau-blanc-magnetique-deli-45-x-60-cm.html"
+  },
+  {
    "id": "73943",
    "sku": "19C",
    "name": "Boîte De 40 Clips 19 mm Couleur - 19C",
@@ -35645,7 +35553,7 @@
    "id": "75585",
    "sku": "802277",
    "name": "Paquet De 50 Chemises Cartonné RIBAT Bristol Pastel - Assorties",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -35779,6 +35687,21 @@
    "savings": 1.2,
    "image": "https://www.mytek.tn/media/catalog/product/c/u/cube-ark-en-plastique-bleu.jpg",
    "url": "https://www.mytek.tn/cube-ark-en-plastique-bleu.html"
+  },
+  {
+   "id": "62982",
+   "sku": "EPSR630102",
+   "name": "CISAILLE A HAIE 557MM EMTOP EPSR630102",
+   "brand": "EMTOP",
+   "categories": [
+    "Bricolage & jardin"
+   ],
+   "old_price": 49,
+   "new_price": 37,
+   "discount_pct": 24.5,
+   "savings": 12,
+   "image": "https://www.mytek.tn/media/catalog/product/c/i/cisaille_a_haie_557mm_emtop_epsr630102.jpg",
+   "url": "https://www.mytek.tn/cisaille-a-haie-557mm-emtop-epsr630102.html"
   },
   {
    "id": "5444",
@@ -36193,7 +36116,7 @@
    "id": "75725",
    "sku": "806961",
    "name": "Paquet De 25 Chemises RIBAT Bristol Pastel 160Gr 24*32 Avec 50 Chemises KRAFT",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -36754,21 +36677,6 @@
    "url": "https://www.mytek.tn/switch-de-bureau-edimax-edes-1008phe-v2-8-ports-avec-4-ports-poe.html"
   },
   {
-   "id": "76482",
-   "sku": "PBQ-68",
-   "name": "Power Bank INKAX PBQ-68 20000 mAh - Noir",
-   "brand": "INKAX",
-   "categories": [
-    "Accessoires Téléphonie"
-   ],
-   "old_price": 59,
-   "new_price": 45,
-   "discount_pct": 23.7,
-   "savings": 14,
-   "image": "https://www.mytek.tn/media/catalog/product/p/o/power-bank-inkax-pbq-86-20000-mah-noir-007_1.jpg",
-   "url": "https://www.mytek.tn/power-bank-inkax-pbq-68-20000-mah-noir.html"
-  },
-  {
    "id": "73806",
    "sku": "1969-20",
    "name": "Tuyau D'arrosage Microporeux GARDENA 15M -1969-20",
@@ -36787,7 +36695,7 @@
    "id": "75824",
    "sku": "807791",
    "name": "Paquet de 50 Chemises RIBAT Bristol Vives 160G 24*32 - Marron",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -37178,22 +37086,6 @@
    "url": "https://www.mytek.tn/routeur-ruijie-reyee-rg-ew1200g-pro-sans-fil-double-bande-noir.html"
   },
   {
-   "id": "48423",
-   "sku": "TL-SG1428PE",
-   "name": "Switch intelligents TP-Link TL-SG1428PE Gigabit Easy 28 ports dont 24 ports POE+",
-   "brand": "TP-LINK",
-   "categories": [
-    "Reseaux",
-    "Switch"
-   ],
-   "old_price": 1199,
-   "new_price": 919,
-   "discount_pct": 23.4,
-   "savings": 280,
-   "image": "https://www.mytek.tn/media/catalog/product/t/l/tl-sg1428pe.jpg",
-   "url": "https://www.mytek.tn/switch-tp-link-tl-sg1428pe-intelligent-gigabit-easy-28-ports-dont-24-ports-poe.html"
-  },
-  {
    "id": "21",
    "sku": "C-EXV-33",
    "name": "Toner d'origine CANON - Noir (C-EXV-33)",
@@ -37222,6 +37114,22 @@
    "savings": 70,
    "image": "https://www.mytek.tn/media/catalog/product/b/p/bp-ft201.jpg",
    "url": "https://www.mytek.tn/toner-laser-original-sharp-noir-bp-ft201.html"
+  },
+  {
+   "id": "78255",
+   "sku": "ENS198",
+   "name": "Nettoyeur de Bureau DELI 89 x 89 x 67.5 MM",
+   "brand": "DELI",
+   "categories": [
+    "Accessoires Divers",
+    "Périphériques & Accessoires"
+   ],
+   "old_price": 39,
+   "new_price": 29.9,
+   "discount_pct": 23.3,
+   "savings": 9.1,
+   "image": "https://www.mytek.tn/media/catalog/product/n/e/nettoyeur-de-bureau-deli-89-x-89-x-67-5-mm-1.jpg",
+   "url": "https://www.mytek.tn/nettoyeur-de-bureau-deli-89-x-89-x-67-5-mm.html"
   },
   {
    "id": "71930",
@@ -37274,7 +37182,7 @@
    "id": "75916",
    "sku": "801652",
    "name": "Charge Cube RIBAT 500 Feuilles 90 x 90 - Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Cahier & Feuille",
     "Fourniture de Bureau",
@@ -37291,7 +37199,7 @@
    "id": "75838",
    "sku": "806985",
    "name": "Paquet de 100 Chemises RIBAT Krafet Verge 55 G 24 x 32 Cm",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -37468,7 +37376,7 @@
    "id": "75981",
    "sku": "800983",
    "name": "Paquet 100 Feuilles RIBAT Couché Brillant A4 115 G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -37540,6 +37448,21 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/r/e/repeteur-wifi-xiaomi-mi-range-extender-ac1200.jpg",
    "url": "https://www.mytek.tn/repeteur-wifi-xiaomi-mi-range-extender-ac1200.html"
+  },
+  {
+   "id": "78209",
+   "sku": "SB93",
+   "name": "Sac À Dos Scolaire Stitch Disney 3 Compartiments - Bleu",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 129,
+   "new_price": 99,
+   "discount_pct": 23.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-stitch-disney-3-compartiments-bleu.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-stitch-disney-3-compartiments-bleu.html"
   },
   {
    "id": "75695",
@@ -38199,21 +38122,6 @@
    "url": "https://www.mytek.tn/pince-coupante-emtop180mm-eplrd0711.html"
   },
   {
-   "id": "76999",
-   "sku": "M5005B-SIN-TRS",
-   "name": "Cuisinière BIOLUX M5005B 4 Feux 50cm - Blanc",
-   "brand": "BIOLUX",
-   "categories": [
-    "Cuisson"
-   ],
-   "old_price": 439,
-   "new_price": 339,
-   "discount_pct": 22.8,
-   "savings": 100,
-   "image": "https://www.mytek.tn/media/catalog/product/c/u/cuisini_re-biolux-m5005b-4-feux-50cm---blanc_1.jpg",
-   "url": "https://www.mytek.tn/cuisiniere-biolux-m5005b-4-feux-50cm-white-sin.html"
-  },
-  {
    "id": "54453",
    "sku": "3ED70A",
    "name": "Cartouche d'encre d'origine HP 712 - Noir",
@@ -38375,7 +38283,7 @@
    "id": "76125",
    "sku": "801317",
    "name": "Paquet de 100 Feuilles RIBAT Vergés Crème A4 220G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -39684,6 +39592,66 @@
    "url": "https://www.mytek.tn/imprimante-a-ticket-digipos-80mm-usb-reseau-serie-noir-et-blanc.html"
   },
   {
+   "id": "78166",
+   "sku": "SAC-12",
+   "name": "Sac À Dos Scolaire Avec Trolley 3 Compartiments Dinasaure - Gris Foncée",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 139,
+   "new_price": 109,
+   "discount_pct": 21.6,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-avec-trolley-3-compartiments-dinasaure-gris-foncee.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-avec-trolley-3-compartiments-dinasaure-gris-foncee.html"
+  },
+  {
+   "id": "78168",
+   "sku": "SAC-13",
+   "name": "Sac À Dos Scolaire Avec Trolley Emojis 3 Compartiments - Rose",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 139,
+   "new_price": 109,
+   "discount_pct": 21.6,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-avec-trolley-emojis-3-compartiments-rose.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-avec-trolley-emojis-3-compartiments-rose.html"
+  },
+  {
+   "id": "78171",
+   "sku": "SAC-14",
+   "name": "Sac À Dos Scolaire Avec Trolley Emojis 3 Compartiments - Rose À Paillete",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 139,
+   "new_price": 109,
+   "discount_pct": 21.6,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-avec-trolley-emojis-3-compartiments-rose-a-paillete.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-avec-trolley-emojis-3-compartiments-rose-a-paillete.html"
+  },
+  {
+   "id": "78172",
+   "sku": "SAC-15",
+   "name": "Sac À Dos Scolaire Avec Trolley Super Girl 3 Compartiments - Violet Et Bleu À Carreaux",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Sacs Scolaires & Trousses"
+   ],
+   "old_price": 139,
+   "new_price": 109,
+   "discount_pct": 21.6,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-avec-trolley-super-girl-3-compartiments-violet-et-bleu-a-carreaux.jpg",
+   "url": "https://www.mytek.tn/sac-a-dos-scolaire-avec-trolley-super-girl-3-compartiments-violet-et-bleu-a-carreaux.html"
+  },
+  {
    "id": "67204",
    "sku": "40552",
    "name": "Batteur Sans Bol TOUCH 40552 400Watts - Noir",
@@ -39747,22 +39715,6 @@
    "url": "https://www.mytek.tn/chaise-gaming-nacon-bleu-pcch-310-bleu.html"
   },
   {
-   "id": "74014",
-   "sku": "PCCH-310-WH",
-   "name": "Chaise Gaming NACON PCCH-310-WH -Blanc",
-   "brand": "NACON",
-   "categories": [
-    "Chaise gaming",
-    "Périphériques et Accessoires Gamers"
-   ],
-   "old_price": 699,
-   "new_price": 549,
-   "discount_pct": 21.5,
-   "savings": 150,
-   "image": "https://www.mytek.tn/media/catalog/product/c/h/chaise-gaming-nacon-bleu-pcch-310-blanc-001.jpg",
-   "url": "https://www.mytek.tn/chaise-gaming-nacon-pcch-310-wh-blanc.html"
-  },
-  {
    "id": "74018",
    "sku": "PCCH-310-RED",
    "name": "Chaise Gaming NACON PCCH-310-RED - Rouge",
@@ -39777,6 +39729,22 @@
    "savings": 150,
    "image": "https://www.mytek.tn/media/catalog/product/c/h/chaise-gaming-nacon-pcch-310-red-rouge-001.jpg",
    "url": "https://www.mytek.tn/chaise-gaming-nacon-pcch-310-red-rouge.html"
+  },
+  {
+   "id": "74014",
+   "sku": "PCCH-310-WH",
+   "name": "Chaise Gaming NACON PCCH-310-WH -Blanc",
+   "brand": "NACON",
+   "categories": [
+    "Chaise gaming",
+    "Périphériques et Accessoires Gamers"
+   ],
+   "old_price": 699,
+   "new_price": 549,
+   "discount_pct": 21.5,
+   "savings": 150,
+   "image": "https://www.mytek.tn/media/catalog/product/c/h/chaise-gaming-nacon-bleu-pcch-310-blanc-001.jpg",
+   "url": "https://www.mytek.tn/chaise-gaming-nacon-pcch-310-wh-blanc.html"
   },
   {
    "id": "69753",
@@ -40056,21 +40024,6 @@
    "url": "https://www.mytek.tn/cahier-piqure-abc-192-pages-seyes-21-x-29-7-cm-couv-plastique.html"
   },
   {
-   "id": "61543",
-   "sku": "ZIMOTA-B20",
-   "name": "Vélo D'appartement Bianchi M-690 - Noir",
-   "brand": "BIANCHI",
-   "categories": [
-    "Cardio"
-   ],
-   "old_price": 799,
-   "new_price": 629,
-   "discount_pct": 21.3,
-   "savings": 170,
-   "image": "https://www.mytek.tn/media/catalog/product/v/e/velo-d-appartement-zimota-b20-noir-c.jpg",
-   "url": "https://www.mytek.tn/velo-d-appartement-zimota-b20-noir.html"
-  },
-  {
    "id": "63249",
    "sku": "100-100001404WOF",
    "name": "Processeur AMD Ryzen 7 9700X",
@@ -40260,7 +40213,7 @@
    "id": "75949",
    "sku": "800938",
    "name": "Paquet 100 Feuilles RIBATBristol  Blanc A4 250G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -40668,7 +40621,7 @@
    "id": "75958",
    "sku": "801058",
    "name": "Paquet 100 Feuilles RIBAT Couché Brillant Blanc A4 90G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -40683,7 +40636,7 @@
    "id": "76082",
    "sku": "801171",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat  A4 90G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -41094,7 +41047,7 @@
    "id": "75642",
    "sku": "806978",
    "name": "Paquet De 50 Chemises RIBAT Bristol Vives 160Gr 24*32 - Assorties",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -41110,7 +41063,7 @@
    "id": "75693",
    "sku": "807715",
    "name": "Paquet De 50 Chemises Bristol RIBAT VIVES 160G 24*32 - Citron",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -41126,7 +41079,7 @@
    "id": "75706",
    "sku": "807746",
    "name": "Paquet De 50 Chemises Bristol RIBAT VIVES 160G 24*32 - Fushia",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -41142,7 +41095,7 @@
    "id": "75826",
    "sku": "807753",
    "name": "Paquet de 50 Chemises RIBAT Bristol Vives 160G 24*32 - Orange",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -41158,7 +41111,7 @@
    "id": "75828",
    "sku": "807708",
    "name": "Paquet de 50 Chemises RIBAT Bristol Vives 160G 24*32 - Rouge",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -41174,7 +41127,7 @@
    "id": "75829",
    "sku": "807784",
    "name": "Paquet de 50 Chemises RIBAT Bristol Vives 160G 24*32 - Turquoise",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -41190,7 +41143,7 @@
    "id": "75831",
    "sku": "807739",
    "name": "Paquet de 50 Chemises RIBAT Bristol Vives 160G 24*32 - Pistache",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -41206,7 +41159,7 @@
    "id": "76987",
    "sku": "807722",
    "name": "Paquet de 50 Chemises RIBAT Bristol Vives 160 G 24 x 32 cm - Vert foncé",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -41222,7 +41175,7 @@
    "id": "76992",
    "sku": "807777",
    "name": "Paquet de 50 Chemises RIBAT Bristol Vives 160 G 24 x 32 Cm - Violet",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -41238,7 +41191,7 @@
    "id": "75839",
    "sku": "803175",
    "name": "Parapheur De Signature RIBAT De 12 Volets Mousse Luxe",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -41425,7 +41378,7 @@
    "id": "75955",
    "sku": "803106",
    "name": "Paquet de 100 Feuilles RIBAT Bristol Blanc A4 300G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -41440,7 +41393,7 @@
    "id": "76079",
    "sku": "803076",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A4 350G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -41455,7 +41408,7 @@
    "id": "76115",
    "sku": "801164",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A4 350G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -41470,7 +41423,7 @@
    "id": "76138",
    "sku": "805582",
    "name": "Paquet de 100 Feuilles RIBAT Vergés Crème A3 90G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -41485,7 +41438,7 @@
    "id": "76811",
    "sku": "801102",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A3 170G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -41500,7 +41453,7 @@
    "id": "76839",
    "sku": "800891",
    "name": "Paquet 100 Feuilles RIBAT Bristol Blanc A3 200G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -41515,7 +41468,7 @@
    "id": "76857",
    "sku": "802642",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A3 170G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -42182,22 +42135,6 @@
    "url": "https://www.mytek.tn/soudeuse-thermique-30-cm-8830.html"
   },
   {
-   "id": "67608",
-   "sku": "SY-933",
-   "name": "Haut Parleur Sans Fil Portable Avec Torche SY-933 - Noir",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Haut-Parleur",
-    "Son Numérique"
-   ],
-   "old_price": 99,
-   "new_price": 79,
-   "discount_pct": 20.2,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-sans-fil-portable-avec-torche-sy-933-noir-1.jpg",
-   "url": "https://www.mytek.tn/haut-parleur-sans-fil-portable-avec-torche-sy-933-noir.html"
-  },
-  {
    "id": "71211",
    "sku": "BS-08",
    "name": "Haut Parleur Sans Fil Inkax BS-08 - Noir",
@@ -42748,22 +42685,6 @@
    "url": "https://www.mytek.tn/cisaille-a-haies-gardena-12304-20.html"
   },
   {
-   "id": "77062",
-   "sku": "BU-LUNA-S32-NOIR",
-   "name": "Machine à Café CAFFITALY Luna S32 + Paquet de 10 Capsules CAFFITALY Cappuccino",
-   "brand": "CAFFITALY",
-   "categories": [
-    "Cafetière",
-    "Café et Petit déjeuner"
-   ],
-   "old_price": 249,
-   "new_price": 199,
-   "discount_pct": 20.1,
-   "savings": 50,
-   "image": "https://www.mytek.tn/media/catalog/product/m/a/machine-_-caf_-caffitaly-luna-s32-noir-_-10-capsules-offertes.jpg",
-   "url": "https://www.mytek.tn/machine-a-cafe-caffitaly-luna-s32-paquet-de-10-capsules-caffitaly-cappuccino.html"
-  },
-  {
    "id": "54860",
    "sku": "3ED68A",
    "name": "Cartouche Original Jet d'encre HP 712 - Magenta",
@@ -42815,7 +42736,7 @@
    "id": "75792",
    "sku": "801607",
    "name": "Parapheur De Signature RIBAT De 16 Volets Simple",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -42830,7 +42751,7 @@
    "id": "75787",
    "sku": "801621",
    "name": "Parapheur De Signature RIBAT De 24 Volets Simple",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -43213,7 +43134,7 @@
    "id": "76837",
    "sku": "802321",
    "name": "Paquet 100 Feuilles RIBAT Bristol Blanc A4 170G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -43285,6 +43206,21 @@
    "savings": 40,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/casque-sans-fil-anker-h30i-soundcore-noir-q.jpg",
    "url": "https://www.mytek.tn/casque-sans-fil-anker-h30i-soundcore-noir.html"
+  },
+  {
+   "id": "78279",
+   "sku": "V900-B",
+   "name": "Tableau Blanc Magnétique DELI 90 x 120 cm V900",
+   "brand": "DELI",
+   "categories": [
+    "Tableaux"
+   ],
+   "old_price": 149,
+   "new_price": 119,
+   "discount_pct": 20.1,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/t/a/tableau-blanc-magnetique-deli-90-x-120-cm-v900-1.jpg",
+   "url": "https://www.mytek.tn/tableau-blanc-magnetique-deli-90-x-120-cm-v900.html"
   },
   {
    "id": "67658",
@@ -44001,21 +43937,6 @@
    "url": "https://www.mytek.tn/onduleur-njoy-aten-pro-1000-on-line-1kva-900w.html"
   },
   {
-   "id": "6651",
-   "sku": "9E6KI",
-   "name": "Onduleur On Line EATON  9E 6KVA 6000VA  RS-232, USB",
-   "brand": "EATON",
-   "categories": [
-    "Onduleur On-Line"
-   ],
-   "old_price": 7999,
-   "new_price": 6399,
-   "discount_pct": 20.0,
-   "savings": 1600,
-   "image": "https://www.mytek.tn/media/catalog/product/9/e/9e6ki_1.jpg",
-   "url": "https://www.mytek.tn/onduleur-on-line-eaton-9e-6kva-6000va-rs-232-usb.html"
-  },
-  {
    "id": "6656",
    "sku": "9E10KI",
    "name": "Onduleur On Line EATON 9E 10kVA 10000VA RS-232, USB",
@@ -44109,6 +44030,22 @@
    "savings": 220,
    "image": "https://www.mytek.tn/media/catalog/product/s/e/serveur-nas-qnap-2-baies-ts233-2g-2to-sans-disque-dur.jpg",
    "url": "https://www.mytek.tn/serveur-nas-qnap-2-baies-ts233-2g-2to-sans-disque-dur.html"
+  },
+  {
+   "id": "48423",
+   "sku": "TL-SG1428PE",
+   "name": "Switch intelligents TP-Link TL-SG1428PE Gigabit Easy 28 ports dont 24 ports POE+",
+   "brand": "TP-LINK",
+   "categories": [
+    "Reseaux",
+    "Switch"
+   ],
+   "old_price": 1199,
+   "new_price": 959,
+   "discount_pct": 20.0,
+   "savings": 240,
+   "image": "https://www.mytek.tn/media/catalog/product/t/l/tl-sg1428pe.jpg",
+   "url": "https://www.mytek.tn/switch-tp-link-tl-sg1428pe-intelligent-gigabit-easy-28-ports-dont-24-ports-poe.html"
   },
   {
    "id": "40478",
@@ -44233,22 +44170,6 @@
    "url": "https://www.mytek.tn/scanner-code-a-barre-honeywell-genesis-1d-2d.html"
   },
   {
-   "id": "64943",
-   "sku": "3S850F",
-   "name": "Onduleur Eaton 3S 850 VA /510W FR",
-   "brand": "EATON",
-   "categories": [
-    "Multiprises",
-    "Onduleurs & Protection Électrique"
-   ],
-   "old_price": 559,
-   "new_price": 449,
-   "discount_pct": 19.7,
-   "savings": 110,
-   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-eaton-3s-850-va-510w-autonomie-20-min-8-fr-2-usb-chargeur-3s850f-1.png",
-   "url": "https://www.mytek.tn/onduleur-eaton-3s-850-va-510w-fr.html"
-  },
-  {
    "id": "71855",
    "sku": "403411",
    "name": "Perforateur MAPED Essentials E4034 2 trous 30/35 feuilles - Noir",
@@ -44295,21 +44216,6 @@
    "savings": 2.9,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-de-texte-conquerant-124-pages-90gr-seyes-17x22-cm-01.jpg",
    "url": "https://www.mytek.tn/cahier-de-texte-conquerant-124-pages-90gr-seyes-17x22-cm.html"
-  },
-  {
-   "id": "76333",
-   "sku": "HOUSEFIT-TEMPO30",
-   "name": "Tapis Roulant HOUSE FIT TEMPO 30 - Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
-   "categories": [
-    "Cardio"
-   ],
-   "old_price": 2359,
-   "new_price": 1899,
-   "discount_pct": 19.5,
-   "savings": 460,
-   "image": "https://www.mytek.tn/media/catalog/product/t/a/tapis-roulant-house-fit-tempo-30-gris-4.jpg",
-   "url": "https://www.mytek.tn/tapis-roulant-house-fit-tempo-30-gris.html"
   },
   {
    "id": "54257",
@@ -44565,7 +44471,7 @@
    "id": "75843",
    "sku": "800808",
    "name": "Paquet de 200 Chemises RIBAT Krafet Verge 55 G 24 x 32 Cm",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -44769,7 +44675,7 @@
    "id": "75999",
    "sku": "801027",
    "name": "Paquet 100 Feuilles RIBAT Couché Brillant A4 200G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -44815,7 +44721,7 @@
    "id": "75550",
    "sku": "MILANO-GM-BL",
    "name": "Valise Grand Modèle MILANO BAG avec mallette Petit modèle - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -44830,7 +44736,7 @@
    "id": "75552",
    "sku": "MILANO-GM-BE",
    "name": "Valise Grand Modèle MILANO BAG avec mallette Petit modèle - Beige",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -44845,7 +44751,7 @@
    "id": "75553",
    "sku": "MILANO-GM-N",
    "name": "Valise Grand Modèle MILANO BAG avec mallette Petit modèle - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -44860,7 +44766,7 @@
    "id": "75680",
    "sku": "MILANO-GM-P",
    "name": "Valise Grand Modèle MILANO BAG avec mallette Petit modèle - Rouge bordeaux",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -44875,7 +44781,7 @@
    "id": "75685",
    "sku": "MILANO-GM-GR",
    "name": "Valise Grand Modèle MILANO BAG avec mallette Petit modèle - Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -45521,22 +45427,6 @@
    "url": "https://www.mytek.tn/imprimante-canon-pixma-tr4645-jet-d-encre-couleur-wifi.html"
   },
   {
-   "id": "78169",
-   "sku": "FH2J3QDNG0P",
-   "name": "Lave Linge Frontal LG 7kg FH2J3QDNG0P - Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
-   "categories": [
-    "Lavage",
-    "Machine à Laver"
-   ],
-   "old_price": 2069,
-   "new_price": 1689,
-   "discount_pct": 18.4,
-   "savings": 380,
-   "image": "https://www.mytek.tn/media/catalog/product/l/a/lave-linge-frontal-lg-7kg-fh2j3qdng0p-blanc-m.jpg",
-   "url": "https://www.mytek.tn/lave-linge-frontal-lg-7kg-fh2j3qdng0p-blanc.html"
-  },
-  {
    "id": "64768",
    "sku": "GS27FC",
    "name": "Ecran Gaming GIGABYTE GS27FC 27'' FHD Incurvé 180 Hz",
@@ -45663,7 +45553,7 @@
    "id": "75782",
    "sku": "801584",
    "name": "Parapheur De Signature RIBAT De 12 Volets Simple",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -45989,7 +45879,7 @@
    "id": "76775",
    "sku": "802765",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A3 200G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -47787,6 +47677,22 @@
    "url": "https://www.mytek.tn/imprimante-g-g-m2022-laser-printer-3en1-monochrome.html"
   },
   {
+   "id": "78240",
+   "sku": "DS-UPS1200-R",
+   "name": "Onduleur HIKVISION de Secours Avec Batterie Intégrée 1200 VA/720W",
+   "brand": "HILOOK",
+   "categories": [
+    "Onduleur On-Line",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 589,
+   "new_price": 489,
+   "discount_pct": 17.0,
+   "savings": 100,
+   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-hikvision-de-secours-avec-batterie-integree-1200-va-720w-004.jpg",
+   "url": "https://www.mytek.tn/onduleur-hikvision-de-secours-avec-batterie-integree-1200-va-720w.html"
+  },
+  {
    "id": "60745",
    "sku": "702-2",
    "name": "Tableau Blanc Magnétique FAIBO économique 40 x 60 cm",
@@ -48528,7 +48434,7 @@
    "id": "75659",
    "sku": "800723",
    "name": "Paquet De 100 Chemises Bristol 170Gr - Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -49378,7 +49284,7 @@
    "id": "76095",
    "sku": "801126",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A3 200G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -49496,6 +49402,21 @@
    "savings": 0.5,
    "image": "https://www.mytek.tn/media/catalog/product/b/r/brosse-tableau-magnetique-assortis-167-m.jpg",
    "url": "https://www.mytek.tn/brosse-tableau-magnetique-assortis-167-m.html"
+  },
+  {
+   "id": "78285",
+   "sku": "E7885",
+   "name": "Chevalet de Conférence DELI Trépied 60 x 90 cm",
+   "brand": "DELI",
+   "categories": [
+    "Tableaux"
+   ],
+   "old_price": 299,
+   "new_price": 249,
+   "discount_pct": 16.7,
+   "savings": 50,
+   "image": "https://www.mytek.tn/media/catalog/product/c/h/chevalet-de-conference-deli-trepied-60-x-90-cm-4_1.jpg",
+   "url": "https://www.mytek.tn/chevalet-de-conference-deli-trepied-60-x-90-cm.html"
   },
   {
    "id": "56771",
@@ -49658,6 +49579,22 @@
    "url": "https://www.mytek.tn/sac-bandouliere-modaline-mira-avec-chaine-silver-noir.html"
   },
   {
+   "id": "78236",
+   "sku": "DS-UPS03K72-R-TS",
+   "name": "Onduleur On-Line HIKVISION DS-UPS03K72-R-TS - Noir",
+   "brand": "HIKVISION",
+   "categories": [
+    "Onduleur On-Line",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 3999,
+   "new_price": 3339,
+   "discount_pct": 16.5,
+   "savings": 660,
+   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-on-line-hikvision-ds-ups03k72-r-ts-noir-09989.png",
+   "url": "https://www.mytek.tn/onduleur-on-line-hikvision-ds-ups03k72-r-ts-noir.html"
+  },
+  {
    "id": "24756",
    "sku": "TL-EAP225",
    "name": "Point d'accès TP-LINK EAP225 V1 WiFi Mesh bi-bande AC1350 PoE Gigabit - Plafonnier",
@@ -49814,7 +49751,7 @@
    "id": "75816",
    "sku": "5803205",
    "name": "Parapheur De Signature RIBAT De 16 Volets Simple Luxe",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -51060,7 +50997,7 @@
    "id": "75845",
    "sku": "5801614",
    "name": "Parapheur De Signature RIBAT De 24 Volets Mousse",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -51172,7 +51109,7 @@
    "id": "76853",
    "sku": "803489",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A3 115G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -51529,6 +51466,36 @@
    "url": "https://www.mytek.tn/sac-bandouliere-modaline-marinette-avec-chaine-gold-noir.html"
   },
   {
+   "id": "78277",
+   "sku": "EV600",
+   "name": "Tableau Blanc Magnétique DELI 60 x 90 cm",
+   "brand": "DELI",
+   "categories": [
+    "Tableaux"
+   ],
+   "old_price": 59,
+   "new_price": 49.9,
+   "discount_pct": 15.4,
+   "savings": 9.1,
+   "image": "https://www.mytek.tn/media/catalog/product/t/a/tableau-blanc-magnetique-deli-60-x-90-cm-1.jpg",
+   "url": "https://www.mytek.tn/tableau-blanc-magnetique-deli-60-x-90-cm.html"
+  },
+  {
+   "id": "78282",
+   "sku": "V1200",
+   "name": "Tableau Blanc Magnétique DELI 120 x 180 cm",
+   "brand": "DELI",
+   "categories": [
+    "Tableaux"
+   ],
+   "old_price": 389,
+   "new_price": 329,
+   "discount_pct": 15.4,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/t/a/tableau-blanc-magnetique-deli-120-x-180-cm.jpg",
+   "url": "https://www.mytek.tn/tableau-blanc-magnetique-deli-120-x-180-cm.html"
+  },
+  {
    "id": "71928",
    "sku": "323605",
    "name": "Agrafes MAPED 23/15 en fil métallique galvanisé - 1000 pièces",
@@ -51752,7 +51719,7 @@
    "id": "76007",
    "sku": "800822",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A4 300G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -52183,6 +52150,21 @@
    "url": "https://www.mytek.tn/onduleur-eaton-5sc-1000i-1000i-700w.html"
   },
   {
+   "id": "6651",
+   "sku": "9E6KI",
+   "name": "Onduleur On Line EATON  9E 6KVA 6000VA  RS-232, USB",
+   "brand": "EATON",
+   "categories": [
+    "Onduleur On-Line"
+   ],
+   "old_price": 7999,
+   "new_price": 6799,
+   "discount_pct": 15.0,
+   "savings": 1200,
+   "image": "https://www.mytek.tn/media/catalog/product/9/e/9e6ki_1.jpg",
+   "url": "https://www.mytek.tn/onduleur-on-line-eaton-9e-6kva-6000va-rs-232-usb.html"
+  },
+  {
    "id": "67488",
    "sku": "DIR-X301",
    "name": "Système Wi-Fi Mesh D-LINK AX3000 Double Bande Wi-Fi 6",
@@ -52538,7 +52520,7 @@
    "id": "60670",
    "sku": "30717",
    "name": "Tableau Blanc Magnétique BIOFFICE 60 X 90 cm",
-   "brand": "BI OFFICE",
+   "brand": "BI-OFFICE",
    "categories": [
     "Tableaux"
    ],
@@ -53188,7 +53170,7 @@
    "id": "75546",
    "sku": "DS1621",
    "name": "Serveur De Stockage SYNOLOGY NAS DS1621 DiskStation - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "SYNOLOGY",
    "categories": [
     "Reseaux"
    ],
@@ -53203,7 +53185,7 @@
    "id": "75533",
    "sku": "MILANO-MM-BL",
    "name": "Valise Moyen Modèle MILANO BAG avec mallette grand modèle - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -53233,7 +53215,7 @@
    "id": "75544",
    "sku": "MILANO-MM-N",
    "name": "Valise Moyen Modèle MILANO BAG avec mallette grand modèle - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -53248,7 +53230,7 @@
    "id": "75660",
    "sku": "MILANO-MM-P",
    "name": "Valise Moyen Modèle MILANO BAG avec mallette grand modèle - Rouge bordeaux",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -53263,7 +53245,7 @@
    "id": "75673",
    "sku": "MILANO-MM-GR",
    "name": "Valise Moyen Modèle MILANO BAG avec mallette grand modèle - Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -53403,7 +53385,7 @@
    "id": "75795",
    "sku": "803199",
    "name": "Parapheur De Signature RIBAT De 16 Volets Mousse Luxe",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -53809,7 +53791,7 @@
    "id": "76803",
    "sku": "801089",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A3 135G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -54202,7 +54184,7 @@
    "id": "75855",
    "sku": "803229",
    "name": "Parapheur De Signature RIBAT De 24 Volets Simple Luxe",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -54315,7 +54297,7 @@
    "id": "76072",
    "sku": "801034",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A3 250G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -54330,7 +54312,7 @@
    "id": "76102",
    "sku": "801140",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A3 250G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -54439,7 +54421,7 @@
    "id": "76815",
    "sku": "803274",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A3 350G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -54687,21 +54669,6 @@
    "url": "https://www.mytek.tn/toner-original-kyocera-ecosys-p6230cdn-m6630cidn-jaune.html"
   },
   {
-   "id": "55053",
-   "sku": "G571-GRIS",
-   "name": "Cuisinière à Gaz FLORENCE G571 4 Feux - Gris",
-   "brand": "FLORENCE",
-   "categories": [
-    "Cuisson"
-   ],
-   "old_price": 599,
-   "new_price": 519,
-   "discount_pct": 13.4,
-   "savings": 80,
-   "image": "https://www.mytek.tn/media/catalog/product/c/u/cuisini_re-_-gaz-florence-g571-4-feux---gris.jpg",
-   "url": "https://www.mytek.tn/cuisiniere-a-gaz-florence-g571-4-feux-gris.html"
-  },
-  {
    "id": "55056",
    "sku": "G571-NOIR",
    "name": "Cuisinière à Gaz FLORENCE G571 4 Feux - Noir",
@@ -54860,7 +54827,7 @@
    "id": "75924",
    "sku": "800921",
    "name": "Charge Cube RIBAT 500 Feuilles 90 x 90 mm - Couleur",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Cahier & Feuille",
     "Fourniture de Bureau",
@@ -54872,21 +54839,6 @@
    "savings": 0.6,
    "image": "https://www.mytek.tn/media/catalog/product/c/h/charge-cube-ribat-500-feuilles-90-x-90-mm-couleur.jpg",
    "url": "https://www.mytek.tn/charge-cube-ribat-500-feuilles-90-x-90-mm-couleur.html"
-  },
-  {
-   "id": "72546",
-   "sku": "2711064",
-   "name": "Tapis Roulant DOMYOS Pliable 16km/h RUN500 - Noir",
-   "brand": "DOMYOS",
-   "categories": [
-    "Cardio"
-   ],
-   "old_price": 2999,
-   "new_price": 2599,
-   "discount_pct": 13.3,
-   "savings": 400,
-   "image": "https://www.mytek.tn/media/catalog/product/t/a/tapis-roulant-domyos-pliable-16km-h-run500-noir-1.jpg",
-   "url": "https://www.mytek.tn/tapis-roulant-domyos-pliable-16km-h-run500-noir.html"
   },
   {
    "id": "71403",
@@ -55267,21 +55219,6 @@
    "url": "https://www.mytek.tn/ciseaux-faibo-25-cm-ergonimique-noir-t25.html"
   },
   {
-   "id": "66103",
-   "sku": "01013010",
-   "name": "Tapis Roulant ZIMOTA 3010 - Noir&Blanc",
-   "brand": "ZIMOTA",
-   "categories": [
-    "Cardio"
-   ],
-   "old_price": 2699,
-   "new_price": 2349,
-   "discount_pct": 13.0,
-   "savings": 350,
-   "image": "https://www.mytek.tn/media/catalog/product/t/a/tapis-roulant-zimota-3010-noir-blanc-ww.jpg",
-   "url": "https://www.mytek.tn/tapis-roulant-zimota-3010-noir-blanc.html"
-  },
-  {
    "id": "63518",
    "sku": "B11B271402",
    "name": "Scanner à Défilement EPSON DS-C490 A4 (B11B271402)",
@@ -55656,38 +55593,6 @@
    "url": "https://www.mytek.tn/aspirateur-eau-et-poussiere-karcher-dvac-2200w-noir.html"
   },
   {
-   "id": "65414",
-   "sku": "9024-FD-BLEU",
-   "name": "Bicyclette VTT PRADO Bliss Double Jante 18 Vitesse 24'' - Bleu",
-   "brand": "PRADO",
-   "categories": [
-    "Bicyclettes & Vélo",
-    "Bicyclettes VTT"
-   ],
-   "old_price": 479,
-   "new_price": 419,
-   "discount_pct": 12.5,
-   "savings": 60,
-   "image": "https://www.mytek.tn/media/catalog/product/b/i/bicyclette-vtt-prado-bliss-double-jante-18-vitesse-24-bleu-t.jpg",
-   "url": "https://www.mytek.tn/bicyclette-vtt-prado-bliss-double-jante-18-vitesse-24-bleu.html"
-  },
-  {
-   "id": "65416",
-   "sku": "9024-FD-NOIR",
-   "name": "Bicyclette VTT PRADO Bliss Double Jante 18 Vitesse 24'' - Noir Jaune",
-   "brand": "PRADO",
-   "categories": [
-    "Bicyclettes & Vélo",
-    "Bicyclettes VTT"
-   ],
-   "old_price": 479,
-   "new_price": 419,
-   "discount_pct": 12.5,
-   "savings": 60,
-   "image": "https://www.mytek.tn/media/catalog/product/b/i/bicyclette-vtt-prado-bliss-double-jante-18-vitesse-24-noir-jaune-e.jpg",
-   "url": "https://www.mytek.tn/bicyclette-vtt-prado-bliss-double-jante-18-vitesse-24-noir-jaune.html"
-  },
-  {
    "id": "65417",
    "sku": "9024-FD-ROUGE",
    "name": "Bicyclette VTT PRADO Bliss Double Jante 18 Vitesse 24'' - Rouge  Jaune",
@@ -55858,10 +55763,26 @@
    "url": "https://www.mytek.tn/moshaf-moufahras-kaloun-al-moalem-20-x-28-cm.html"
   },
   {
+   "id": "64943",
+   "sku": "3S850F",
+   "name": "Onduleur Eaton 3S 850 VA /510W FR",
+   "brand": "EATON",
+   "categories": [
+    "Multiprises",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 559,
+   "new_price": 489,
+   "discount_pct": 12.5,
+   "savings": 70,
+   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-eaton-3s-850-va-510w-autonomie-20-min-8-fr-2-usb-chargeur-3s850f-1.png",
+   "url": "https://www.mytek.tn/onduleur-eaton-3s-850-va-510w-fr.html"
+  },
+  {
    "id": "76814",
    "sku": "802758",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A3 300G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -55907,7 +55828,7 @@
    "id": "75560",
    "sku": "RS422",
    "name": "Serveur De Stockage SYNOLOGY NAS RS422 RackStation - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "SYNOLOGY",
    "categories": [
     "Reseaux"
    ],
@@ -56110,7 +56031,7 @@
    "id": "75551",
    "sku": "DS1825",
    "name": "Serveur De Stockage SYNOLOGY NAS DS1825 DiskStation - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "SYNOLOGY",
    "categories": [
     "Reseaux"
    ],
@@ -56158,8 +56079,7 @@
    "name": "Rame Papier COPY RIGHT Premium Blanc A3 80 GR",
    "brand": "COPY-RIGHT",
    "categories": [
-    "Papier",
-    "Papier A3"
+    "Papier"
    ],
    "old_price": 33,
    "new_price": 29,
@@ -57136,7 +57056,7 @@
    "id": "75535",
    "sku": "DS1525",
    "name": "Serveur De Stockage SYNOLOGY NAS DS1525 DiskStation - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "SYNOLOGY",
    "categories": [
     "Reseaux"
    ],
@@ -57385,7 +57305,7 @@
    "id": "76121",
    "sku": "805575",
    "name": "Paquet de 100 Feuilles RIBAT Vergés Crème A3 220 G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -57400,7 +57320,7 @@
    "id": "76850",
    "sku": "805520",
    "name": "Paquet de 100 Feuilles RIBAT Bristol Blanc A3 300G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -58148,6 +58068,22 @@
    "url": "https://www.mytek.tn/imprimante-jet-d-encre-epson-ecotank-et-m2170-3en1-monochrome-c11ch43403.html"
   },
   {
+   "id": "78230",
+   "sku": "DS-UPS02K48-R-TS",
+   "name": "Onduleur On-Line HIKVISION DS-UPS02K48-R-TS - Noir",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Onduleur On-Line",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 2759,
+   "new_price": 2459,
+   "discount_pct": 10.9,
+   "savings": 300,
+   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-on-line-hikvision-ds-ups02k48-r-ts-noir-001.jpg",
+   "url": "https://www.mytek.tn/onduleur-on-line-hikvision-ds-ups02k48-r-ts-noir.html"
+  },
+  {
    "id": "55314",
    "sku": "RAILKIT-2U",
    "name": "Kit de montage sur rail KEBOS 2U",
@@ -58557,7 +58493,7 @@
    "id": "75620",
    "sku": "803052",
    "name": "Paquet De 100 Chemises RIBAT BRISTOL VIVES 160G 24*32 -Assorties",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58573,7 +58509,7 @@
    "id": "75682",
    "sku": "803410",
    "name": "Paquet De 100 Chemises Bristol RIBAT VIVES 160G 24*32 - Citron",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58589,7 +58525,7 @@
    "id": "75702",
    "sku": "800877",
    "name": "Paquet De 100 Chemises Bristol RIBAT VIVES 160G 24*32 -Fushia",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58605,7 +58541,7 @@
    "id": "75711",
    "sku": "808217",
    "name": "Paquet De 100 Chemises Bristol RIBAT VIVES 160G 24*32 - Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58621,7 +58557,7 @@
    "id": "75806",
    "sku": "803359",
    "name": "Paquet de 100 Chemises RIBAT Bristol Vives 160G 24*32 - Pistache",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58637,7 +58573,7 @@
    "id": "75807",
    "sku": "803328",
    "name": "Paquet de 100 Chemises RIBAT Bristol Vives 160G 24*32 - Rouge",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58653,7 +58589,7 @@
    "id": "75810",
    "sku": "803366",
    "name": "Paquet de 100 Chemises RIBAT Bristol Vives 160G 24*32 - Turquoise",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58669,7 +58605,7 @@
    "id": "75812",
    "sku": "803342",
    "name": "Paquet de 100 Chemises RIBAT Bristol Vives 160G 24*32 - Vert foncé",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58685,7 +58621,7 @@
    "id": "75814",
    "sku": "803373",
    "name": "Paquet de 100 Chemises RIBAT Bristol Vives 160G 24*32 - Violet",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58701,7 +58637,7 @@
    "id": "75827",
    "sku": "803335",
    "name": "Paquet de 100 Chemises RIBAT Bristol Vives 160G 24*32 - Orange",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -58717,7 +58653,7 @@
    "id": "75803",
    "sku": "803182",
    "name": "Parapheur De Signature RIBAT De 12 Volets Simple Luxe",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -58796,7 +58732,7 @@
    "id": "76084",
    "sku": "801065",
    "name": "Paquet de 100 Feuilles RIBAT Couché Mat A3 115G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -58811,7 +58747,7 @@
    "id": "76856",
    "sku": "800990",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A3 135G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -58826,7 +58762,7 @@
    "id": "76790",
    "sku": "800846",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A3 300G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -58983,7 +58919,7 @@
    "id": "76841",
    "sku": "802291",
    "name": "Paquet de 100 Feuilles RIBAT Bristol Blanc A3 250G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -59045,7 +58981,7 @@
    "id": "75635",
    "sku": "805001",
    "name": "Paquet De 100 Chemises Cartonné RIBAT Bristol Vives 160Gr 24*32 - Marron",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -59407,7 +59343,7 @@
    "id": "75751",
    "sku": "AS6706T00",
    "name": "Serveur De Stockage ASUSTOR NAS AS6706T Lockerstor 6 GEN 2 - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "ASUSTOR",
    "categories": [
     "Reseaux"
    ],
@@ -59973,22 +59909,6 @@
    "url": "https://www.mytek.tn/onduleur-eaton-in-line-ups-5e-gen2-iec-700va-360w-5e700i.html"
   },
   {
-   "id": "26723",
-   "sku": "5E1200UF",
-   "name": "Onduleur Eaton IN LINE 5E GEN2 1200VA/660W - 5E1200UF",
-   "brand": "EATON",
-   "categories": [
-    "Onduleur In-Line",
-    "Onduleurs & Protection Électrique"
-   ],
-   "old_price": 699,
-   "new_price": 629,
-   "discount_pct": 10.0,
-   "savings": 70,
-   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-eaton-in-line-5e-gen2-ups-1200va-660w_1.jpg",
-   "url": "https://www.mytek.tn/onduleur-eaton-in-line-5e-gen2-ups-1200va-660w-5e1200uf.html"
-  },
-  {
    "id": "26807",
    "sku": "5E1600UI",
    "name": "Onduleur Eaton IN LINE 5E GEN2 UPS USB 1600VA/900W",
@@ -60154,7 +60074,7 @@
    "id": "76793",
    "sku": "803236",
    "name": "Paquet de 100 Feuilles RIBAT Couché Brillant A3 350G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -61393,6 +61313,22 @@
    "savings": 3,
    "image": "https://www.mytek.tn/media/catalog/product/m/o/moshaf-moufahras-kaloun-al-moalem.jpg",
    "url": "https://www.mytek.tn/moshaf-moufahras-kaloun-al-moalem.html"
+  },
+  {
+   "id": "26723",
+   "sku": "5E1200UF",
+   "name": "Onduleur Eaton IN LINE 5E GEN2 1200VA/660W - 5E1200UF",
+   "brand": "EATON",
+   "categories": [
+    "Onduleur In-Line",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 699,
+   "new_price": 639,
+   "discount_pct": 8.6,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-eaton-in-line-5e-gen2-ups-1200va-660w_1.jpg",
+   "url": "https://www.mytek.tn/onduleur-eaton-in-line-5e-gen2-ups-1200va-660w-5e1200uf.html"
   },
   {
    "id": "70931",
@@ -62684,7 +62620,7 @@
    "id": "75590",
    "sku": "RS1221RP",
    "name": "Serveur De Stockage SYNOLOGY NAS RS1221RP RackStation - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "SYNOLOGY",
    "categories": [
     "Reseaux"
    ],
@@ -62747,7 +62683,7 @@
    "id": "75880",
    "sku": "800839",
    "name": "Paquet de 200 Sous Chemises RIBAT 60 G 22 x 32 Cm - Assortis",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -62763,7 +62699,7 @@
    "id": "75885",
    "sku": "803434",
    "name": "Paquet de 200 Sous Chemises RIBAT 60 G 22 x 32 Cm - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -62779,7 +62715,7 @@
    "id": "75888",
    "sku": "803403",
    "name": "Paquet de 200 Sous Chemises RIBAT 60 G 22 x 32 Cm - Jaune",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -62795,7 +62731,7 @@
    "id": "75893",
    "sku": "803380",
    "name": "Paquet de 200 Sous Chemises RIBAT 60 G 22 x 32 Cm - Rose",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -62827,7 +62763,7 @@
    "id": "75902",
    "sku": "803397",
    "name": "Paquet de 200 Sous Chemises RIBAT 60 G 22 x 32 Cm - Bulle",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -63160,7 +63096,7 @@
    "id": "75851",
    "sku": "803212",
    "name": "Parapheur De Signature RIBAT De 24 Volets Mousse Luxe",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Classements & Archivages"
    ],
@@ -63798,22 +63734,6 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/t/a/tableau-chevalet-faibo-non-magnetique-avec-roues-70x105-cm.jpg",
    "url": "https://www.mytek.tn/tableau-chevalet-faibo-non-magnetique-avec-roues-70x105-cm.html"
-  },
-  {
-   "id": "6620",
-   "sku": "9SX1000I",
-   "name": "Onduleur On-Line Eaton 9SX 900W (9SX1000I)",
-   "brand": "EATON",
-   "categories": [
-    "Onduleur In-Line",
-    "Onduleurs & Protection Électrique"
-   ],
-   "old_price": 2799,
-   "new_price": 2619,
-   "discount_pct": 6.4,
-   "savings": 180,
-   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-on-line-eaton-9sx-600w-9sx1000i-p.jpg",
-   "url": "https://www.mytek.tn/onduleur-on-line-eaton-9sx-600w-9sx1000i.html"
   },
   {
    "id": "11546",
@@ -65004,7 +64924,7 @@
    "id": "75609",
    "sku": "RS3621XS",
    "name": "Serveur De Stockage SYNOLOGY NAS RS3621XS RackStation - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "SYNOLOGY",
    "categories": [
     "Reseaux"
    ],
@@ -65480,6 +65400,22 @@
    "url": "https://www.mytek.tn/destructeur-de-documents-fellowes-automaxtm-200c-noir.html"
   },
   {
+   "id": "26721",
+   "sku": "5E1200UI",
+   "name": "Onduleur Eaton IN LINE 5E GEN2 UPS 1200VA/660W",
+   "brand": "EATON",
+   "categories": [
+    "Onduleur In-Line",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 669,
+   "new_price": 639,
+   "discount_pct": 4.5,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-eaton-in-line-5e-gen2-1200va-660w.jpg",
+   "url": "https://www.mytek.tn/onduleur-eaton-in-line-5e-gen2-1200va-660w.html"
+  },
+  {
    "id": "74958",
    "sku": "RG-ES110FG-P",
    "name": "Switch RUIJIE RG-ES110FG-P PoE 8 ports 10/100 Mbps + 2 ports Gigabit",
@@ -65510,21 +65446,6 @@
    "savings": 100,
    "image": "https://www.mytek.tn/media/catalog/product/s/w/switch-ruijie-l2-rg-nbs5100-48gt4sfp-48-ports-gigabit-rj45-1.jpg",
    "url": "https://www.mytek.tn/switch-ruijie-l2-rg-nbs5100-48gt4sfp-48-ports-gigabit-rj45.html"
-  },
-  {
-   "id": "43475",
-   "sku": "TS664-8G",
-   "name": "Serveur NAS QNAP TS664 Tour Quad Core 8Go 6 Baies - Noir",
-   "brand": "QNAP",
-   "categories": [
-    "Reseaux"
-   ],
-   "old_price": 3299,
-   "new_price": 3149,
-   "discount_pct": 4.5,
-   "savings": 150,
-   "image": "https://www.mytek.tn/media/catalog/product/6/3/637_1641438961_photo_ts-664_front.png",
-   "url": "https://www.mytek.tn/serveur-nas-qnap-ts664-8g.html"
   },
   {
    "id": "3103",
@@ -65902,7 +65823,7 @@
    "id": "75584",
    "sku": "RS822RP",
    "name": "Serveur De Stockage SYNOLOGY NAS RS822RP RackStation - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "SYNOLOGY",
    "categories": [
     "Reseaux"
    ],
@@ -65927,22 +65848,6 @@
    "savings": 140,
    "image": "https://www.mytek.tn/media/catalog/product/c/l/climatiseur-lg-inverter-dualcool-24000-btu-chaud-froid-tropicalise-z.jpg",
    "url": "https://www.mytek.tn/climatiseur-lg-inverter-dualcool-24000-btu-chaud-froid-tropicalise.html"
-  },
-  {
-   "id": "61541",
-   "sku": "ZIMOTA-E41",
-   "name": "Vélo Elliptique ZIMOTA E41 - Noir",
-   "brand": "ZIMOTA",
-   "categories": [
-    "Cardio",
-    "Vélo Elliptique"
-   ],
-   "old_price": 1199,
-   "new_price": 1159,
-   "discount_pct": 3.3,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/v/e/velo-elliptique-zimota-e41-noir-s.jpg",
-   "url": "https://www.mytek.tn/velo-elliptique-zimota-e41-noir.html"
   },
   {
    "id": "76164",
@@ -66069,6 +65974,22 @@
    "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-17x25-blanc-100g.html"
   },
   {
+   "id": "78193",
+   "sku": "DS-UPS01K24-R-TS",
+   "name": "Onduleur on-line Hikvision à Double Conversion DS-UPS01K24-R-TS",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Onduleur In-Line",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 1599,
+   "new_price": 1549,
+   "discount_pct": 3.1,
+   "savings": 50,
+   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-on-line-hikvision-a-double-conversion-ds-ups01k24-r-ts-007.png",
+   "url": "https://www.mytek.tn/onduleur-on-line-hikvision-a-double-conversion-ds-ups01k24-r-ts.html"
+  },
+  {
    "id": "69941",
    "sku": "5620901",
    "name": "Machine A Relieure FELLOWES Quasar Electrique",
@@ -66098,22 +66019,6 @@
    "savings": 10,
    "image": "https://www.mytek.tn/media/catalog/product/h/a/haut-parleur-sans-fil-logitech-z207-stereo-noir.jpg",
    "url": "https://www.mytek.tn/haut-parleur-sans-fil-logitech-z207-stereo-noir.html"
-  },
-  {
-   "id": "26721",
-   "sku": "5E1200UI",
-   "name": "Onduleur Eaton IN LINE 5E GEN2 UPS 1200VA/660W",
-   "brand": "EATON",
-   "categories": [
-    "Onduleur In-Line",
-    "Onduleurs & Protection Électrique"
-   ],
-   "old_price": 669,
-   "new_price": 649,
-   "discount_pct": 3.0,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-eaton-in-line-5e-gen2-1200va-660w.jpg",
-   "url": "https://www.mytek.tn/onduleur-eaton-in-line-5e-gen2-1200va-660w.html"
   },
   {
    "id": "3085",
