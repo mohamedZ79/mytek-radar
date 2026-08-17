@@ -1,8 +1,8 @@
 {
- "scanned_at": "2026-08-16T05:27:12.419120+00:00",
+ "scanned_at": "2026-08-17T05:34:25.770833+00:00",
  "source": "https://www.mytek.tn",
- "product_count": 4289,
- "duration_seconds": 10.9,
+ "product_count": 4294,
+ "duration_seconds": 10.3,
  "errors": 0,
  "products": [
   {
@@ -1204,7 +1204,7 @@
    "id": "7983",
    "sku": "NANO-OPPO-F9",
    "name": "Film de Protection NANO Pour OPPO F9",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -4748,21 +4748,6 @@
    "url": "https://www.mytek.tn/seau-de-plage-avec-accessoires-assortis-j-s-p.html"
   },
   {
-   "id": "26675",
-   "sku": "6012",
-   "name": "Rapporteur demi-cercle gradué en plastique ARK 10cm 180° - Violet",
-   "brand": "ARK",
-   "categories": [
-    "Géométrie & Traçage"
-   ],
-   "old_price": 1.5,
-   "new_price": 0.5,
-   "discount_pct": 66.7,
-   "savings": 1.0,
-   "image": "https://www.mytek.tn/media/catalog/product/r/a/rapporteur-ark-10cm-180_.jpg",
-   "url": "https://www.mytek.tn/rapporteur-ark-10cm-180.html"
-  },
-  {
    "id": "75040",
    "sku": "HAS24-2-V",
    "name": "Set d'exploration aquatique Masque, Tuba, Palmes pour Enfants - Vert",
@@ -7438,6 +7423,21 @@
    "url": "https://www.mytek.tn/projecteur-solaire-avec-commande-solaire-1.html"
   },
   {
+   "id": "26675",
+   "sku": "6012",
+   "name": "Rapporteur demi-cercle gradué en plastique ARK 10cm 180° - Violet",
+   "brand": "ARK",
+   "categories": [
+    "Géométrie & Traçage"
+   ],
+   "old_price": 1.5,
+   "new_price": 0.6,
+   "discount_pct": 60.0,
+   "savings": 0.9,
+   "image": "https://www.mytek.tn/media/catalog/product/r/a/rapporteur-ark-10cm-180_.jpg",
+   "url": "https://www.mytek.tn/rapporteur-ark-10cm-180.html"
+  },
+  {
    "id": "25843",
    "sku": "9011",
    "name": "Cahier de Classe OMEGA 36 Pages 17x22 cm",
@@ -8316,22 +8316,6 @@
    "savings": 23.1,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/cable-aspor-lighting-vers-aux-3-5mm-couleur-noir-001.jpg",
    "url": "https://www.mytek.tn/cable-aspor-lighting-vers-aux-3-5mm-couleur-noir.html"
-  },
-  {
-   "id": "42650",
-   "sku": "18120",
-   "name": "Cahier Piqûre CALLIGRAPHE Poésie & Chant Seyès/Uni 17X22 cm 48 Pages",
-   "brand": "CALLIGRAPHE",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 4.9,
-   "new_price": 2,
-   "discount_pct": 59.2,
-   "savings": 2.9,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-poesie-chant-seyes-uni-17x22-cm-48-pages-01.jpg",
-   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-poesie-chant-seyes-uni-17x22-cm-48-pages.html"
   },
   {
    "id": "47263",
@@ -9282,21 +9266,6 @@
    "url": "https://www.mytek.tn/baton-de-colle-staedtler-glue-stick-21g.html"
   },
   {
-   "id": "24257",
-   "sku": "9045",
-   "name": "Carnet Wiro OMEGA 160P 5/5 9x14 cm Avec Couverture Polypropylène",
-   "brand": "OMEGA-DISTRIBUTION",
-   "categories": [
-    "Cahier & Feuille"
-   ],
-   "old_price": 4.5,
-   "new_price": 2,
-   "discount_pct": 55.6,
-   "savings": 2.5,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/carnet-piqu_e-omega-160p-5-5-avec-couverture-polypropyl_ne.jpg",
-   "url": "https://www.mytek.tn/carnet-piquee-omega-160p-5-5-avec-couverture-polypropylene.html"
-  },
-  {
    "id": "63616",
    "sku": "DES-F1006PE",
    "name": "Switch D-LINK DES-F1006PE Fast Ethernet 6 Ports 10/100 POE",
@@ -9481,22 +9450,6 @@
    "url": "https://www.mytek.tn/barbecue-charbon-portable-bbq-tl-600-noir.html"
   },
   {
-   "id": "44263",
-   "sku": "8500255",
-   "name": "Cahier de dessin KO 10x10 24X32 cm",
-   "brand": "KO",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 2.9,
-   "new_price": 1.3,
-   "discount_pct": 55.2,
-   "savings": 1.6,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-de-dessin-ko-10x10-24x32-cm-8.gif",
-   "url": "https://www.mytek.tn/cahier-de-dessin-ko-10x10-24x32-cm.html"
-  },
-  {
    "id": "73312",
    "sku": "SMK411-8-B",
    "name": "Set De Cuisine Professionnel 8 Pièces - Blanc",
@@ -9556,6 +9509,22 @@
    "savings": 49.1,
    "image": "https://www.mytek.tn/media/catalog/product/h/e/helicoptere-mini-drone-y012-avec-telecommande-montre-b_1.jpg",
    "url": "https://www.mytek.tn/helicoptere-y012-avec-telecommande-montre.html"
+  },
+  {
+   "id": "42650",
+   "sku": "18120",
+   "name": "Cahier Piqûre CALLIGRAPHE Poésie & Chant Seyès/Uni 17X22 cm 48 Pages",
+   "brand": "CALLIGRAPHE",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 4.9,
+   "new_price": 2.2,
+   "discount_pct": 55.1,
+   "savings": 2.7,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-poesie-chant-seyes-uni-17x22-cm-48-pages-01.jpg",
+   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-poesie-chant-seyes-uni-17x22-cm-48-pages.html"
   },
   {
    "id": "72271",
@@ -10433,6 +10402,22 @@
    "url": "https://www.mytek.tn/cordon-d-alimentation-ac-iec-c14-iec-c13-180cm.html"
   },
   {
+   "id": "44263",
+   "sku": "8500255",
+   "name": "Cahier de dessin KO 10x10 24X32 cm",
+   "brand": "KO",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 2.9,
+   "new_price": 1.4,
+   "discount_pct": 51.7,
+   "savings": 1.5,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-de-dessin-ko-10x10-24x32-cm-8.gif",
+   "url": "https://www.mytek.tn/cahier-de-dessin-ko-10x10-24x32-cm.html"
+  },
+  {
    "id": "69030",
    "sku": "BU-2240N",
    "name": "Pack de 25 Stylos à Bille PENSAN MY TECH - Noir",
@@ -10588,6 +10573,21 @@
    "savings": 25.1,
    "image": "https://www.mytek.tn/media/catalog/product/b/a/barbecue-jetable-au-charbon-de-bois-avec-pieds---gris.jpg",
    "url": "https://www.mytek.tn/barbecue-jetable-au-charbon-de-bois-30-x-25-cm.html"
+  },
+  {
+   "id": "24257",
+   "sku": "9045",
+   "name": "Carnet Wiro OMEGA 160P 5/5 9x14 cm Avec Couverture Polypropylène",
+   "brand": "OMEGA-DISTRIBUTION",
+   "categories": [
+    "Cahier & Feuille"
+   ],
+   "old_price": 4.5,
+   "new_price": 2.2,
+   "discount_pct": 51.1,
+   "savings": 2.3,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/carnet-piqu_e-omega-160p-5-5-avec-couverture-polypropyl_ne.jpg",
+   "url": "https://www.mytek.tn/carnet-piquee-omega-160p-5-5-avec-couverture-polypropylene.html"
   },
   {
    "id": "66091",
@@ -20641,6 +20641,21 @@
    "url": "https://www.mytek.tn/ventilateur-a-pied-utech-fs-1813-silver.html"
   },
   {
+   "id": "75661",
+   "sku": "14772-20",
+   "name": "Coupe-Branches GARDENA EasyCut 110/18V P4A",
+   "brand": "GARDENA",
+   "categories": [
+    "Bricolage & jardin"
+   ],
+   "old_price": 1499,
+   "new_price": 925,
+   "discount_pct": 38.3,
+   "savings": 574,
+   "image": "https://www.mytek.tn/media/catalog/product/c/o/coupe-branches_easycut_gardena_110_18v_p4a.jpg",
+   "url": "https://www.mytek.tn/coupe-branches-gardena-easycut-110-18v-p4a.html"
+  },
+  {
    "id": "35228",
    "sku": "C-EXV32CA",
    "name": "Tambour Adaptable CANON C-EXV32CA - Noir",
@@ -21927,22 +21942,6 @@
    "url": "https://www.mytek.tn/cahier-piqure-calligraphe-96-pages-90gr-seyes-21x29-7-cm-rouge.html"
   },
   {
-   "id": "42570",
-   "sku": "18135",
-   "name": "Cahier Piqûre CALLIGRAPHE 96 Pages 90Gr Seyès 21x29.7 cm - Vert",
-   "brand": "CALLIGRAPHE",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 7.9,
-   "new_price": 5,
-   "discount_pct": 36.7,
-   "savings": 2.9,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-96-pages-90gr-seyes-21x29-7-cm-vert-01.jpg",
-   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-96-pages-90gr-seyes-21x29-7-cm-vert.html"
-  },
-  {
    "id": "42575",
    "sku": "18137",
    "name": "Cahier Piqûre CALLIGRAPHE 96 Pages 90Gr Seyès 21x29.7 cm - Violet",
@@ -22769,22 +22768,6 @@
    "savings": 10.0,
    "image": "https://www.mytek.tn/media/catalog/product/d/m/dm25ba6-3046.jpg",
    "url": "https://www.mytek.tn/moule-a-manque-pyrex-daily-metal-25cm.html"
-  },
-  {
-   "id": "60831",
-   "sku": "73512",
-   "name": "Pack de 12 Cryaon de Couleurs JOVI en Bois Maxi Triangulaire",
-   "brand": "JOVI",
-   "categories": [
-    "Coloriage & Pâte à Modeler",
-    "Crayons Couleurs"
-   ],
-   "old_price": 24.9,
-   "new_price": 16,
-   "discount_pct": 35.7,
-   "savings": 8.9,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-cryaon-de-couleurs-jovi-en-bois-maxi-triangulaire.jpg",
-   "url": "https://www.mytek.tn/pack-de-12-cryaon-de-couleurs-jovi-en-bois-maxi-triangulaire.html"
   },
   {
    "id": "46072",
@@ -24293,6 +24276,22 @@
    "url": "https://www.mytek.tn/ecouteurs-bluetooth-sgs-g9-avec-boitier-led-noir.html"
   },
   {
+   "id": "42570",
+   "sku": "18135",
+   "name": "Cahier Piqûre CALLIGRAPHE 96 Pages 90Gr Seyès 21x29.7 cm - Vert",
+   "brand": "CALLIGRAPHE",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 7.9,
+   "new_price": 5.2,
+   "discount_pct": 34.2,
+   "savings": 2.7,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-96-pages-90gr-seyes-21x29-7-cm-vert-01.jpg",
+   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-96-pages-90gr-seyes-21x29-7-cm-vert.html"
+  },
+  {
    "id": "43741",
    "sku": "413164",
    "name": "Cahier De texte YAMAMA DISNEY 94 Pages 90Gr 17X22 cm",
@@ -24466,6 +24465,22 @@
    "savings": 170,
    "image": "https://www.mytek.tn/media/catalog/product/m/a/machine-a-cafe-5en1-expresso-florence-1350w-chrome-1.jpg",
    "url": "https://www.mytek.tn/machine-a-cafe-5en1-expresso-florence-1350w-chrome.html"
+  },
+  {
+   "id": "60831",
+   "sku": "73512",
+   "name": "Pack de 12 Cryaon de Couleurs JOVI en Bois Maxi Triangulaire",
+   "brand": "JOVI",
+   "categories": [
+    "Coloriage & Pâte à Modeler",
+    "Crayons Couleurs"
+   ],
+   "old_price": 24.9,
+   "new_price": 16.4,
+   "discount_pct": 34.1,
+   "savings": 8.5,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-cryaon-de-couleurs-jovi-en-bois-maxi-triangulaire.jpg",
+   "url": "https://www.mytek.tn/pack-de-12-cryaon-de-couleurs-jovi-en-bois-maxi-triangulaire.html"
   },
   {
    "id": "69163",
@@ -28074,21 +28089,6 @@
    "url": "https://www.mytek.tn/collier-galmour-rond-pour-chien-33-41-cm-bleu.html"
   },
   {
-   "id": "45065",
-   "sku": "9061",
-   "name": "Cahier Registre OMEGA A4 384 Pages 5/5",
-   "brand": "OMEGA-DISTRIBUTION",
-   "categories": [
-    "Cahier & Feuille"
-   ],
-   "old_price": 15.9,
-   "new_price": 11,
-   "discount_pct": 30.8,
-   "savings": 4.9,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-registre-omega-a4-384-pages-5-5.jpg",
-   "url": "https://www.mytek.tn/cahier-registre-omega-a4-384-pages-5-5.html"
-  },
-  {
    "id": "59083",
    "sku": "306-7ZW5E27-C24",
    "name": "Refroidisseur De processeur Gamer MSI MAG CORELIQUIDE E240 - Blanc",
@@ -29046,6 +29046,38 @@
    "savings": 6.0,
    "image": "https://www.mytek.tn/media/catalog/product/b/o/bol-d-alimentation-lente-pour-chiens-et-chats-bleu-j.jpg",
    "url": "https://www.mytek.tn/bol-d-alimentation-lente-pour-chiens-et-chats-bleu.html"
+  },
+  {
+   "id": "72750",
+   "sku": "TAP-LECH-ORANGE",
+   "name": "Tapis à Lécher Anti-Glouton pour Chien et Chat - Orange",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Accessoires Chien",
+    "Animalerie"
+   ],
+   "old_price": 19.9,
+   "new_price": 13.9,
+   "discount_pct": 30.2,
+   "savings": 6.0,
+   "image": "https://www.mytek.tn/media/catalog/product/t/a/tapis-a-lecher-anti-glouton-pour-chien-et-chat-orange-u.jpg",
+   "url": "https://www.mytek.tn/tapis-a-lecher-anti-glouton-pour-chien-et-chat-orange.html"
+  },
+  {
+   "id": "72753",
+   "sku": "TAP-LECH-GREY",
+   "name": "Tapis à Lécher Anti-Glouton pour Chien et Chat - Gris",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Accessoires Chien",
+    "Animalerie"
+   ],
+   "old_price": 19.9,
+   "new_price": 13.9,
+   "discount_pct": 30.2,
+   "savings": 6.0,
+   "image": "https://www.mytek.tn/media/catalog/product/t/a/tapis-a-lecher-anti-glouton-pour-chien-et-chat-gris-y.jpg",
+   "url": "https://www.mytek.tn/tapis-a-lecher-anti-glouton-pour-chien-et-chat-gris.html"
   },
   {
    "id": "40782",
@@ -30537,6 +30569,21 @@
    "url": "https://www.mytek.tn/paquet-de-100-baguettes-reliure-8-mm-noir-bag8-n.html"
   },
   {
+   "id": "45065",
+   "sku": "9061",
+   "name": "Cahier Registre OMEGA A4 384 Pages 5/5",
+   "brand": "OMEGA-DISTRIBUTION",
+   "categories": [
+    "Cahier & Feuille"
+   ],
+   "old_price": 15.9,
+   "new_price": 11.3,
+   "discount_pct": 28.9,
+   "savings": 4.6,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-registre-omega-a4-384-pages-5-5.jpg",
+   "url": "https://www.mytek.tn/cahier-registre-omega-a4-384-pages-5-5.html"
+  },
+  {
    "id": "41719",
    "sku": "UNI40B",
    "name": "Haut Parleur Sans Fil ARTSOUND UNI40 Universals - Noir",
@@ -31533,22 +31580,6 @@
    "url": "https://www.mytek.tn/cahier-piqure-conquerant-192-pages-90-gr-seyes-17x22-cm-jaune.html"
   },
   {
-   "id": "42573",
-   "sku": "18364",
-   "name": "Cahier Piqûre CALLIGRAPHE 192 Pages 90 Gr Seyès 21x29.7 cm - Jaune",
-   "brand": "CALLIGRAPHE",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 13.9,
-   "new_price": 10,
-   "discount_pct": 28.1,
-   "savings": 3.9,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-192-pages-90-gr-seyes-21x29-7-cm-jaune-01.jpg",
-   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-192-pages-90-gr-seyes-21x29-7-cm-jaune.html"
-  },
-  {
    "id": "5407",
    "sku": "F6T79AE",
    "name": "Cartouche d'encre  Original HP 913A -  Jaune (F6T79AE)",
@@ -32348,21 +32379,6 @@
    "savings": 4.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-100-intercalaires-50-mic.jpg",
    "url": "https://www.mytek.tn/paquet-de-100-intercalaires-50-mic.html"
-  },
-  {
-   "id": "45805",
-   "sku": "4000005",
-   "name": "Blister avec 5 Modeleurs en Plastique JOVI Pour modelage",
-   "brand": "JOVI",
-   "categories": [
-    "Coloriage & Pâte à Modeler"
-   ],
-   "old_price": 9.9,
-   "new_price": 7.2,
-   "discount_pct": 27.3,
-   "savings": 2.7,
-   "image": "https://www.mytek.tn/media/catalog/product/b/l/blister-avec-5-modeleurs-en-plastique-jovi-pour-modelage.jpg",
-   "url": "https://www.mytek.tn/blister-avec-5-modeleurs-en-plastique-jovi-pour-modelage.html"
   },
   {
    "id": "24123",
@@ -34226,6 +34242,21 @@
    "url": "https://www.mytek.tn/souris-filaire-gamer-cooler-master-mm310-rgb-noir.html"
   },
   {
+   "id": "45805",
+   "sku": "4000005",
+   "name": "Blister avec 5 Modeleurs en Plastique JOVI Pour modelage",
+   "brand": "JOVI",
+   "categories": [
+    "Coloriage & Pâte à Modeler"
+   ],
+   "old_price": 9.9,
+   "new_price": 7.4,
+   "discount_pct": 25.3,
+   "savings": 2.5,
+   "image": "https://www.mytek.tn/media/catalog/product/b/l/blister-avec-5-modeleurs-en-plastique-jovi-pour-modelage.jpg",
+   "url": "https://www.mytek.tn/blister-avec-5-modeleurs-en-plastique-jovi-pour-modelage.html"
+  },
+  {
    "id": "72774",
    "sku": "CF214AA",
    "name": "Toner Adaptable Compatible HP CF214AA - Noir",
@@ -34411,6 +34442,22 @@
    "savings": 40,
    "image": "https://www.mytek.tn/media/catalog/product/s/a/sac_jeu_28_outils_wadfow_whs1m28.jpg",
    "url": "https://www.mytek.tn/sac-jeu-28-outils-wadfow-whs1m28.html"
+  },
+  {
+   "id": "42573",
+   "sku": "18364",
+   "name": "Cahier Piqûre CALLIGRAPHE 192 Pages 90 Gr Seyès 21x29.7 cm - Jaune",
+   "brand": "CALLIGRAPHE",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 13.9,
+   "new_price": 10.4,
+   "discount_pct": 25.2,
+   "savings": 3.5,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-192-pages-90-gr-seyes-21x29-7-cm-jaune-01.jpg",
+   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-192-pages-90-gr-seyes-21x29-7-cm-jaune.html"
   },
   {
    "id": "67894",
@@ -37398,6 +37445,22 @@
    "url": "https://www.mytek.tn/point-d-acces-hikvision-wi-fi-5-1200m.html"
   },
   {
+   "id": "77419",
+   "sku": "DAP-1665",
+   "name": "Point d'accès D-LINK DAP-1665 Wi-Fi AC1200 Dual-Band Blanc",
+   "brand": "DLINK",
+   "categories": [
+    "Point d'accès",
+    "Reseaux"
+   ],
+   "old_price": 299,
+   "new_price": 229,
+   "discount_pct": 23.4,
+   "savings": 70,
+   "image": "https://www.mytek.tn/media/catalog/product/p/o/point-d-acces-d-link-dap-1665-wi-fi-ac1200-dual-band-blanc-1.jpg",
+   "url": "https://www.mytek.tn/point-d-acces-d-link-dap-1665-wi-fi-ac1200-dual-band-blanc.html"
+  },
+  {
    "id": "62151",
    "sku": "ECRM-PR-02",
    "name": "Écran de Projection TELON Mural 213 x 213 cm",
@@ -37521,6 +37584,23 @@
    "savings": 1.4,
    "image": "https://www.mytek.tn/media/catalog/product/a/g/agrafes-maped-23-12-en-fil-metallique-galvanise-1000-pieces.jpg",
    "url": "https://www.mytek.tn/agrafes-maped-23-12-en-fil-metallique-galvanise-1000-pieces.html"
+  },
+  {
+   "id": "72772",
+   "sku": "PETSHOWER",
+   "name": "Douche Pour Animaux De Compagnie A Batterie Rechargeable",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Animalerie",
+    "Hygiène du chats",
+    "Hygiène du chiens"
+   ],
+   "old_price": 129,
+   "new_price": 99,
+   "discount_pct": 23.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/d/o/douche-pour-animaux-de-compagnie-a-batterie-rechargeable-003.jpg",
+   "url": "https://www.mytek.tn/douche-pour-animaux-de-compagnie-a-batterie-rechargeable.html"
   },
   {
    "id": "57915",
@@ -47826,21 +47906,6 @@
    "url": "https://www.mytek.tn/toner-laserjet-original-hp-207a-noir-w2210a.html"
   },
   {
-   "id": "42356",
-   "sku": "95103718",
-   "name": "Lot de 200 pages copies doubles CONQUERANT 70Gr Grands Carreaux Seyès Non Perforées A4",
-   "brand": "CONQUERANT",
-   "categories": [
-    "Cahier & Feuille"
-   ],
-   "old_price": 10.9,
-   "new_price": 9,
-   "discount_pct": 17.4,
-   "savings": 1.9,
-   "image": "https://www.mytek.tn/media/catalog/product/l/o/lot-de-200-pages-copies-doubles-conquerant-70gr-grands-carreaux-seyes-non-perforees-a4-01.jpg",
-   "url": "https://www.mytek.tn/lot-de-200-pages-copies-doubles-conquerant-70gr-grands-carreaux-seyes-non-perforees-a4.html"
-  },
-  {
    "id": "70338",
    "sku": "7FP38UE",
    "name": "Cartouche Original Jet D’encre HP 654 - Trois Couleurs",
@@ -51455,6 +51520,21 @@
    "url": "https://www.mytek.tn/power-bank-axis-q100-10000mah-noir.html"
   },
   {
+   "id": "42356",
+   "sku": "95103718",
+   "name": "Lot de 200 pages copies doubles CONQUERANT 70Gr Grands Carreaux Seyès Non Perforées A4",
+   "brand": "CONQUERANT",
+   "categories": [
+    "Cahier & Feuille"
+   ],
+   "old_price": 10.9,
+   "new_price": 9.2,
+   "discount_pct": 15.6,
+   "savings": 1.7,
+   "image": "https://www.mytek.tn/media/catalog/product/l/o/lot-de-200-pages-copies-doubles-conquerant-70gr-grands-carreaux-seyes-non-perforees-a4-01.jpg",
+   "url": "https://www.mytek.tn/lot-de-200-pages-copies-doubles-conquerant-70gr-grands-carreaux-seyes-non-perforees-a4.html"
+  },
+  {
    "id": "4109",
    "sku": "GD-0002595",
    "name": "Chaise Pilote Gaming En Cuir Avec Accoudoirs Rembourrés - Noir&Rouge",
@@ -52874,21 +52954,6 @@
    "savings": 110,
    "image": "https://www.mytek.tn/media/catalog/product/p/r/processeur-intel-core-i5-13400f-box-lga-1700-k.jpg",
    "url": "https://www.mytek.tn/processeur-intel-core-i5-13400f-box-lga-1700.html"
-  },
-  {
-   "id": "54805",
-   "sku": "2020124EU",
-   "name": "Destructeur de Documents REXEL Shredder Secure X10 Coupe croisée",
-   "brand": "Rexel",
-   "categories": [
-    "Fourniture de Bureau"
-   ],
-   "old_price": 469,
-   "new_price": 399,
-   "discount_pct": 14.9,
-   "savings": 70,
-   "image": "https://www.mytek.tn/media/catalog/product/d/e/destructeur-de-documents-rexel-shredder-secure-x10-coupe-croisee-4.jpg",
-   "url": "https://www.mytek.tn/destructeur-de-documents-rexel-shredder-secure-x10-coupe-croisee.html"
   },
   {
    "id": "73400",
@@ -55833,6 +55898,21 @@
    "savings": 18,
    "image": "https://www.mytek.tn/media/catalog/product/t/a/tableau-blanc-faibo-11m2-double-face-60-x-90-cm-f.jpg",
    "url": "https://www.mytek.tn/tableau-blanc-faibo-11m2-double-face-60-x-90-cm.html"
+  },
+  {
+   "id": "54805",
+   "sku": "2020124EU",
+   "name": "Destructeur de Documents REXEL Shredder Secure X10 Coupe croisée",
+   "brand": "Rexel",
+   "categories": [
+    "Fourniture de Bureau"
+   ],
+   "old_price": 469,
+   "new_price": 409,
+   "discount_pct": 12.8,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/d/e/destructeur-de-documents-rexel-shredder-secure-x10-coupe-croisee-4.jpg",
+   "url": "https://www.mytek.tn/destructeur-de-documents-rexel-shredder-secure-x10-coupe-croisee.html"
   },
   {
    "id": "59110",
