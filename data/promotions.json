@@ -1,8 +1,8 @@
 {
- "scanned_at": "2026-08-17T05:34:25.770833+00:00",
+ "scanned_at": "2026-08-18T05:28:15.391110+00:00",
  "source": "https://www.mytek.tn",
- "product_count": 4294,
- "duration_seconds": 10.3,
+ "product_count": 4276,
+ "duration_seconds": 8.1,
  "errors": 0,
  "products": [
   {
@@ -459,7 +459,7 @@
    "id": "7567",
    "sku": "NANO-SAM-A20S",
    "name": "Film de Protection NEO Pour SAMSUNG GALAXY A20S",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Accessoires Téléphonie",
     "Protection Ecran"
@@ -475,7 +475,7 @@
    "id": "7570",
    "sku": "NANO-SPARK5",
    "name": "Film de Protection NEO Pour Tecno Spark 5",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Accessoires Téléphonie",
     "Protection Ecran"
@@ -507,7 +507,7 @@
    "id": "7621",
    "sku": "NANO-EVERTEK-M10",
    "name": "Film de Protection NEO Pour EVERTEK M10",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Accessoires Téléphonie",
     "Protection Ecran"
@@ -539,7 +539,7 @@
    "id": "7996",
    "sku": "NANO-HU-Y7P",
    "name": "Film de Protection NANO Pour HUAWEI Y7P",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Accessoires Téléphonie",
     "Protection Ecran"
@@ -555,7 +555,7 @@
    "id": "8009",
    "sku": "NANO-IKU-K3",
    "name": "Film de Protection NEO Pour IKU K3",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Accessoires Téléphonie",
     "Protection Ecran"
@@ -571,7 +571,7 @@
    "id": "10034",
    "sku": "NANO-IKU-Y3",
    "name": "Film de Protection NEO Pour IKU Y3",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Accessoires Téléphonie",
     "Protection Ecran"
@@ -587,7 +587,7 @@
    "id": "11725",
    "sku": "NANO-G-Y5LITE",
    "name": "Film de Protection NEO Pour Smatphone HUAWEI Y5 Lite",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Accessoires Téléphonie",
     "Protection Ecran"
@@ -664,7 +664,7 @@
    "id": "913",
    "sku": "NANO-G-NOKIA-2-2019",
    "name": "Film de Protection NEO Pour Nokia 2.2",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -724,7 +724,7 @@
    "id": "7553",
    "sku": "NANO-IKU-A30",
    "name": "Film de Protection NEO Pour IKU A30",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -739,7 +739,7 @@
    "id": "7577",
    "sku": "NANO-HU-Y8P",
    "name": "Film de Protection NEO Pour Smartphone HUAWEI Y8P",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -754,7 +754,7 @@
    "id": "7594",
    "sku": "NANO-IPRO-L50",
    "name": "Film de Protection NEO Pour IPRO L50",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -769,7 +769,7 @@
    "id": "7599",
    "sku": "NANO-IPRO-L40",
    "name": "Film de Protection NEO Pour IPRO L40",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -784,7 +784,7 @@
    "id": "7613",
    "sku": "NANO-EVERTEK-V5",
    "name": "Film de Protection NEO Pour EVERTEK V5",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -799,7 +799,7 @@
    "id": "7624",
    "sku": "NANO-G-NOKIA-1",
    "name": "Film de protection NANO Pour NOKIA 1",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -814,7 +814,7 @@
    "id": "7625",
    "sku": "NANO-G-Y3-2017",
    "name": "Film de Protection NANO Pour HUAWEI Y3 2017",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -829,7 +829,7 @@
    "id": "7632",
    "sku": "NANO-G-SAM-J5RO",
    "name": "Film de protection NANO Pour SAMSUNG J5 Pro",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -859,7 +859,7 @@
    "id": "7648",
    "sku": "NANO-G-Y5-PRIME",
    "name": "Film de Protection NANO Pour HUAWEI Y5 Prime",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -874,7 +874,7 @@
    "id": "7652",
    "sku": "NANO-G-SAM-J6",
    "name": "Film de protection NANO Pour SAMSUNG J6",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -889,7 +889,7 @@
    "id": "7658",
    "sku": "NANO-G-Y6-PRIME",
    "name": "Film de Protection NANO Pour HUAWEI Y6 Prime",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -904,7 +904,7 @@
    "id": "7660",
    "sku": "NANO-G-SAM-J7-CORE",
    "name": "Film de protection NANO Pour SAMSUNG J7 CORE 2018",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -919,7 +919,7 @@
    "id": "7665",
    "sku": "NANO-DOODGE-X90",
    "name": "Film de Protection NEO Pour Smartphone DOOGEE X90",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -934,7 +934,7 @@
    "id": "7668",
    "sku": "NANO-IKU-A20",
    "name": "Film de Protection NEO Pour Smartphone IKU A20",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -949,7 +949,7 @@
    "id": "7683",
    "sku": "NANO-SAM-A80",
    "name": "Film de Protection NEO Pour SAMSUNG GALAXY A80",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -964,7 +964,7 @@
    "id": "7701",
    "sku": "NANO-G-NOKIA3-2018",
    "name": "Film de protection NANO Pour NOKIA 3.1",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -979,7 +979,7 @@
    "id": "7704",
    "sku": "NANO-G-SAM-J7-PRO",
    "name": "Film de protection NANO Pour SAMSUNG J7 Pro",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -994,7 +994,7 @@
    "id": "7713",
    "sku": "NANO-OPPO-A1K",
    "name": "Film de Protection NANO Pour OPPO A1K",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1009,7 +1009,7 @@
    "id": "7732",
    "sku": "NANO-G-SAM-A6",
    "name": "Film de protection NANO Pour SAMSUNG A6",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1039,7 +1039,7 @@
    "id": "7741",
    "sku": "NANO-SAM-A2-CORE",
    "name": "Film de Protection NEO Pour Samsung A2 Core",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1054,7 +1054,7 @@
    "id": "7743",
    "sku": "NANO-G-SAM-G532",
    "name": "Film de protection NANO Pour SAMSUNG GRAND PRIME PLUS",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1129,7 +1129,7 @@
    "id": "7925",
    "sku": "NANO-G-NOKIA2-3",
    "name": "Film de Protection NEO Pour NOKIA 2.3",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1144,7 +1144,7 @@
    "id": "7947",
    "sku": "NANO-G-SAM-J4",
    "name": "Film de protection NANO Pour SAMSUNG J4",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1219,7 +1219,7 @@
    "id": "7990",
    "sku": "NANO-NOKIA7-2",
    "name": "Film de Protection NEO Pour NOKIA 7.2",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1234,7 +1234,7 @@
    "id": "8006",
    "sku": "NANO-G-NOKIA4-2",
    "name": "Film de Protection NEO Pour NOKIA 4.2",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1249,7 +1249,7 @@
    "id": "8014",
    "sku": "NANO-XIAOMI-S2",
    "name": "Film de Protection NANO Pour XIAOMI S2",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NANO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1264,7 +1264,7 @@
    "id": "8019",
    "sku": "NANO-NOKIA3-2",
    "name": "Film de Protection NEO Pour NOKIA 3.2",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1279,7 +1279,7 @@
    "id": "8021",
    "sku": "NANO-IKU-Y2",
    "name": "Film de Protection NEO Pour IKU Y2",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -1578,21 +1578,6 @@
    "savings": 8.9,
    "image": "https://www.mytek.tn/media/catalog/product/c/o/coque-silicone-pour-kxd-smartphone-a06-1.jpg",
    "url": "https://www.mytek.tn/coque-silicone-pour-kxd-smartphone-a06.html"
-  },
-  {
-   "id": "65944",
-   "sku": "81UCFGCSMEL",
-   "name": "Louche FAGOR Melier",
-   "brand": "FAGOR",
-   "categories": [
-    "Cuisine"
-   ],
-   "old_price": 29,
-   "new_price": 3,
-   "discount_pct": 89.7,
-   "savings": 26,
-   "image": "https://www.mytek.tn/media/catalog/product/l/o/louche-fagor-melier-z.jpg",
-   "url": "https://www.mytek.tn/louche-fagor-melier.html"
   },
   {
    "id": "72446",
@@ -1953,22 +1938,6 @@
    "url": "https://www.mytek.tn/prise-anti-insectes-e8544-recharge-liquide-hacker-warrior.html"
   },
   {
-   "id": "78399",
-   "sku": "NS-216-BL",
-   "name": "Tondeuse à Cheveux Rechargeable NS-216 - Bleu",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Soins Homme",
-    "Tondeuse"
-   ],
-   "old_price": 49,
-   "new_price": 9.9,
-   "discount_pct": 79.8,
-   "savings": 39.1,
-   "image": "https://www.mytek.tn/media/catalog/product/t/o/tondeuse-a-cheveux-rechargeable-ns-216-bleu-002.jpg",
-   "url": "https://www.mytek.tn/tondeuse-a-cheveux-rechargeable-ns-216-bleu.html"
-  },
-  {
    "id": "10023",
    "sku": "JD-TG-J1ACE-MINI",
    "name": "TEMPERED GLASS Pour Smartphone SAMSUNG Galaxy J1 Ace Mini",
@@ -1982,6 +1951,22 @@
    "savings": 3.9,
    "image": "https://www.mytek.tn/media/catalog/product/j/d/jd-tg-j1ace-mini.jpg",
    "url": "https://www.mytek.tn/tempereted-glass-samsung-j1-ace-mini.html"
+  },
+  {
+   "id": "78239",
+   "sku": "6222023501713",
+   "name": "Set de 6 Bols en Verre 12 cm",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Cuisine",
+    "Vaisselle & Art de la Table"
+   ],
+   "old_price": 29,
+   "new_price": 5.99,
+   "discount_pct": 79.3,
+   "savings": 23.01,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-6-bols-en-verre-12-cm.jpg",
+   "url": "https://www.mytek.tn/set-de-6-bols-en-verre-12-cm.html"
   },
   {
    "id": "64706",
@@ -2044,22 +2029,6 @@
    "url": "https://www.mytek.tn/bouteille-d-encre-original-canon-gi-40-cyan-gi-40c.html"
   },
   {
-   "id": "78239",
-   "sku": "6222023501713",
-   "name": "Set de 6 Bols en Verre 12 cm",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Cuisine",
-    "Vaisselle & Art de la Table"
-   ],
-   "old_price": 29,
-   "new_price": 6.9,
-   "discount_pct": 76.2,
-   "savings": 22.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-6-bols-en-verre-12-cm.jpg",
-   "url": "https://www.mytek.tn/set-de-6-bols-en-verre-12-cm.html"
-  },
-  {
    "id": "59288",
    "sku": "24404",
    "name": "Pack de 20 Chiffons de Nettoyage en Métal Pour Taches Tenaces - Gris",
@@ -2108,7 +2077,7 @@
    "id": "7735",
    "sku": "NANO-REDMI-7A",
    "name": "Film de Protection NEO Pour Smatphone REDMI 7A",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -2654,7 +2623,7 @@
    "id": "67307",
    "sku": "CQ-LABUBU-13/14/15-SL",
    "name": "Coque Silicone Labubu Pour Iphone 13/14/15 - Silver",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2671,7 +2640,7 @@
    "id": "67311",
    "sku": "CQ-LABUBU-IPH13/14/15PRO-DB",
    "name": "Coque Silicone Labubu Pour Iphone 13/14/15 Pro - Beige Foncé",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2688,7 +2657,7 @@
    "id": "67314",
    "sku": "CQ-LABUBU-IPH13/14/15PRO-SL",
    "name": "Coque Silicone Labubu Pour Iphone 13/14/15 Pro - Silver",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2705,7 +2674,7 @@
    "id": "67315",
    "sku": "CQ-LABUBU-IPH13/14/15PRO-DPK",
    "name": "Coque Silicone Labubu Pour Iphone 13/14/15 Pro - Rose foncé",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2722,7 +2691,7 @@
    "id": "67317",
    "sku": "CQ-LABUBU-IPH13/14/15PRO-PK",
    "name": "Coque Silicone Labubu Pour Iphone 13/14/15 Pro - Rose",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2739,7 +2708,7 @@
    "id": "67319",
    "sku": "CQ-LABUBU-IPH13/14/15PRO-SBLUE",
    "name": "Coque Silicone Labubu Pour Iphone 13/14/15 Pro - Bleu ciel",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2756,7 +2725,7 @@
    "id": "67321",
    "sku": "CQ-LABUBU-IPH13/14/15PRO-LILAC",
    "name": "Coque Silicone Labubu Pour Iphone 13/14/15 Pro - Lilas",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2773,7 +2742,7 @@
    "id": "67325",
    "sku": "CQ-LABUBU-IPH14/15PRO-MAX-LILAC",
    "name": "Coque Silicone Labubu Pour Iphone 14/15 Pro Max - Lilas",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2790,7 +2759,7 @@
    "id": "67329",
    "sku": "CQ-LABUBU-IPH14/15PRO-MAX-SL",
    "name": "Coque Silicone Labubu Pour Iphone 14/15 Pro Max  - Silver",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2807,7 +2776,7 @@
    "id": "67332",
    "sku": "CQ-LABUBU-IPH14/15PRO-MAX-BR",
    "name": "Coque Silicone Labubu Pour Iphone 14/15 Pro Max  - MARRON",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2824,7 +2793,7 @@
    "id": "67333",
    "sku": "CQ-LABUBU-IPH14/15PRO-MAX-PK",
    "name": "Coque Silicone Labubu Pour Iphone 14/15 Pro Max  - Rose",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2841,7 +2810,7 @@
    "id": "67337",
    "sku": "CQ-LABUBU-IPH-14/15PRO-MAX-DPINK",
    "name": "Coque Silicone Labubu Pour Iphone 14/15 Pro Max - Rose foncé",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2858,7 +2827,7 @@
    "id": "67340",
    "sku": "CQ-LABUBU-IPH14/15PRO-MAX-SBL",
    "name": "Coque Silicone Labubu Pour Iphone 14/15 Pro Max - Bleu Ciel",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2875,7 +2844,7 @@
    "id": "67341",
    "sku": "CQ-LABUBU-14/15PRO-MAX-DB",
    "name": "Coque Silicone Labubu Pour Iphone 14/15 Pro Max - Beige Foncé",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2892,7 +2861,7 @@
    "id": "67344",
    "sku": "CQ-LABUBU-IPH16-DB",
    "name": "Coque Silicone Labubu Pour Iphone 16 - Beige Foncé",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2909,7 +2878,7 @@
    "id": "67347",
    "sku": "CQ-LABUBU-IPH16-DPINK",
    "name": "Coque Silicone Labubu Pour Iphone 16 - Rose foncé",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2926,7 +2895,7 @@
    "id": "67351",
    "sku": "CQ-LABUBU-IPH16-PK",
    "name": "Coque Silicone Labubu Pour Iphone 16 - Rose",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2943,7 +2912,7 @@
    "id": "67353",
    "sku": "CQ-LABUBU-IPH16-BK",
    "name": "Coque Silicone Labubu Pour Iphone 16 - Noir",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2960,7 +2929,7 @@
    "id": "67357",
    "sku": "CQ-LABUBU-IPH16-SBL",
    "name": "Coque Silicone Labubu Pour Iphone 16 - Bleu ciel",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2977,7 +2946,7 @@
    "id": "67395",
    "sku": "CQ-LABUBU-IPH16-LILAC",
    "name": "Coque Silicone Labubu Pour Iphone 16 - Lilas",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -2994,7 +2963,7 @@
    "id": "67399",
    "sku": "CQ-LABUBU-IPH16-BR",
    "name": "Coque Silicone Labubu Pour Iphone 16 - Marron",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3011,7 +2980,7 @@
    "id": "67402",
    "sku": "CQ-LABUBU-IPH16-SL",
    "name": "Coque Silicone Labubu Pour Iphone 16 - Silver",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3028,7 +2997,7 @@
    "id": "67405",
    "sku": "CQ-LABUBU-IPH16PRO/MAX-SL",
    "name": "Coque Silicone Labubu Pour Iphone 16 Pro Max - Silver",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3045,7 +3014,7 @@
    "id": "67407",
    "sku": "CQ-LABUBU-IPH16PRO/MAX-BR",
    "name": "Coque Silicone Labubu Pour Iphone 16 Pro Max - Marron",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3062,7 +3031,7 @@
    "id": "67408",
    "sku": "CQ-LABUBU-IPH16PRO/MAX-DB",
    "name": "Coque Silicone Labubu Pour Iphone 16 Pro Max - Beige Foncé",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3079,7 +3048,7 @@
    "id": "67411",
    "sku": "CQ-LABUBU-IPH16PRO/MAX-DPK",
    "name": "Coque Silicone Labubu Pour Iphone 16 Pro Max - Rose foncé",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3096,7 +3065,7 @@
    "id": "67415",
    "sku": "CQ-LABUBU-IPH16PRO/MAX-PK",
    "name": "Coque Silicone Labubu Pour Iphone 16 Pro Max - Rose",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3113,7 +3082,7 @@
    "id": "67416",
    "sku": "CQ-LABUBU-IPH16PRO/MAX-BK",
    "name": "Coque Silicone Labubu Pour Iphone 16 Pro Max - Noir",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3130,7 +3099,7 @@
    "id": "67417",
    "sku": "CQ-LABUBU-IPH16PRO/MAX-LILAC",
    "name": "Coque Silicone Labubu Pour Iphone 16 Pro Max - Lilas",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3147,7 +3116,7 @@
    "id": "67423",
    "sku": "CQ-LABUBU-IPH16PRO/MAX-SBL",
    "name": "Coque Silicone Labubu Pour Iphone 16 Pro Max - Bleu Ciel",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -3632,23 +3601,6 @@
    "savings": 14.1,
    "image": "https://www.mytek.tn/media/catalog/product/b/o/bou_e-baby-boat-tortue-27---vert.jpg",
    "url": "https://www.mytek.tn/bouee-gonflable-baby-boat-turtle-27-vert.html"
-  },
-  {
-   "id": "75990",
-   "sku": "BOUEE-CAR",
-   "name": "Bouée Gonflable Baby Boat Lightning McQueen 27\" - Rouge",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Jeux de Plein Air",
-    "Matelas Gonflable",
-    "Piscine et Jeux de Plage"
-   ],
-   "old_price": 19,
-   "new_price": 4.9,
-   "discount_pct": 74.2,
-   "savings": 14.1,
-   "image": "https://www.mytek.tn/media/catalog/product/b/o/bou_e-baby-boat-flash-mcqueen-27---confortable---rouge.jpg",
-   "url": "https://www.mytek.tn/bouee-gonflable-baby-boat-lightning-mcqueen-27-rouge.html"
   },
   {
    "id": "75991",
@@ -4210,7 +4162,7 @@
    "new_price": 449,
    "discount_pct": 69.8,
    "savings": 1040,
-   "image": "https://www.mytek.tn/media/catalog/product/t/o/tondeuse_gazon_sans_fil_blue_ridge_br8761_-_bleu_4_.jpg",
+   "image": "https://www.mytek.tn/media/catalog/product/t/o/tondeuse-a-gazon-sans-fil-blue-ridge-br8761-bleu-q.jpg",
    "url": "https://www.mytek.tn/tondeuse-a-gazon-sans-fil-blue-ridge-br8761-bleu.html"
   },
   {
@@ -4379,21 +4331,6 @@
    "savings": 34.1,
    "image": "https://www.mytek.tn/media/catalog/product/k/i/kit-de-couteaux-3-pi_ces-acier-inox-poign_e-soft-touch-noir.jpg",
    "url": "https://www.mytek.tn/set-de-3-couteaux-cuisine-premium-kunsion-3-pieces-noir-dore.html"
-  },
-  {
-   "id": "41577",
-   "sku": "TAB-BLEU-12",
-   "name": "Ardoise Magique LCD 12'' Pour Enfant - Bleu",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Loisirs Créatifs"
-   ],
-   "old_price": 59,
-   "new_price": 18,
-   "discount_pct": 69.5,
-   "savings": 41,
-   "image": "https://www.mytek.tn/media/catalog/product/a/r/ardoise-magique-lcd-12_-pour-enfant---bleu.jpg",
-   "url": "https://www.mytek.tn/ardoise-magique-lcd-12-pour-enfant-bleu.html"
   },
   {
    "id": "15892",
@@ -4826,7 +4763,7 @@
    "id": "29833",
    "sku": "ELIXIR-H0458",
    "name": "Lot De 6 Verres A Pied CRISTAL D'ARQUE Elixir 25 cl",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "CRISTAL-D-ARQUES",
    "categories": [
     "Cuisine",
     "Vaisselle & Art de la Table"
@@ -4916,6 +4853,22 @@
    "url": "https://www.mytek.tn/aspirateur-a-main-3en1-portable-hb-2038-noir.html"
   },
   {
+   "id": "78496",
+   "sku": "YT-M2037",
+   "name": "Mini Aspirateur à Main 2en1 YT-M2037 - Noir",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Aspirateur",
+    "Hygiene et soin maison"
+   ],
+   "old_price": 59,
+   "new_price": 19.9,
+   "discount_pct": 66.3,
+   "savings": 39.1,
+   "image": "https://www.mytek.tn/media/catalog/product/m/i/mini-aspirateur-souffleur-4-en-1-yt-m2037-_-sans-fil.jpg",
+   "url": "https://www.mytek.tn/mini-aspirateur-a-main-2en1-yt-m2037-noir.html"
+  },
+  {
    "id": "57520",
    "sku": "32-3-F",
    "name": "Lot De 6 Fourchettes Décoratives Avec Motifs Gourmands - Doré",
@@ -4976,6 +4929,21 @@
    "savings": 39.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/o/pompe-_-air-_lectrique-12v-pour-voiture-ht-196a---noir.jpg",
    "url": "https://www.mytek.tn/pompe-a-air-electrique-ht-196a-pour-voiture-noir.html"
+  },
+  {
+   "id": "74635",
+   "sku": "PANIER-PLAGE-B",
+   "name": "Panier Pique-Nique Isotherme Pliable Pour Plage - Bleu Marine",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Sacs & Bagages"
+   ],
+   "old_price": 59,
+   "new_price": 19.9,
+   "discount_pct": 66.3,
+   "savings": 39.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/panier-pique-nique-isotherme-pliable-pour-plage---bleu-marine.jpg",
+   "url": "https://www.mytek.tn/panier-pique-nique-isotherme-pliable-pour-plage-bleu-marine.html"
   },
   {
    "id": "74637",
@@ -5766,6 +5734,39 @@
    "url": "https://www.mytek.tn/coupe-bordure-electriques-blue-ridge-br8103-600w-bleu.html"
   },
   {
+   "id": "78540",
+   "sku": "8005019",
+   "name": "Pack de 6 Crayons VNEEDS Petit Modèle Couleur Assortis",
+   "brand": "VNEEDS",
+   "categories": [
+    "Coloriage & Pâte à Modeler",
+    "Crayons Couleurs",
+    "Fourniture de Bureau"
+   ],
+   "old_price": 2.9,
+   "new_price": 1,
+   "discount_pct": 65.5,
+   "savings": 1.9,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-6-crayons-vneeds-petit-modele-couleur-assortis--1.jpg",
+   "url": "https://www.mytek.tn/pack-de-6-crayons-vneeds-petit-modele-couleur-assortis.html"
+  },
+  {
+   "id": "78548",
+   "sku": "8002315",
+   "name": "Pack de 6 crayons de Cire VNEEDS Petit Modèle Couleur Assortis",
+   "brand": "VNEEDS",
+   "categories": [
+    "Coloriage & Pâte à Modeler",
+    "Fourniture de Bureau"
+   ],
+   "old_price": 2.9,
+   "new_price": 1,
+   "discount_pct": 65.5,
+   "savings": 1.9,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-crayons-de-cire-vneeds-petit-modele-couleur-assortis.jpg",
+   "url": "https://www.mytek.tn/pack-de-6-crayons-de-cire-vneeds-petit-modele-couleur-assortis.html"
+  },
+  {
    "id": "72748",
    "sku": "TN2420A",
    "name": "Toner Adaptable BROTHER TN2420A - Noir",
@@ -5800,7 +5801,7 @@
    "id": "8069",
    "sku": "NANO-HU-Y9A-PACK",
    "name": "Pack De Deux Film De Protection NEO Pour Smartphone HUAWEI Y9A",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEO",
    "categories": [
     "Protection Ecran"
    ],
@@ -6247,6 +6248,22 @@
    "url": "https://www.mytek.tn/raquette-anti-moustiques-electrique-gecko-usb-219-blanc.html"
   },
   {
+   "id": "25695",
+   "sku": "400348",
+   "name": "Cahier Piqûre YAMAMA Super 96 Pages 60g 5/5 21x29.7 cm",
+   "brand": "YAMAMA",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 6.9,
+   "new_price": 2.5,
+   "discount_pct": 63.8,
+   "savings": 4.4,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piq_re-yamama-super-96-pages-60g-5x5-21-x-29-2.jpg",
+   "url": "https://www.mytek.tn/cahier-piqure-yamama-super-96-pages-60g-5x5-21-x-29-7-cm-400348.html"
+  },
+  {
    "id": "13452",
    "sku": "D9Y32AA",
    "name": "Station d'accueil HP Mécanique Ultra Slim (D9Y32AA)",
@@ -6383,6 +6400,22 @@
    "savings": 50,
    "image": "https://www.mytek.tn/media/catalog/product/l/i/lisseur-cheveux-professionnel-raf-r-4484-40w-gris-2.jpg",
    "url": "https://www.mytek.tn/lisseur-cheveux-professionnel-raf-r-4484-40w-gris.html"
+  },
+  {
+   "id": "71146",
+   "sku": "R0429",
+   "name": "Lisseur Cheveux Professionnel RAF R.0429 38W - Noir",
+   "brand": "RAF",
+   "categories": [
+    "Lisseur",
+    "Soins Femme"
+   ],
+   "old_price": 79,
+   "new_price": 29,
+   "discount_pct": 63.3,
+   "savings": 50,
+   "image": "https://www.mytek.tn/media/catalog/product/l/i/lisseur-cheveux-professionnel-raf-r-0429-38w-noir-o.jpg",
+   "url": "https://www.mytek.tn/lisseur-cheveux-professionnel-raf-r-0429-38w-noir.html"
   },
   {
    "id": "57642",
@@ -6750,7 +6783,7 @@
    "id": "67318",
    "sku": "CQ-LABUBU-IPH13/14/15PRO-BR",
    "name": "Coque Silicone Labubu Pour Iphone 13/14/15 Pro - marron",
-   "brand": "APPLE",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires Téléphonie",
     "Coque",
@@ -6854,22 +6887,6 @@
    "savings": 24.1,
    "image": "https://www.mytek.tn/media/catalog/productno_selection",
    "url": "https://www.mytek.tn/lampe-anti-moustiques-usb-jt-z01-blanc.html"
-  },
-  {
-   "id": "75951",
-   "sku": "MAT-GONF-BLEU",
-   "name": "Matelas Gonflable INFLATABLE MATTRESS - Bleu",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Matelas Gonflable",
-    "Piscine et Jeux de Plage"
-   ],
-   "old_price": 39,
-   "new_price": 14.9,
-   "discount_pct": 61.8,
-   "savings": 24.1,
-   "image": "https://www.mytek.tn/media/catalog/product/m/a/matelas-gonflable-past_que-183x69cm---piscine-_-plage-1.jpg",
-   "url": "https://www.mytek.tn/matelas-gonflable-inflatable-mattress-bleu.html"
   },
   {
    "id": "75952",
@@ -7116,6 +7133,22 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/a/r/ardoise-magique-lcd-10-pour-enfant-vert.jpg",
    "url": "https://www.mytek.tn/ardoise-magique-lcd-10-pour-enfant-vert.html"
+  },
+  {
+   "id": "58782",
+   "sku": "R-7114",
+   "name": "Moulin À Épices et Café RAF R-7114 300W - Chrome",
+   "brand": "RAF",
+   "categories": [
+    "Café et Petit déjeuner",
+    "Cuisine"
+   ],
+   "old_price": 89,
+   "new_price": 35,
+   "discount_pct": 60.7,
+   "savings": 54,
+   "image": "https://www.mytek.tn/media/catalog/product/m/o/moulin-a-epices-et-cafe-raf-r-7114-300w-chrome.jpg",
+   "url": "https://www.mytek.tn/moulin-a-epices-et-cafe-raf-r-7114-300w-chrome.html"
   },
   {
    "id": "3856",
@@ -7473,7 +7506,7 @@
    "id": "76513",
    "sku": "NETTOYEUR-HP-2",
    "name": "Nettoyeur Haute Pression Sans Fil Portable Avec 2x Batteries 48V",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Hygiene et soin maison"
    ],
@@ -7595,8 +7628,9 @@
    "id": "76738",
    "sku": "MONTRE-AR-B",
    "name": "Montre Bracelet Femme Golden Breeze - Argent et Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
+    "Mode",
     "Montre"
    ],
    "old_price": 99,
@@ -7610,7 +7644,7 @@
    "id": "76742",
    "sku": "MONTRE-D-N",
    "name": "Montre Bracelet Femme Golden Breeze - Doré & Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Montre"
    ],
@@ -7625,7 +7659,7 @@
    "id": "76743",
    "sku": "MONTRE-DOR",
    "name": "Montre Bracelet Femme Golden Breeze - Doré & Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Montre"
    ],
@@ -8444,6 +8478,22 @@
    "url": "https://www.mytek.tn/cahier-de-dessin-yamama-10x10-disney-pm-90gr.html"
   },
   {
+   "id": "45559",
+   "sku": "429318",
+   "name": "Cahier piquée YAMAMA à carreaux 48 Pages 17x22 cm 70Gr -Rose",
+   "brand": "YAMAMA",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 2.9,
+   "new_price": 1.2,
+   "discount_pct": 58.6,
+   "savings": 1.7,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piquee-yamama-a-carreaux-48-pages-17x22-cm-70gr-rose.jpg",
+   "url": "https://www.mytek.tn/cahier-piquee-yamama-a-carreaux-48-pages-17x22-cm-70gr-rose.html"
+  },
+  {
    "id": "68692",
    "sku": "049431",
    "name": "Fiche Multiprises LEGRAND 2X2P+T Fontale - Blanc Et Gris Clair",
@@ -8748,21 +8798,6 @@
    "savings": 8.0,
    "image": "https://www.mytek.tn/media/catalog/product/_/t/_toile-pour-sapin-de-no_l-_-la-touche-magique-de-vos-f_tes.jpg",
    "url": "https://www.mytek.tn/etoile-pour-sapin-de-noel.html"
-  },
-  {
-   "id": "14049",
-   "sku": "T42128-M",
-   "name": "Sac à Dos Primaire COOL SCHOOL Ergo Space Taille M Pour Garçon - Noir&Bleu",
-   "brand": "COOL-SCHOOL",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 209,
-   "new_price": 89,
-   "discount_pct": 57.4,
-   "savings": 120,
-   "image": "https://www.mytek.tn/media/catalog/product/t/4/t42129-l_1_2.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-primaire-cool-school-ergo-space-taille-m-pour-garcon-noir-bleu.html"
   },
   {
    "id": "51502",
@@ -9139,20 +9174,36 @@
    "url": "https://www.mytek.tn/pochette-de-4-stylos-pensan-a-bille-2021-assortis.html"
   },
   {
-   "id": "78345",
-   "sku": "AT-7002",
-   "name": "Mini Hachoir FLORENCE AT-7002 1000W - Inox",
-   "brand": "FLORENCE",
+   "id": "61383",
+   "sku": "PE-055-NOIR",
+   "name": "Mixeur 4EN1 PROVA PE-055 400W - Noir",
+   "brand": "PROVA",
    "categories": [
-    "Hachoir",
+    "Mixeur",
     "Préparation culinaire"
    ],
-   "old_price": 89,
-   "new_price": 39,
-   "discount_pct": 56.2,
-   "savings": 50,
-   "image": "https://www.mytek.tn/media/catalog/product/m/i/mini-hachoir-florence-at-7002-1000w-inox-003.jpg",
-   "url": "https://www.mytek.tn/mini-hachoir-florence-at-7002-1000w-inox.html"
+   "old_price": 159,
+   "new_price": 69.9,
+   "discount_pct": 56.0,
+   "savings": 89.1,
+   "image": "https://www.mytek.tn/media/catalog/product/m/i/mixeur-4en1-prova-pe-055-600w-noir-r.jpg",
+   "url": "https://www.mytek.tn/mixeur-4en1-prova-pe-055-600w-noir.html"
+  },
+  {
+   "id": "67639",
+   "sku": "PE-1053-ROUGE",
+   "name": "Mixeur 4EN1 PROVA PE-1053 600W - Rouge",
+   "brand": "PROVA",
+   "categories": [
+    "Mixeur",
+    "Préparation culinaire"
+   ],
+   "old_price": 159,
+   "new_price": 69.9,
+   "discount_pct": 56.0,
+   "savings": 89.1,
+   "image": "https://www.mytek.tn/media/catalog/product/m/i/mixeur-4en1-prova-pe-1053-600w-rouge.jpg",
+   "url": "https://www.mytek.tn/mixeur-4en1-prova-pe-1053-600w-rouge.html"
   },
   {
    "id": "75604",
@@ -9357,21 +9408,6 @@
    "url": "https://www.mytek.tn/ecouteurs-filaires-hoco-m109-type-c-blanc.html"
   },
   {
-   "id": "69289",
-   "sku": "HOCO-M104",
-   "name": "Ecouteurs Filaires Hoco M104 Jack 3.5mm  - Blanc",
-   "brand": "HOCO",
-   "categories": [
-    "Son Numérique"
-   ],
-   "old_price": 29,
-   "new_price": 12.9,
-   "discount_pct": 55.5,
-   "savings": 16.1,
-   "image": "https://www.mytek.tn/media/catalog/product/e/c/ecouteurs-filaires-hoco-m109-blanc-001.jpg",
-   "url": "https://www.mytek.tn/ecouteurs-filaires-hoco-m104-blanc.html"
-  },
-  {
    "id": "69293",
    "sku": "HOCO-M112",
    "name": "Ecouteurs Filaires Hoco M112 Jack 3.5mm- Blanc",
@@ -9400,6 +9436,21 @@
    "savings": 16.1,
    "image": "https://www.mytek.tn/media/catalog/product/e/c/ecouteurs-filaires-hoco-m123-jack-couleur-blanc-005.jpg",
    "url": "https://www.mytek.tn/ecouteurs-filaires-hoco-m123-jack-couleur-blanc.html"
+  },
+  {
+   "id": "69289",
+   "sku": "HOCO-M104",
+   "name": "Ecouteurs Filaires Hoco M104 Jack 3.5mm  - Blanc",
+   "brand": "HOCO",
+   "categories": [
+    "Son Numérique"
+   ],
+   "old_price": 29,
+   "new_price": 12.9,
+   "discount_pct": 55.5,
+   "savings": 16.1,
+   "image": "https://www.mytek.tn/media/catalog/product/e/c/ecouteurs-filaires-hoco-m109-blanc-001.jpg",
+   "url": "https://www.mytek.tn/ecouteurs-filaires-hoco-m104-blanc.html"
   },
   {
    "id": "77223",
@@ -9530,7 +9581,7 @@
    "id": "72271",
    "sku": "MX-2009",
    "name": "Presse Agrumes MIXDOR MX-2009 20W - Silver",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MIXDOR",
    "categories": [
     "Café et Petit déjeuner",
     "Presse agrumes"
@@ -9829,6 +9880,22 @@
    "url": "https://www.mytek.tn/ecouteurs-sans-fil-borofone-bw29-violet.html"
   },
   {
+   "id": "63328",
+   "sku": "VACCUM-CLEANER-183",
+   "name": "Aspirateur Balai 2en1 Rechargeable 120W - Blanc",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Aspirateur",
+    "Hygiene et soin maison"
+   ],
+   "old_price": 109,
+   "new_price": 49.9,
+   "discount_pct": 54.2,
+   "savings": 59.1,
+   "image": "https://www.mytek.tn/media/catalog/product/a/s/aspirateur-balai-2en1-rechargeable-120w-blanc-a.jpg",
+   "url": "https://www.mytek.tn/catalog/product/view/id/63328/s/aspirateur-balai-2en1-rechargeable-120w-blanc/"
+  },
+  {
    "id": "34371",
    "sku": "HOCO-X88-TYPEC-WH",
    "name": "Câble De Charge HOCO X88 USB-A Vers Type-C - Blanc",
@@ -10060,7 +10127,7 @@
    "id": "68858",
    "sku": "NDB-V12",
    "name": "Haut Parleur Double Mode NDR NDB-V12 Avec telecommande et 2 micros  - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NDR",
    "categories": [
     "Haut-Parleur",
     "Son Numérique"
@@ -10248,38 +10315,6 @@
    "url": "https://www.mytek.tn/barbecue-electrique-vertical-dsp-kb4008-1000w-6-fourchettes.html"
   },
   {
-   "id": "51122",
-   "sku": "PANIER-CHILD-RED",
-   "name": "Sac à Gouter Isotherme Pour Enfant - Rouge",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 25,
-   "new_price": 11.9,
-   "discount_pct": 52.4,
-   "savings": 13.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-gouter-isotherme-pour-enfant-rouge.jpg",
-   "url": "https://www.mytek.tn/sac-a-gouter-isotherme-pour-enfant-rouge.html"
-  },
-  {
-   "id": "51136",
-   "sku": "PANIER-CHILD-DB",
-   "name": "Sac à Gouter Isotherme Pour Enfant - Bleu Marine",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 25,
-   "new_price": 11.9,
-   "discount_pct": 52.4,
-   "savings": 13.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-gouter-isotherme-pour-enfant-bleu-marine.jpg",
-   "url": "https://www.mytek.tn/sac-a-gouter-isotherme-pour-enfant-bleu-marine.html"
-  },
-  {
    "id": "49774",
    "sku": "ACT-HUD",
    "name": "Affichage Tête Haute GEMBIRD ACT-HUD - Noir",
@@ -10448,6 +10483,39 @@
    "savings": 13.4,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-25-stylos-a-bille-pensan-my-tech-rouge.jpg",
    "url": "https://www.mytek.tn/pack-de-25-stylos-a-bille-pensan-my-tech-rouge.html"
+  },
+  {
+   "id": "78549",
+   "sku": "8002322",
+   "name": "Pack de 12 crayons de Cire VNEEDS Modèle Moyen Couleur Assortis",
+   "brand": "VNEEDS",
+   "categories": [
+    "Coloriage & Pâte à Modeler",
+    "Fourniture de Bureau"
+   ],
+   "old_price": 3.9,
+   "new_price": 1.9,
+   "discount_pct": 51.3,
+   "savings": 2.0,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-crayons-de-cire-vneeds-modele-moyen-couleur-assortis.jpg",
+   "url": "https://www.mytek.tn/pack-de-12-crayons-de-cire-vneeds-modele-moyen-couleur-assortis.html"
+  },
+  {
+   "id": "78551",
+   "sku": "8005026",
+   "name": "Pack de 12 Crayons VNEEDS Modèle Moyen Couleur Assortis",
+   "brand": "VNEEDS",
+   "categories": [
+    "Coloriage & Pâte à Modeler",
+    "Crayons Couleurs",
+    "Fourniture de Bureau"
+   ],
+   "old_price": 3.9,
+   "new_price": 1.9,
+   "discount_pct": 51.3,
+   "savings": 2.0,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-crayons-vneeds-modele-moyen-couleur-assortis.jpg",
+   "url": "https://www.mytek.tn/pack-de-12-crayons-vneeds-modele-moyen-couleur-assortis.html"
   },
   {
    "id": "67824",
@@ -10809,6 +10877,21 @@
    "url": "https://www.mytek.tn/haut-parleur-bluetooth-br-008-30w-solar-music-light-bleu.html"
   },
   {
+   "id": "71122",
+   "sku": "QJ5580",
+   "name": "Jeux de MONOPOLY Français / Arabe Pour Enfant",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Jeux Éducatifs et de société"
+   ],
+   "old_price": 79,
+   "new_price": 39,
+   "discount_pct": 50.6,
+   "savings": 40,
+   "image": "https://www.mytek.tn/media/catalog/product/j/e/jeux-de-monopoly-francais-arabe-pour-enfant.jpg",
+   "url": "https://www.mytek.tn/jeux-de-monopoly-francais-arabe-pour-enfant.html"
+  },
+  {
    "id": "76208",
    "sku": "SUP-CMD-CLIM",
    "name": "Support mural pour télécommande de climatiseur - Blanc",
@@ -10952,7 +11035,7 @@
    "id": "68767",
    "sku": "MP3-CORAN",
    "name": "Mini Haut Parleur Coran Magnétique Pour Réfrigérateur - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Haut-Parleur",
     "Son Numérique"
@@ -11266,7 +11349,7 @@
    "id": "71530",
    "sku": "MX-VS107",
    "name": "Support Smartphone MOXOM De Suivi Automatique a Rotation 360° - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MOXOM",
    "categories": [
     "Accessoires Téléphonie"
    ],
@@ -11281,7 +11364,7 @@
    "id": "71532",
    "sku": "MX-VS107-PK",
    "name": "Support Smartphone MOXOM De Suivi Automatique a Rotation 360° - Rose",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MOXOM",
    "categories": [
     "Accessoires Téléphonie"
    ],
@@ -11705,7 +11788,7 @@
    "id": "66881",
    "sku": "NETTOYEUR-VAPEUR",
    "name": "Nettoyeur à Vapeur Portatif 1050W - Jaune",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Hygiene et soin maison"
    ],
@@ -13640,21 +13723,6 @@
    "url": "https://www.mytek.tn/pack-de-10-surligneurs-staedtler-textsurfer-classic-bleu-clair.html"
   },
   {
-   "id": "71062",
-   "sku": "A829",
-   "name": "Chargeur ASPOR USB Et Cable Micro-USB 12W Avec 2 Ports - Blanc",
-   "brand": "ASPOR",
-   "categories": [
-    "Accessoires Téléphonie"
-   ],
-   "old_price": 29,
-   "new_price": 14.9,
-   "discount_pct": 48.6,
-   "savings": 14.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-aspor-usb-et-cable-micro-usb-12w-avec-2-ports-blanc-33.jpg",
-   "url": "https://www.mytek.tn/chargeur-aspor-usb-et-cable-micro-usb-12w-avec-2-ports-blanc.html"
-  },
-  {
    "id": "71064",
    "sku": "A829-TPC-WH",
    "name": "Chargeur ASPOR USB Et Cable TYPE-C 12W Avec 2 Ports - Blanc",
@@ -13683,6 +13751,21 @@
    "savings": 14.1,
    "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-smartphone-inkax-avec-cable-type-c-hc-06-2-1a-blanc-001.jpg",
    "url": "https://www.mytek.tn/chargeur-smartphone-inkax-avec-cable-type-c-hc-06-2-1a-blanc.html"
+  },
+  {
+   "id": "71062",
+   "sku": "A829",
+   "name": "Chargeur ASPOR USB Et Cable Micro-USB 12W Avec 2 Ports - Blanc",
+   "brand": "ASPOR",
+   "categories": [
+    "Accessoires Téléphonie"
+   ],
+   "old_price": 29,
+   "new_price": 14.9,
+   "discount_pct": 48.6,
+   "savings": 14.1,
+   "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-aspor-usb-et-cable-micro-usb-12w-avec-2-ports-blanc-33.jpg",
+   "url": "https://www.mytek.tn/chargeur-aspor-usb-et-cable-micro-usb-12w-avec-2-ports-blanc.html"
   },
   {
    "id": "57662",
@@ -13810,7 +13893,7 @@
    "id": "48305",
    "sku": "NCM-B01",
    "name": "Guide de câbles D-Link 19 pouces 1U - Brush Manager",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "DLINK",
    "categories": [
     "Reseaux"
    ],
@@ -13974,22 +14057,6 @@
    "savings": 9.1,
    "image": "https://www.mytek.tn/media/catalog/product/b/a/bac-a-glacons-3-boules-avec-couvercle-vert.jpg",
    "url": "https://www.mytek.tn/bac-a-glacons-3-boules-avec-couvercle-vert.html"
-  },
-  {
-   "id": "63608",
-   "sku": "CHAISE-AFRAH-BLANC",
-   "name": "Chaise Plastique Afrah - Blanc",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Meuble",
-    "Mobilier de jardin"
-   ],
-   "old_price": 19,
-   "new_price": 9.9,
-   "discount_pct": 47.9,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/h/chaise-plastique-afrah-blanc.jpg",
-   "url": "https://www.mytek.tn/chaise-plastique-afrah-blanc.html"
   },
   {
    "id": "75053",
@@ -14627,6 +14694,23 @@
    "url": "https://www.mytek.tn/appareil-a-gaufres-grand-modele-raf-r-2290h-1400-watts-noir.html"
   },
   {
+   "id": "75100",
+   "sku": "ZQSF801",
+   "name": "Ventilateur Haut-Parleur électrique ZQS-F801 LED - White",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Climatisation",
+    "Haut-Parleur",
+    "Ventilateur"
+   ],
+   "old_price": 129,
+   "new_price": 69,
+   "discount_pct": 46.5,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur-avec-haut-parleur-bluetooth-5w-zqsf801---blanc---mytek-1.jpg",
+   "url": "https://www.mytek.tn/catalog/product/view/id/75100/s/ventilateur-haut-parleur-electrique-du-bureau-zqs-f801-led-white/"
+  },
+  {
    "id": "71328",
    "sku": "907203",
    "name": "Pâte à Modeler Créative MAPED Avec Pot de Recharge Multicolore",
@@ -14656,21 +14740,6 @@
    "savings": 60,
    "image": "https://www.mytek.tn/media/catalog/product/p/o/po_le-double-face-royal-dessini-kp-36-aluminium---gris.jpg",
    "url": "https://www.mytek.tn/poele-double-face-royal-dessini-kp-36-noir.html"
-  },
-  {
-   "id": "47305",
-   "sku": "BR-3243",
-   "name": "Trousse BRONS brodée double zip - Noir",
-   "brand": "BRONS",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 29.9,
-   "new_price": 16,
-   "discount_pct": 46.5,
-   "savings": 13.9,
-   "image": "https://www.mytek.tn/media/catalog/product/t/r/trousse-brons-brodee-double-zip-noir.jpg",
-   "url": "https://www.mytek.tn/trousse-brons-brodee-double-zip-noir.html"
   },
   {
    "id": "71586",
@@ -15123,7 +15192,7 @@
    "id": "77228",
    "sku": "MOULE-GLACE",
    "name": "Moule pour 6 Cornets de Glace",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Froid"
    ],
@@ -15138,7 +15207,7 @@
    "id": "69312",
    "sku": "MK30",
    "name": "Haut Parleur Portable Meimi MK30 pour enfant avec 2 micros - Rose",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Haut-Parleur",
     "Son Numérique"
@@ -15170,7 +15239,7 @@
    "id": "69340",
    "sku": "MK30-B",
    "name": "Haut Parleur Portable Meimi MK30 pour enfant avec 2 micros - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Haut-Parleur",
     "Son Numérique"
@@ -15186,7 +15255,7 @@
    "id": "71051",
    "sku": "MO-03",
    "name": "Écouteurs Filaires ROMMOS MO-03 Lightning - Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "ROMMOS",
    "categories": [
     "Son Numérique"
    ],
@@ -15829,6 +15898,23 @@
    "savings": 70,
    "image": "https://www.mytek.tn/media/catalog/product/b/l/blender-2en1-tonix-sc-1589-4500w-noir-r.jpg",
    "url": "https://www.mytek.tn/blender-2en1-tonix-sc-1589-4500w-noir.html"
+  },
+  {
+   "id": "74934",
+   "sku": "ZQS-F802",
+   "name": "Ventilateur Haut-Parleur électrique du Bureau ZQS-F802 LED - White",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Climatisation",
+    "Haut-Parleur",
+    "Ventilateur"
+   ],
+   "old_price": 159,
+   "new_price": 89,
+   "discount_pct": 44.0,
+   "savings": 70,
+   "image": "https://www.mytek.tn/media/catalog/product/m/i/mini-haut-parleur-bluetooth-avec-ventilateur-tws---blanc-11.jpg",
+   "url": "https://www.mytek.tn/catalog/product/view/id/74934/s/ventilateur-haut-parleur-electrique-du-bureau-zqs-f802-led-white/"
   },
   {
    "id": "12910",
@@ -16480,6 +16566,39 @@
    "url": "https://www.mytek.tn/pate-a-modeler-deli-eh712-12-160g.html"
   },
   {
+   "id": "78559",
+   "sku": "8005033",
+   "name": "Pack de 12 Crayons VNEEDS Grand Modèle Couleur Assortis",
+   "brand": "VNEEDS",
+   "categories": [
+    "Coloriage & Pâte à Modeler",
+    "Crayons Couleurs",
+    "Fourniture de Bureau"
+   ],
+   "old_price": 6.9,
+   "new_price": 3.9,
+   "discount_pct": 43.5,
+   "savings": 3.0,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-crayons-vneeds-grand-modele-couleur-assortis.jpg",
+   "url": "https://www.mytek.tn/pack-de-12-crayons-vneeds-grand-modele-couleur-assortis.html"
+  },
+  {
+   "id": "78570",
+   "sku": "062",
+   "name": "Boîte de 6 tubes de gouache Le Coq en Métal Couleur Assortis",
+   "brand": "LE-COQ",
+   "categories": [
+    "Coloriage & Pâte à Modeler",
+    "Fourniture de Bureau"
+   ],
+   "old_price": 6.9,
+   "new_price": 3.9,
+   "discount_pct": 43.5,
+   "savings": 3.0,
+   "image": "https://www.mytek.tn/media/catalog/product/b/o/boite-de-6-tubes-de-gouache-le-coq-en-metal.jpg",
+   "url": "https://www.mytek.tn/boite-de-6-tubes-de-gouache-le-coq-en-metal.html"
+  },
+  {
    "id": "64344",
    "sku": "SM4-10",
    "name": "Appareil de Musculation Séries 5en1 - Noir",
@@ -16543,7 +16662,7 @@
    "id": "51678",
    "sku": "MM-BEIGE",
    "name": "Mallette NEW STYLE Polycarbonate Moyenne - Beige",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEW-STYLE",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -16558,7 +16677,7 @@
    "id": "51679",
    "sku": "MM-GRIS",
    "name": "Mallette NEW STYLE Polycarbonate Moyenne - Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEW-STYLE",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -16573,7 +16692,7 @@
    "id": "51682",
    "sku": "MM-BLEU",
    "name": "Mallette NEW STYLE Polycarbonate Moyenne - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NEW-STYLE",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -16808,7 +16927,7 @@
    "id": "49045",
    "sku": "TEA256",
    "name": "Stérilisateur UV LIVOO TEA256 - Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "LIVOO",
    "categories": [
     "Hygiène - Soin - Beauté"
    ],
@@ -17167,6 +17286,22 @@
    "url": "https://www.mytek.tn/presse-agrumes-florence-hk-387-450w-rouge.html"
   },
   {
+   "id": "62234",
+   "sku": "FH-666",
+   "name": "Ventilateur De Table à Double Extrémité FH-666 - Blanc",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Climatisation",
+    "Ventilateur"
+   ],
+   "old_price": 69,
+   "new_price": 39.9,
+   "discount_pct": 42.2,
+   "savings": 29.1,
+   "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur-de-table-a-double-extremite-fh-666-blanc_.jpg",
+   "url": "https://www.mytek.tn/ventilateur-de-table-a-double-extremite-fh-666-blanc.html"
+  },
+  {
    "id": "55904",
    "sku": "FABA-3900",
    "name": "Sèche Cheveux FABA Pro3900 1800W - Noir",
@@ -17186,7 +17321,7 @@
    "id": "64195",
    "sku": "MP423",
    "name": "Tondeuse à cheveux JATA MP423 - Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "JATA",
    "categories": [
     "Soins Homme",
     "Tondeuse"
@@ -17636,21 +17771,6 @@
    "savings": 2.5,
    "image": "https://www.mytek.tn/media/catalog/product/b/o/boite-d-archives-ribat-z-5-a-bouton-bleu-009.jpg",
    "url": "https://www.mytek.tn/boite-d-archives-ribat-z-5-a-bouton-bleu.html"
-  },
-  {
-   "id": "13944",
-   "sku": "SAC-ADOS-GRIS",
-   "name": "Sac à Dos Scolaire avec Trousse - Gris",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 29,
-   "new_price": 16.9,
-   "discount_pct": 41.7,
-   "savings": 12.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-ados-gris.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-best-boy-avec-trousse-gris.html"
   },
   {
    "id": "27080",
@@ -18438,38 +18558,6 @@
    "url": "https://www.mytek.tn/switch-d-link-8-ports-10-100-mbps-4-gbe-et-2-sfp.html"
   },
   {
-   "id": "78418",
-   "sku": "PANIER-NOIR",
-   "name": "Sac isotherme Alimentaire Avec Bandoulière À Plusieurs Compartiments - Noir",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 49,
-   "new_price": 29,
-   "discount_pct": 40.8,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-isotherme-alimentaire-avec-bandouliere-a-plusieurs-compartiments-noire.jpg",
-   "url": "https://www.mytek.tn/sac-isotherme-alimentaire-avec-bandouliere-a-plusieurs-compartiments-noire.html"
-  },
-  {
-   "id": "78420",
-   "sku": "PANIER-ROUGE",
-   "name": "Sac isotherme Alimentaire Avec Bandoulière À Plusieurs Compartiments - Rouge",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 49,
-   "new_price": 29,
-   "discount_pct": 40.8,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-isotherme-alimentaire-avec-bandouliere-a-plusieurs-compartiments-rouge.jpg",
-   "url": "https://www.mytek.tn/sac-isotherme-alimentaire-avec-bandouliere-a-plusieurs-compartiments-rouge.html"
-  },
-  {
    "id": "50375",
    "sku": "DL-9001",
    "name": "Tondeuse Multi-Usages Rechargeable DALING DL-9001 - Noir",
@@ -18779,126 +18867,6 @@
    "savings": 40,
    "image": "https://www.mytek.tn/media/catalog/product/r/o/routeur-tp-link-tl-mr3020-portable-3g-4g-wifi-n-pour-cle-3g-4g-2.jpg",
    "url": "https://www.mytek.tn/routeur-tp-link-tl-mr3020-portable-3g-4g-wifi-n-pour-cle-3g-4g.html"
-  },
-  {
-   "id": "78181",
-   "sku": "S1138",
-   "name": "Sac À Dos Scolaire Monster Truck 3 Compartiments Avec Panier Et Trousse - Noir",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 99,
-   "new_price": 59,
-   "discount_pct": 40.4,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-monster-truck-3-compartiments-avec-panier-et-trousse-noir.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-monster-truck-3-compartiments-avec-panier-et-trousse-noir.html"
-  },
-  {
-   "id": "78188",
-   "sku": "S1135",
-   "name": "Sac À Dos Scolaire Motif Ballon Compartiments Avec Panier Et Trousse - Noir",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 99,
-   "new_price": 59,
-   "discount_pct": 40.4,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-ballon-truck-3-compartiments-avec-panier-et-trousse-noir.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-ballon-truck-3-compartiments-avec-panier-et-trousse-noir.html"
-  },
-  {
-   "id": "78190",
-   "sku": "S1136",
-   "name": "Sac À Dos Scolaire Motif Cool Cars Compartiments Avec Panier Et Trousse - Noir",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 99,
-   "new_price": 59,
-   "discount_pct": 40.4,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse-noir.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse-noir.html"
-  },
-  {
-   "id": "78199",
-   "sku": "S1137",
-   "name": "Sac À Dos Scolaire Motif Cool Cars Compartiments Avec Panier Et Trousse",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 99,
-   "new_price": 59,
-   "discount_pct": 40.4,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse.html"
-  },
-  {
-   "id": "78201",
-   "sku": "S1133",
-   "name": "Sac À Dos Scolaire 3 Compartiments Avec Panier Et Trousse - bleu marine",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 99,
-   "new_price": 59,
-   "discount_pct": 40.4,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse-bleu-marine.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-cool-cars-truck-3-compartiments-avec-panier-et-trousse-bleu-marine.html"
-  },
-  {
-   "id": "78202",
-   "sku": "S1131",
-   "name": "Sac À Dos Scolaire Motif Paris 3 Compartiments Avec Panier Et Trousse - Bleu Turquoise",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 99,
-   "new_price": 59,
-   "discount_pct": 40.4,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-motif-paris-3-compartiments-avec-panier-et-trousse-bleu-turquoise.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-motif-paris-3-compartiments-avec-panier-et-trousse-bleu-turquoise.html"
-  },
-  {
-   "id": "78212",
-   "sku": "S1132",
-   "name": "Sac À Dos Scolaire Papillon 3 Compartiments Avec Panier Et Trousse - Violet",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 99,
-   "new_price": 59,
-   "discount_pct": 40.4,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-papillon-3-compartiments-avec-panier-et-trousse-violet.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-papillon-3-compartiments-avec-panier-et-trousse-violet.html"
-  },
-  {
-   "id": "78215",
-   "sku": "S1134",
-   "name": "Sac À Dos Scolaire Love Bear 3 Compartiments Avec Panier Et Trousse - Rose",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 99,
-   "new_price": 59,
-   "discount_pct": 40.4,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-love-bear-3-compartiments-avec-panier-et-trousse-rose.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-love-bear-3-compartiments-avec-panier-et-trousse-rose.html"
   },
   {
    "id": "68804",
@@ -19618,7 +19586,7 @@
    "id": "64193",
    "sku": "MP36B",
    "name": "Tondeuse à cheveux Sans Fil JATA MP36B - Noir&Gris",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "JATA",
    "categories": [
     "Soins Homme",
     "Tondeuse"
@@ -19799,6 +19767,22 @@
    "savings": 7.0,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-6-crayon-carioca-stamperello.gif",
    "url": "https://www.mytek.tn/pack-de-6-crayon-carioca-stamperello.html"
+  },
+  {
+   "id": "78536",
+   "sku": "HIMW95226SXEL",
+   "name": "Plaque de Cuisson Encastrable BEKO HIMW95226SXEL 5 Feux 90 cm - Inox",
+   "brand": "BEKO",
+   "categories": [
+    "Cuisson",
+    "Plaque de Cuisson"
+   ],
+   "old_price": 819,
+   "new_price": 499,
+   "discount_pct": 39.1,
+   "savings": 320,
+   "image": "https://www.mytek.tn/media/catalog/product/t/a/table-de-cuisson-gaz-beko-himw95226sxel-90-cm-5-foyers-inox.jpg",
+   "url": "https://www.mytek.tn/plaque-de-cuisson-encastrable-beko-himw95226sxel-5-feux-90-cm-inox.html"
   },
   {
    "id": "39904",
@@ -22021,21 +22005,6 @@
    "url": "https://www.mytek.tn/ecran-gaming-lg-27gs60f-27-full-hd-ips-180-hz.html"
   },
   {
-   "id": "26270",
-   "sku": "934801",
-   "name": "Trousse Scolaire MAPED Harry Potter - Bleu",
-   "brand": "MAPED",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 40.9,
-   "new_price": 25.9,
-   "discount_pct": 36.7,
-   "savings": 15.0,
-   "image": "https://www.mytek.tn/media/catalog/product/t/r/trousse-scolaire-maped-harry-potter---bleu-1_-_copie.jpg",
-   "url": "https://www.mytek.tn/trousse-scolaire-maped-harry-potter-bleu.html"
-  },
-  {
    "id": "1562",
    "sku": "W2212A",
    "name": "Cartouche de toner HP 207A jaune LaserJet originale / 1250 pages W2212A",
@@ -23255,22 +23224,6 @@
    "url": "https://www.mytek.tn/routeur-wi-fi-tp-link-archer-c50-ac-1200-mbps-blanc.html"
   },
   {
-   "id": "7908",
-   "sku": "BU-PANIER-BLEU",
-   "name": "Pack Trois Paniers + Sac Bouteille Isotherme - Bleu",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 49,
-   "new_price": 31.9,
-   "discount_pct": 34.9,
-   "savings": 17.1,
-   "image": "https://www.mytek.tn/media/catalog/product/4/_/4_460.jpg",
-   "url": "https://www.mytek.tn/pack-trois-paniers-sac-bouteille-isotherme-bleu.html"
-  },
-  {
    "id": "78411",
    "sku": "EH626",
    "name": "Compas DELI Orbit EH626 Métallique Scolaire",
@@ -23588,23 +23541,6 @@
    "url": "https://www.mytek.tn/chaise-sofpince-floris-marron.html"
   },
   {
-   "id": "4143",
-   "sku": "NA21-7042",
-   "name": "2100 Étiquettes Blanches NOVA A4 70x42.3mm",
-   "brand": "NOVA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier",
-    "Étiquette"
-   ],
-   "old_price": 39.9,
-   "new_price": 26,
-   "discount_pct": 34.8,
-   "savings": 13.9,
-   "image": "https://www.mytek.tn/media/catalog/product/n/a/na33-7025_4.jpg",
-   "url": "https://www.mytek.tn/2100-etiquettes-blanches-nova-70x42-3mm-a4.html"
-  },
-  {
    "id": "4120",
    "sku": "NA24-7035",
    "name": "2400 Étiquettes Blanches NOVA A4 70x35mm",
@@ -23635,6 +23571,22 @@
    "savings": 13.9,
    "image": "https://www.mytek.tn/media/catalog/product/n/a/na33-7025_3.jpg",
    "url": "https://www.mytek.tn/2200-etiquettes-blanches-nova-105x25-4mm-a4.html"
+  },
+  {
+   "id": "4143",
+   "sku": "NA21-7042",
+   "name": "2100 Étiquettes Blanches NOVA A4 70x42.3mm",
+   "brand": "NOVA",
+   "categories": [
+    "Papier",
+    "Étiquette"
+   ],
+   "old_price": 39.9,
+   "new_price": 26,
+   "discount_pct": 34.8,
+   "savings": 13.9,
+   "image": "https://www.mytek.tn/media/catalog/product/n/a/na33-7025_4.jpg",
+   "url": "https://www.mytek.tn/2100-etiquettes-blanches-nova-70x42-3mm-a4.html"
   },
   {
    "id": "4173",
@@ -23729,51 +23681,6 @@
    "savings": 24,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/carte-r_seau-d-link-dge-528t-pci-10-100-1000mbps.jpg",
    "url": "https://www.mytek.tn/carte-reseau-d-link-dge-528t-pci-10-100-1000mbps.html"
-  },
-  {
-   "id": "78176",
-   "sku": "S1508",
-   "name": "Sac À Dos Scolaire 2 Compartiments Hello Kitty - Rose",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 69,
-   "new_price": 45,
-   "discount_pct": 34.8,
-   "savings": 24,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac_dos_scolaire_hello_kitty_3d_rose_primaire.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-2-compartiments-hello-kitty-rose.html"
-  },
-  {
-   "id": "78177",
-   "sku": "SM10036",
-   "name": "Sac À Dos scolaire 2 Compartiments Mickey - Bleu",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 69,
-   "new_price": 45,
-   "discount_pct": 34.8,
-   "savings": 24,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-2-compartiments-mickey-bleu.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-2-compartiments-mickey-bleu.html"
-  },
-  {
-   "id": "78185",
-   "sku": "S253",
-   "name": "Sac À  Dos Scolaire 4 Compartiments - Gris",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 69,
-   "new_price": 45,
-   "discount_pct": 34.8,
-   "savings": 24,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-4-compartiments-gris.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-4-compartiments-gris.html"
   },
   {
    "id": "48377",
@@ -24670,6 +24577,38 @@
    "url": "https://www.mytek.tn/cahier-piqure-calligraphe-96-pages-90-gr-seyes-uni-24x32-cm-transparent.html"
   },
   {
+   "id": "73861",
+   "sku": "VENT-ROSE",
+   "name": "Mini Ventilateur de bureau LED - Rose",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Climatisation",
+    "Ventilateur"
+   ],
+   "old_price": 59,
+   "new_price": 39,
+   "discount_pct": 33.9,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur-bureau-led-rgb-rechargeable-usb---rose.jpg",
+   "url": "https://www.mytek.tn/catalog/product/view/id/73861/s/mini-ventilateur-de-bureau-led-rose/"
+  },
+  {
+   "id": "73878",
+   "sku": "VENT-BLEU",
+   "name": "Mini Ventilateur de Bureau LED - Bleu",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Climatisation",
+    "Ventilateur"
+   ],
+   "old_price": 59,
+   "new_price": 39,
+   "discount_pct": 33.9,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur-bureau-led-rgb-rechargeable-usb-bleu.jpg",
+   "url": "https://www.mytek.tn/catalog/product/view/id/73878/s/mini-ventilateur-de-bureau-led-bleu/"
+  },
+  {
    "id": "76777",
    "sku": "60084",
    "name": "Coffret  de 150 Pièces de Coloriage Pour Enfants",
@@ -25306,6 +25245,21 @@
    "url": "https://www.mytek.tn/spiraleuse-12-feuilles-80-gr-8622.html"
   },
   {
+   "id": "67648",
+   "sku": "BXOUTL1",
+   "name": "set 4 spots KSIX smartled extérieurs 18w 900lm rgbwic ip65 wifi app - BXOUTL1",
+   "brand": "KSIX",
+   "categories": [
+    "Projecteur"
+   ],
+   "old_price": 179,
+   "new_price": 119,
+   "discount_pct": 33.5,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/set_4_spots_ksix_smartled_ext_rieurs_18w_900lm_rgbwic_ip65_wifi_app_-_bxoutl1_5_.jpg",
+   "url": "https://www.mytek.tn/set-4-spots-ksix-smartled-exterieurs-18w-900lm-rgbwic-ip65-wifi-app-bxoutl1.html"
+  },
+  {
    "id": "54524",
    "sku": "DGS-1210-52",
    "name": "Switch intelligent D-Link DGS-1210-52 48 ports 10/100/1000Base-T 4 ports 1000Base-T/SFP",
@@ -25549,7 +25503,7 @@
    "id": "58703",
    "sku": "MOLD-217",
    "name": "Moules à Glaçons 6 cubes avec Couvercle - Assortis",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Froid"
    ],
@@ -25765,7 +25719,7 @@
    "id": "37103",
    "sku": "MT10",
    "name": "Moto Électrique Pour Enfants - Rose Bébé",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Véhicules et Voitures"
    ],
@@ -25780,7 +25734,7 @@
    "id": "49608",
    "sku": "MT02",
    "name": "Moto Électrique Pour Enfants - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Véhicules et Voitures"
    ],
@@ -25795,7 +25749,7 @@
    "id": "51076",
    "sku": "MT03",
    "name": "Moto Électrique Pour Enfants - Blanc&Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Véhicules et Voitures"
    ],
@@ -25810,7 +25764,7 @@
    "id": "53213",
    "sku": "MT01",
    "name": "Moto Électrique Pour Enfant - Rouge",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Véhicules et Voitures"
    ],
@@ -25825,7 +25779,7 @@
    "id": "70483",
    "sku": "MT13",
    "name": "Moto Électrique Pour Enfants - Noir et Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Véhicules et Voitures"
    ],
@@ -25840,7 +25794,7 @@
    "id": "70486",
    "sku": "MT12",
    "name": "Moto Électrique MT12 Pour Enfants - Jaune",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Véhicules et Voitures"
    ],
@@ -25855,7 +25809,7 @@
    "id": "70490",
    "sku": "MT14",
    "name": "Moto Électrique MT14 Pour Enfants - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Véhicules et Voitures"
    ],
@@ -25870,7 +25824,7 @@
    "id": "73357",
    "sku": "MT08",
    "name": "Moto Électrique Pour Enfants MT08 - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Véhicules et Voitures"
    ],
@@ -26775,7 +26729,7 @@
    "id": "62527",
    "sku": "MTFAN3295",
    "name": "Power Bank De Voyage MUVIT Avec Torche Et Ventilateur - Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MUVIT",
    "categories": [
     "Accessoires Téléphonie"
    ],
@@ -26935,7 +26889,7 @@
    "id": "4130",
    "sku": "NA14-10542",
    "name": "1400 Étiquettes Blanches NOVA A4 105x42mm",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NOVA",
    "categories": [
     "Papier",
     "Étiquette"
@@ -26951,7 +26905,7 @@
    "id": "48565",
    "sku": "NA1-207297",
    "name": "100 Étiquettes Blanches NOVA A4 207x297mm",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "NOVA",
    "categories": [
     "Papier",
     "Étiquette"
@@ -27151,21 +27105,6 @@
    "url": "https://www.mytek.tn/parascolaire-les-examens-anissi-fi-massarati-sixieme-annee-t03-toutes-les-matieres.html"
   },
   {
-   "id": "66146",
-   "sku": "PS100",
-   "name": "Écran De Projection HAVIT PS100 Avec Trépied 100 Pouces",
-   "brand": "HAVIT",
-   "categories": [
-    "Projection"
-   ],
-   "old_price": 299,
-   "new_price": 204,
-   "discount_pct": 31.8,
-   "savings": 95,
-   "image": "https://www.mytek.tn/media/catalog/product/e/c/ecran-de-projection-murale-pliable-portable-100-pouces-gris-ps100-111.jpg",
-   "url": "https://www.mytek.tn/ecran-de-projection-murale-pliable-portable-100-pouces-gris-ps100.html"
-  },
-  {
    "id": "59338",
    "sku": "431-20",
    "name": "Epandeur à Main M (431-20)  - GARDENA",
@@ -27312,7 +27251,6 @@
    "name": "Paquet de 500 Enveloppes PIGNA Blanches 229 x 324 mm Strip 90gr",
    "brand": "PIGNA",
    "categories": [
-    "Enveloppe & Pochette",
     "Papier"
    ],
    "old_price": 149,
@@ -27542,21 +27480,6 @@
    "url": "https://www.mytek.tn/tondeuse-a-cheveux-rechargeable-daling-dl-127-gold.html"
   },
   {
-   "id": "69865",
-   "sku": "BHR8930GL",
-   "name": "Ecouteurs Filaires avec Type C XIAOMI  Noir - BHR8930GL",
-   "brand": "XIAOMI",
-   "categories": [
-    "Son Numérique"
-   ],
-   "old_price": 29,
-   "new_price": 19.9,
-   "discount_pct": 31.4,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/e/c/ecouteurs-filaires-avec-type-c-xiaomi-noir-bhr8930gl-001.jpg",
-   "url": "https://www.mytek.tn/ecouteurs-filaires-avec-type-c-xiaomi-noir-bhr8930gl.html"
-  },
-  {
    "id": "69868",
    "sku": "BHR8931GL",
    "name": "Ecouteurs Filaires avec Type C XIAOMI  Blanc - BHR8931GL",
@@ -27570,6 +27493,21 @@
    "savings": 9.1,
    "image": "https://www.mytek.tn/media/catalog/product/e/c/ecouteurs-filaires-avec-type-c-xiaomi-blanc-bhr8931gl-001.jpg",
    "url": "https://www.mytek.tn/ecouteurs-filaires-avec-type-c-xiaomi-blanc-bhr8931gl.html"
+  },
+  {
+   "id": "69865",
+   "sku": "BHR8930GL",
+   "name": "Ecouteurs Filaires avec Type C XIAOMI  Noir - BHR8930GL",
+   "brand": "XIAOMI",
+   "categories": [
+    "Son Numérique"
+   ],
+   "old_price": 29,
+   "new_price": 19.9,
+   "discount_pct": 31.4,
+   "savings": 9.1,
+   "image": "https://www.mytek.tn/media/catalog/product/e/c/ecouteurs-filaires-avec-type-c-xiaomi-noir-bhr8930gl-001.jpg",
+   "url": "https://www.mytek.tn/ecouteurs-filaires-avec-type-c-xiaomi-noir-bhr8930gl.html"
   },
   {
    "id": "232",
@@ -28077,7 +28015,7 @@
    "id": "10271",
    "sku": "4820152561336",
    "name": "Collier  ROND GALMOUR Pour Chien 33-41 Cm - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "WAU-DOG",
    "categories": [
     "Accessoires Chien"
    ],
@@ -28107,7 +28045,7 @@
    "id": "68860",
    "sku": "MX-12B-BK",
    "name": "Calculatrice CASIO Simple 12 Chiffres - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "CASIO",
    "categories": [
     "Fourniture de Bureau"
    ],
@@ -29275,7 +29213,7 @@
    "id": "47456",
    "sku": "DP6670",
    "name": "Scanner code à barres DIGIPOS Rond 1D/2D - DP6670",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "DIGIPOS",
    "categories": [
     "Douchette Code-barres",
     "MATERIEL POINT DE VENTE"
@@ -30179,21 +30117,6 @@
    "url": "https://www.mytek.tn/haut-parleur-sans-fil-kisonli-b3-bluetooth-charge-solaire-gold.html"
   },
   {
-   "id": "63105",
-   "sku": "LUCKY-GRIS-ROSE",
-   "name": "Sac à Dos Scolaire 3 Compartiements Avec Design - Rose&Gris",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 99,
-   "new_price": 69.9,
-   "discount_pct": 29.4,
-   "savings": 29.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-3-compartiements-avec-design-rose-gris-r.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-3-compartiements-avec-design-rose-gris.html"
-  },
-  {
    "id": "68582",
    "sku": "4905524942149",
    "name": "Casque Filaire Sony MDR-ZX310 Pliable - Blanc",
@@ -30980,7 +30903,7 @@
    "id": "75591",
    "sku": "806381",
    "name": "Paquet De 100 Chemises Bristol RIBAT 160Gr 24*32 - 806381 Pasel",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Chemise Papiers & Sous chemise",
     "Classements & Archivages"
@@ -31240,22 +31163,6 @@
    "savings": 10,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-10-surligneurs-stabilo-swing-cool-pastel-rose-11.jpg",
    "url": "https://www.mytek.tn/pack-de-10-surligneurs-stabilo-swing-cool-pastel-rose.html"
-  },
-  {
-   "id": "2469",
-   "sku": "ETIQ-MAT-7030",
-   "name": "Bobine D'Étiquette Mat Blanc - 70 x 30 mm",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Papier",
-    "Étiquette"
-   ],
-   "old_price": 35,
-   "new_price": 25,
-   "discount_pct": 28.6,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/7/5/75212_1.jpg",
-   "url": "https://www.mytek.tn/etiquette-mat-blanc-7030mm.html"
   },
   {
    "id": "78161",
@@ -31546,22 +31453,6 @@
    "savings": 16.9,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/calculatrice-de-bureau-canon-ks-125kb-rose.jpg",
    "url": "https://www.mytek.tn/calculatrice-de-bureau-canon-ks-125kb-rose.html"
-  },
-  {
-   "id": "42412",
-   "sku": "89821",
-   "name": "Cahier Piqûre CONQUERANT 192 Pages 90 Gr Seyès 17x22 cm - Bleu",
-   "brand": "CONQUERANT",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 8.9,
-   "new_price": 6.4,
-   "discount_pct": 28.1,
-   "savings": 2.5,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-conquerant-192-pages-90-gr-seyes-17x22-cm-bleu-01.jpg",
-   "url": "https://www.mytek.tn/cahier-piqure-conquerant-192-pages-90-gr-seyes-17x22-cm-bleu.html"
   },
   {
    "id": "42417",
@@ -31911,21 +31802,6 @@
    "savings": 4.4,
    "image": "https://www.mytek.tn/media/catalog/product/r/a/rame-papier-everyday-a4-75gr-m-500-feuilles-p.jpg",
    "url": "https://www.mytek.tn/rame-papier-everyday-a4-75gr-m-500-feuilles.html"
-  },
-  {
-   "id": "26279",
-   "sku": "932213",
-   "name": "Trousse Scolaire Tube Vide MAPED Nightfall Teens - Assortis",
-   "brand": "MAPED",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 24.9,
-   "new_price": 18,
-   "discount_pct": 27.7,
-   "savings": 6.9,
-   "image": "https://www.mytek.tn/media/catalog/product/t/r/trousse_scolaire_tube_vide_maped_nightfall_teens_-_assortis-1.jpg",
-   "url": "https://www.mytek.tn/trousse-scolaire-tube-vide-maped-nightfall-teens-assortis.html"
   },
   {
    "id": "77479",
@@ -32397,22 +32273,6 @@
    "url": "https://www.mytek.tn/lecteur-de-code-a-barres-honeywell-granit-1990isr-1990isr-3usb-r.html"
   },
   {
-   "id": "70011",
-   "sku": "253530",
-   "name": "Paquet de 500 Enveloppes PIGNA Blanches 253 x 350 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 150,
-   "new_price": 109,
-   "discount_pct": 27.3,
-   "savings": 41,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-blanches-253-x-350-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-blanches-253-x-350-mm-strip-90gr.html"
-  },
-  {
    "id": "48835",
    "sku": "LS-10TEG",
    "name": "Calculatrice CANON LS-10 Teg DBL EMEA",
@@ -32456,6 +32316,21 @@
    "savings": 4.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-100-feuilles-ribat-verges-creme-a4-90g-2.jpg",
    "url": "https://www.mytek.tn/paquet-de-100-feuilles-ribat-verges-creme-a4-90g.html"
+  },
+  {
+   "id": "70011",
+   "sku": "253530",
+   "name": "Paquet de 500 Enveloppes PIGNA Blanches 253 x 350 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 150,
+   "new_price": 109,
+   "discount_pct": 27.3,
+   "savings": 41,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-blanches-253-x-350-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-blanches-253-x-350-mm-strip-90gr.html"
   },
   {
    "id": "52973",
@@ -33072,7 +32947,7 @@
    "id": "68871",
    "sku": "MS-20UC-GN",
    "name": "Calculatrice CASIO 12 Chiffres Avec Taxe Pile+Solaire - Vert",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "CASIO",
    "categories": [
     "Fourniture de Bureau"
    ],
@@ -33087,7 +32962,7 @@
    "id": "68872",
    "sku": "MS-20UC-BU",
    "name": "Calculatrice CASIO 12 Chiffres Avec Taxe Pile+Solaire - Bleu",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "CASIO",
    "categories": [
     "Fourniture de Bureau"
    ],
@@ -33102,7 +32977,7 @@
    "id": "68873",
    "sku": "MS-20UC-BK",
    "name": "Calculatrice CASIO 12 Chiffres Avec Taxe Pile+Solaire - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "CASIO",
    "categories": [
     "Fourniture de Bureau"
    ],
@@ -33117,7 +32992,7 @@
    "id": "68874",
    "sku": "MS-20UC-YG",
    "name": "Calculatrice CASIO 12 Chiffres Avec Taxe Pile+Solaire - Jaune",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "CASIO",
    "categories": [
     "Fourniture de Bureau"
    ],
@@ -33129,25 +33004,10 @@
    "url": "https://www.mytek.tn/calculatrice-casio-12-chiffres-avec-taxe-pile-solaire-jaune.html"
   },
   {
-   "id": "68876",
-   "sku": "MS-20UC-LB",
-   "name": "Calculatrice CASIO 12 Chiffres Avec Taxe Pile+Solaire - Bleu Ciel",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
-   "categories": [
-    "Fourniture de Bureau"
-   ],
-   "old_price": 45,
-   "new_price": 33,
-   "discount_pct": 26.7,
-   "savings": 12,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/calculatrice-casio-12-chiffres-avec-taxe-pile-solaire-bleu-ciel.jpg",
-   "url": "https://www.mytek.tn/calculatrice-casio-12-chiffres-avec-taxe-pile-solaire-bleu-ciel.html"
-  },
-  {
    "id": "68905",
    "sku": "MS-20UC-RD",
    "name": "Calculatrice CASIO 12 Chiffres Avec Taxe Pile+Solaire - Rose",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "CASIO",
    "categories": [
     "Fourniture de Bureau"
    ],
@@ -33162,7 +33022,7 @@
    "id": "68912",
    "sku": "MS-20UC-PL",
    "name": "Calculatrice CASIO 12 Chiffres Avec Taxe Pile+Solaire - Mauve",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "CASIO",
    "categories": [
     "Fourniture de Bureau"
    ],
@@ -33177,7 +33037,7 @@
    "id": "68914",
    "sku": "MS-20UC-WE-B",
    "name": "Calculatrice CASIO 12 Chiffres Avec Taxe Pile+Solaire - Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "CASIO",
    "categories": [
     "Fourniture de Bureau"
    ],
@@ -33187,22 +33047,6 @@
    "savings": 12,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/calculatrice-casio-12-chiffres-avec-taxe-pile-solaire-blanc.jpg",
    "url": "https://www.mytek.tn/calculatrice-casio-12-chiffres-avec-taxe-pile-solaire-blanc.html"
-  },
-  {
-   "id": "39633",
-   "sku": "DS-3E0524EB",
-   "name": "Switch non géré Gigabit HIKVISION DS-3E0524EB 24 Ports 10/100/1000 Mbps",
-   "brand": "HIKVISION",
-   "categories": [
-    "Reseaux",
-    "Switch"
-   ],
-   "old_price": 449,
-   "new_price": 329,
-   "discount_pct": 26.7,
-   "savings": 120,
-   "image": "https://www.mytek.tn/media/catalog/product/s/w/switch-non-gere-gigabit-hikvision-24-ports-ds-3e0524eb.jpg",
-   "url": "https://www.mytek.tn/switch-non-gere-gigabit-hikvision-24-ports-ds-3e0524eb.html"
   },
   {
    "id": "71177",
@@ -33512,7 +33356,6 @@
    "name": "Paquet de 1000 Enveloppes PIGNA Blanches 120 x 180 mm Strip 80gr",
    "brand": "PIGNA",
    "categories": [
-    "Enveloppe & Pochette",
     "Papier"
    ],
    "old_price": 80,
@@ -34146,7 +33989,6 @@
    "name": "Paquet de 500 Enveloppes PIGNA Blanches 176 x 250 mm Strip 80gr",
    "brand": "PIGNA",
    "categories": [
-    "Enveloppe & Pochette",
     "Papier"
    ],
    "old_price": 59,
@@ -34273,12 +34115,27 @@
    "url": "https://www.mytek.tn/toner-adaptable-compatible-hp-cf214aa-noir.html"
   },
   {
+   "id": "36095",
+   "sku": "C11CJ82401",
+   "name": "Imprimante EPSON LQ-690II Matricielle USB",
+   "brand": "EPSON",
+   "categories": [
+    "Imprimante",
+    "Imprimante Matricielle"
+   ],
+   "old_price": 2099,
+   "new_price": 1569,
+   "discount_pct": 25.3,
+   "savings": 530,
+   "image": "https://www.mytek.tn/media/catalog/product/c/1/c11cj82401--1_1.jpg",
+   "url": "https://www.mytek.tn/imprimante-matricielle-epson-lq-690ii-c11cj82401.html"
+  },
+  {
    "id": "70049",
    "sku": "001623",
    "name": "Paquet de 500 Pochettes PIGNA kraft 162 x 230 mm Strip 90gr",
    "brand": "PIGNA",
    "categories": [
-    "Enveloppe & Pochette",
     "Papier"
    ],
    "old_price": 79,
@@ -34294,7 +34151,6 @@
    "name": "Paquet de 250 Pochettes PIGNA kraft  300 x 400 mm Strip 90gr",
    "brand": "PIGNA",
    "categories": [
-    "Enveloppe & Pochette",
     "Papier"
    ],
    "old_price": 79,
@@ -34303,22 +34159,6 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-kraft-300-x-400-mm-strip-90gr.jpg",
    "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-kraft-300-x-400-mm-strip-90gr.html"
-  },
-  {
-   "id": "36095",
-   "sku": "C11CJ82401",
-   "name": "Imprimante EPSON LQ-690II Matricielle USB",
-   "brand": "EPSON",
-   "categories": [
-    "Imprimante",
-    "Imprimante Matricielle"
-   ],
-   "old_price": 2099,
-   "new_price": 1569,
-   "discount_pct": 25.3,
-   "savings": 530,
-   "image": "https://www.mytek.tn/media/catalog/product/c/1/c11cj82401--1_1.jpg",
-   "url": "https://www.mytek.tn/imprimante-matricielle-epson-lq-690ii-c11cj82401.html"
   },
   {
    "id": "70044",
@@ -34629,6 +34469,22 @@
    "savings": 100,
    "image": "https://www.mytek.tn/media/catalog/product/f/r/friteuse-sans-huile-hisense-h08afbk1s4-8l-noir.jpg",
    "url": "https://www.mytek.tn/friteuse-sans-huile-hisense-h08afbk1s4-8l-noir.html"
+  },
+  {
+   "id": "37598",
+   "sku": "SCHTB800",
+   "name": "Moulinette SCHNEIDER SCHTB800 800W - Blanc",
+   "brand": "SCHNEIDER",
+   "categories": [
+    "Blender",
+    "Préparation culinaire"
+   ],
+   "old_price": 239,
+   "new_price": 179,
+   "discount_pct": 25.1,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/m/o/moulinette-schneider-schtb800-800w---blanc.jpg",
+   "url": "https://www.mytek.tn/moulinette-schneider-schtb800-800w-blanc.html"
   },
   {
    "id": "66772",
@@ -35442,22 +35298,6 @@
    "savings": 5.45,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-diffuseurs-selvabio-fleur-de-lys-ocean-marin-400ml.jpg",
    "url": "https://www.mytek.tn/pack-diffuseurs-selvabio-fleur-de-lys-ocean-marin-400ml.html"
-  },
-  {
-   "id": "62612",
-   "sku": "BU-6192335600292",
-   "name": "Pack Diffuseurs SELVABIO Lavande & Magnolia - 400ml",
-   "brand": "SELVABIO",
-   "categories": [
-    "Diffuseur",
-    "Hygiene et soin maison"
-   ],
-   "old_price": 21.8,
-   "new_price": 16.35,
-   "discount_pct": 25.0,
-   "savings": 5.45,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-diffuseurs-selvabio-lavande-magnolia-400ml.jpg",
-   "url": "https://www.mytek.tn/pack-diffuseurs-selvabio-lavande-magnolia-400ml.html"
   },
   {
    "id": "74597",
@@ -36944,22 +36784,6 @@
    "url": "https://www.mytek.tn/valise-de-145-pieces-de-coloriage-pour-enfants.html"
   },
   {
-   "id": "70013",
-   "sku": "001622",
-   "name": "Paquet de 500 Enveloppes PIGNA Kraft 162 x 229 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 59,
-   "new_price": 44.9,
-   "discount_pct": 23.9,
-   "savings": 14.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-kraft-162-x-229-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-kraft-162-x-229-mm-strip-90gr.html"
-  },
-  {
    "id": "60045",
    "sku": "GX-1040",
    "name": "Imprimante CANON MAXIFY GX1040 à Réservoir Intégré Wifi 3en1 Couleur",
@@ -36988,6 +36812,21 @@
    "savings": 6.9,
    "image": "https://www.mytek.tn/media/catalog/product/m/o/moshaf-kaloun-al-moalem-14-x-20-cm-bleu-1.jpg",
    "url": "https://www.mytek.tn/moshaf-kaloun-al-moalem-14-x-20-cm-bleu.html"
+  },
+  {
+   "id": "70013",
+   "sku": "001622",
+   "name": "Paquet de 500 Enveloppes PIGNA Kraft 162 x 229 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 59,
+   "new_price": 44.9,
+   "discount_pct": 23.9,
+   "savings": 14.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-kraft-162-x-229-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-kraft-162-x-229-mm-strip-90gr.html"
   },
   {
    "id": "68071",
@@ -37080,6 +36919,22 @@
    "savings": 1.4,
    "image": "https://www.mytek.tn/media/catalog/product/9/0/900170_3.jpg",
    "url": "https://www.mytek.tn/boite-de-8-crayons-de-cire-erichkrause-wax-couleurs-assortis.html"
+  },
+  {
+   "id": "25514",
+   "sku": "831225",
+   "name": "Pochette de 10 feuilles de papier à peindre avec capsule MAPED CREATIV",
+   "brand": "MAPED",
+   "categories": [
+    "Dessin & Peinture",
+    "Loisirs Créatifs"
+   ],
+   "old_price": 45.9,
+   "new_price": 35,
+   "discount_pct": 23.7,
+   "savings": 10.9,
+   "image": "https://www.mytek.tn/media/catalog/product/p/o/pochette-de-10-feuilles-de-papier-_-peindre-avec-capsule-maped-creativ.jpg",
+   "url": "https://www.mytek.tn/pochette-de-10-feuilles-de-papier-a-peindre-avec-capsule-maped-creativ.html"
   },
   {
    "id": "67905",
@@ -37719,22 +37574,6 @@
    "url": "https://www.mytek.tn/stylos-bic-blister-4-couleurs-meduim-601613.html"
   },
   {
-   "id": "70038",
-   "sku": "6021100",
-   "name": "Paquet de 500 Pochettes PIGNA Blanches 250 x 353 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 129,
-   "new_price": 99,
-   "discount_pct": 23.3,
-   "savings": 30,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-blanches-250-x-353-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-250-pochettes-pigna-blanches-250-x-353-mm-strip-90gr.html"
-  },
-  {
    "id": "72507",
    "sku": "LZR-411",
    "name": "Haut-parleur Sans Fil LZR-411 - Marron",
@@ -37813,6 +37652,21 @@
    "url": "https://www.mytek.tn/paquet-100-feuilles-couche-brillant-ribat-blanc-a4-115-g.html"
   },
   {
+   "id": "70038",
+   "sku": "6021100",
+   "name": "Paquet de 500 Pochettes PIGNA Blanches 250 x 353 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 129,
+   "new_price": 99,
+   "discount_pct": 23.3,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-blanches-250-x-353-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-250-pochettes-pigna-blanches-250-x-353-mm-strip-90gr.html"
+  },
+  {
    "id": "78134",
    "sku": "RIG300PROHXW",
    "name": "Casque NACON Gamer Premium 300 Pro Hx - Blanc",
@@ -37873,21 +37727,6 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/r/e/repeteur-wifi-xiaomi-mi-range-extender-ac1200.jpg",
    "url": "https://www.mytek.tn/repeteur-wifi-xiaomi-mi-range-extender-ac1200.html"
-  },
-  {
-   "id": "78209",
-   "sku": "SB93",
-   "name": "Sac À Dos Scolaire Stitch Disney 3 Compartiments - Bleu",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 129,
-   "new_price": 99,
-   "discount_pct": 23.3,
-   "savings": 30,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-stitch-disney-3-compartiments-bleu.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-stitch-disney-3-compartiments-bleu.html"
   },
   {
    "id": "75695",
@@ -38111,6 +37950,38 @@
    "url": "https://www.mytek.tn/spiraleuse-12-feuilles-deli-e3870.html"
   },
   {
+   "id": "20961",
+   "sku": "M-HV08Q",
+   "name": "Hachoir A Viande BIOLUX M-HV08Q 800W - Noir",
+   "brand": "BIOLUX",
+   "categories": [
+    "Hachoir",
+    "Préparation culinaire"
+   ],
+   "old_price": 259,
+   "new_price": 199,
+   "discount_pct": 23.2,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/m/-/m-hv08q-1.jpg",
+   "url": "https://www.mytek.tn/hachoir-a-viande-biolux-800w-noir.html"
+  },
+  {
+   "id": "29060",
+   "sku": "MQ10202M",
+   "name": "Mixeur Plongeant 3EN1 BRAUN MQ10202M 450W - Blanc",
+   "brand": "BRAUN",
+   "categories": [
+    "Mixeur",
+    "Préparation culinaire"
+   ],
+   "old_price": 259,
+   "new_price": 199,
+   "discount_pct": 23.2,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/m/i/mixeur-plongeant-3en1-braun-mq10202m-450w---blanc.jpg",
+   "url": "https://www.mytek.tn/mixeur-plongeant-3en1-braun-mq10202m-450w-blanc.html"
+  },
+  {
    "id": "73004",
    "sku": "CHS090-GREGE",
    "name": "Salon LARIANA CHS090 4 Places - Grège",
@@ -38269,22 +38140,6 @@
    "url": "https://www.mytek.tn/cuisiniere-a-gaz-unionaire-gas-c6060ssdc-511idc-4-feux-noir.html"
   },
   {
-   "id": "66503",
-   "sku": "500655",
-   "name": "Paquet De 250 Pochettes Blanche LA COURONNE 229X324 Bande Adhésive 90 gr",
-   "brand": "LA-COURONNE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 65,
-   "new_price": 50,
-   "discount_pct": 23.1,
-   "savings": 15,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-blanche-la-couronne-229x324-bande-adhesive-90-gr-b.jpg",
-   "url": "https://www.mytek.tn/paquet-de-250-pochettes-blanche-la-couronne-229x324-bande-adhesive-90-gr.html"
-  },
-  {
    "id": "10870",
    "sku": "FA-991",
    "name": "Calculatrice Scientifique FABY FA-991- Gris",
@@ -38344,6 +38199,21 @@
    "savings": 46,
    "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-hp-deskjet-2975-all-in-one-avec-wifi-a24j2c-11_1_.jpg",
    "url": "https://www.mytek.tn/imprimante-hp-deskjet-2975-all-in-one-avec-wifi-a24j2c.html"
+  },
+  {
+   "id": "66503",
+   "sku": "500655",
+   "name": "Paquet De 250 Pochettes Blanche LA COURONNE 229X324 Bande Adhésive 90 gr",
+   "brand": "LA-COURONNE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 65,
+   "new_price": 50,
+   "discount_pct": 23.1,
+   "savings": 15,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-blanche-la-couronne-229x324-bande-adhesive-90-gr-b.jpg",
+   "url": "https://www.mytek.tn/paquet-de-250-pochettes-blanche-la-couronne-229x324-bande-adhesive-90-gr.html"
   },
   {
    "id": "66497",
@@ -38751,7 +38621,7 @@
    "id": "74356",
    "sku": "MW039-B",
    "name": "Lampe De Bureau + Pen holder + Wireless Charge 5 w - Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires de Bureau",
     "Pot Á Stylos",
@@ -38768,7 +38638,7 @@
    "id": "74367",
    "sku": "MW039-N",
    "name": "Lampe De Bureau + Pen holder + Wireless Charge 5 w - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Accessoires de Bureau",
     "Pot Á Stylos",
@@ -39985,7 +39855,7 @@
    "id": "49037",
    "sku": "MLW-D36M-A18PZ-RW",
    "name": "Refroidisseur Pour Processeur COOLER MASTER MasterLiquid 360L CORE ARGB - Blanc",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "COOLER-MASTER",
    "categories": [
     "Composant Pc Gamer"
    ],
@@ -40136,66 +40006,6 @@
    "savings": 86,
    "image": "https://www.mytek.tn/media/catalog/product/h/5/h578b8a61bfcd49be81117c8533c72037t.jpg",
    "url": "https://www.mytek.tn/imprimante-a-ticket-digipos-80mm-usb-reseau-serie-noir-et-blanc.html"
-  },
-  {
-   "id": "78166",
-   "sku": "SAC-12",
-   "name": "Sac À Dos Scolaire Avec Trolley 3 Compartiments Dinasaure - Gris Foncée",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 139,
-   "new_price": 109,
-   "discount_pct": 21.6,
-   "savings": 30,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-avec-trolley-3-compartiments-dinasaure-gris-foncee.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-avec-trolley-3-compartiments-dinasaure-gris-foncee.html"
-  },
-  {
-   "id": "78168",
-   "sku": "SAC-13",
-   "name": "Sac À Dos Scolaire Avec Trolley Emojis 3 Compartiments - Rose",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 139,
-   "new_price": 109,
-   "discount_pct": 21.6,
-   "savings": 30,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-avec-trolley-emojis-3-compartiments-rose-2.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-avec-trolley-emojis-3-compartiments-rose.html"
-  },
-  {
-   "id": "78171",
-   "sku": "SAC-14",
-   "name": "Sac À Dos Scolaire Avec Trolley Emojis 3 Compartiments - Rose À Paillete",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 139,
-   "new_price": 109,
-   "discount_pct": 21.6,
-   "savings": 30,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-avec-trolley-emojis-3-compartiments-rose-a-paillete.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-avec-trolley-emojis-3-compartiments-rose-a-paillete.html"
-  },
-  {
-   "id": "78172",
-   "sku": "SAC-15",
-   "name": "Sac À Dos Scolaire Avec Trolley Super Girl 3 Compartiments - Violet Et Bleu À Carreaux",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 139,
-   "new_price": 109,
-   "discount_pct": 21.6,
-   "savings": 30,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-avec-trolley-super-girl-3-compartiments-violet-et-bleu-a-carreaux.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-avec-trolley-super-girl-3-compartiments-violet-et-bleu-a-carreaux.html"
   },
   {
    "id": "67204",
@@ -40585,22 +40395,6 @@
    "url": "https://www.mytek.tn/processeur-amd-ryzen-7-9700x.html"
   },
   {
-   "id": "69993",
-   "sku": "112245",
-   "name": "Paquet de 500 Enveloppes PIGNA Fenêtre 110 x 220 mm Strip Blanc",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 47,
-   "new_price": 37,
-   "discount_pct": 21.3,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-fenetre-110-x-220-mm-strip-blanc.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-fenetre-110-x-220-mm-strip-blanc.html"
-  },
-  {
    "id": "66106",
    "sku": "LS-100K-MPK",
    "name": "Calculatrice Canon ls-100k-mpk - Rose",
@@ -40677,6 +40471,21 @@
    "savings": 1.6,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-100-pochettes-de-plastification-a7-80-mic-65-95-mm.jpg",
    "url": "https://www.mytek.tn/pack-de-100-pochettes-de-plastification-a7-80-mic-65-95-mm.html"
+  },
+  {
+   "id": "69993",
+   "sku": "112245",
+   "name": "Paquet de 500 Enveloppes PIGNA Fenêtre 110 x 220 mm Strip Blanc",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 47,
+   "new_price": 37,
+   "discount_pct": 21.3,
+   "savings": 10,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-fenetre-110-x-220-mm-strip-blanc.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-fenetre-110-x-220-mm-strip-blanc.html"
   },
   {
    "id": "26174",
@@ -41399,6 +41208,22 @@
    "url": "https://www.mytek.tn/processeur-amd-ryzen-5-7600.html"
   },
   {
+   "id": "58870",
+   "sku": "BLM45-880SS",
+   "name": "Blender KENWOOD BLM45-880SS 1000Watts Avec 3 Moulins - Silver",
+   "brand": "KENWOOD",
+   "categories": [
+    "Blender",
+    "Préparation culinaire"
+   ],
+   "old_price": 339,
+   "new_price": 269,
+   "discount_pct": 20.6,
+   "savings": 70,
+   "image": "https://www.mytek.tn/media/catalog/product/b/l/blender_kenwood_blm45-880ss_1000_watts_-_silver.jpg",
+   "url": "https://www.mytek.tn/blender-kenwood-blm45-880ss-1000-watts-silver.html"
+  },
+  {
    "id": "65343",
    "sku": "EMXR14001",
    "name": "MALAXEUR EMTOP 1400W  EMXR14001",
@@ -41430,6 +41255,22 @@
    "savings": 70,
    "image": "https://www.mytek.tn/media/catalog/product/d/i/disque-dur-interne-pny-cs900-500go-ssd-2-5-ssd7cs900-500-pb.jpg",
    "url": "https://www.mytek.tn/disque-dur-interne-pny-cs900-500go-ssd-2-5-ssd7cs900-500-pb.html"
+  },
+  {
+   "id": "43032",
+   "sku": "DD673810",
+   "name": "Mixeur 3EN1 MOULINEX DD673810 1000W - Noir",
+   "brand": "MOULINEX",
+   "categories": [
+    "Mixeur",
+    "Préparation culinaire"
+   ],
+   "old_price": 359,
+   "new_price": 285,
+   "discount_pct": 20.6,
+   "savings": 74,
+   "image": "https://www.mytek.tn/media/catalog/product/m/i/mixeur-3en1-moulinex-dd673810-1000w---noir.jpg",
+   "url": "https://www.mytek.tn/mixeur-3en1-moulinex-dd673810-1000w-noir.html"
   },
   {
    "id": "64853",
@@ -41872,6 +41713,21 @@
    "url": "https://www.mytek.tn/pack-de-4-anti-stress-pop-it-glace-assortis.html"
   },
   {
+   "id": "78526",
+   "sku": "YL192201-6",
+   "name": "Peinture de Visage YALONG De 6 MASKUP Pour Enfants",
+   "brand": "YALONG",
+   "categories": [
+    "jouets d'imitation"
+   ],
+   "old_price": 25,
+   "new_price": 19.9,
+   "discount_pct": 20.4,
+   "savings": 5.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/e/peinture-de-visage-yalong-de-6-maskup-pour-enfants-003.jpg",
+   "url": "https://www.mytek.tn/peinture-de-visage-yalong-de-6-maskup-pour-enfants.html"
+  },
+  {
    "id": "46036",
    "sku": "BL6INT-3-G",
    "name": "Bloc Multiprise SOMEF 6 Modules Avec Interrupteur 3 M - Blanc",
@@ -42012,7 +41868,7 @@
    "id": "8279",
    "sku": "MS108",
    "name": "Switch de Bureau MERCUSYS MS108 8 Ports 10/100 MBPS",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MERCUSYS",
    "categories": [
     "Reseaux",
     "Switch"
@@ -42055,52 +41911,6 @@
    "savings": 10,
    "image": "https://www.mytek.tn/media/catalog/product/s/w/switch-ruijie-rg-es05f-5-ports-10-100-mbps-sans-poe-blanc-1.jpg",
    "url": "https://www.mytek.tn/switch-ruijie-rg-es05f-5-ports-10-100-mbps-sans-poe-blanc.html"
-  },
-  {
-   "id": "76328",
-   "sku": "872104",
-   "name": "Sac Déjeuner et Goûter MAPED 872104 - Bleu",
-   "brand": "MAPED",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 49,
-   "new_price": 39,
-   "discount_pct": 20.4,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-dejeuner-et-gouter-maped-872104-bleu-001.jpg",
-   "url": "https://www.mytek.tn/sac-dejeuner-et-gouter-maped-872104-bleu.html"
-  },
-  {
-   "id": "78493",
-   "sku": "SAC-TITOU-NOIR",
-   "name": "Sac A Dos TITOU Led Pour Enfant Noir",
-   "brand": "TITOU",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 250,
-   "new_price": 199,
-   "discount_pct": 20.4,
-   "savings": 51,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-titou-led-pour-enfant-noir.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-titou-led-pour-enfant-noir.html"
-  },
-  {
-   "id": "78494",
-   "sku": "SAC-TITOU-ROSE",
-   "name": "Sac A Dos TITOU Led Pour Enfant Rose",
-   "brand": "TITOU",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 250,
-   "new_price": 199,
-   "discount_pct": 20.4,
-   "savings": 51,
-   "image": "https://www.mytek.tn/media/catalog/productno_selection",
-   "url": "https://www.mytek.tn/sac-a-dos-titou-led-pour-enfant-rose.html"
   },
   {
    "id": "71002",
@@ -42365,21 +42175,6 @@
    "savings": 14,
    "image": "https://www.mytek.tn/media/catalog/product/r/o/rouleaux-plastification-glossy-330-mm-250-m-1.jpg",
    "url": "https://www.mytek.tn/rouleaux-plastification-glossy-330-mm-250-m.html"
-  },
-  {
-   "id": "48709",
-   "sku": "707678",
-   "name": "Sac à Dos Scolaire VIQUEL The Good Way - Bleu",
-   "brand": "VIQUEL",
-   "categories": [
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 69,
-   "new_price": 55,
-   "discount_pct": 20.3,
-   "savings": 14,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-a-dos-scolaire-viquel-the-good-way-bleu.jpg",
-   "url": "https://www.mytek.tn/sac-a-dos-scolaire-viquel-the-good-way-bleu.html"
   },
   {
    "id": "77527",
@@ -42710,38 +42505,6 @@
    "url": "https://www.mytek.tn/plafonnier-led-intelligent-rgb-360-avec-ventilateur-integre.html"
   },
   {
-   "id": "69986",
-   "sku": "112200",
-   "name": "Paquet de 500 Enveloppes PIGNA Blanches 110 x 220 mm Strip 80gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 45,
-   "new_price": 35.9,
-   "discount_pct": 20.2,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-pigna-blanches-110-x-220-mm-strip-80gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-blanches-110-x-220-mm-strip-80gr.html"
-  },
-  {
-   "id": "70055",
-   "sku": "002333",
-   "name": "Paquet de 500 Pochettes PIGNA kraft 90 gr 176 x 260 mm",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 99,
-   "new_price": 79,
-   "discount_pct": 20.2,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-kraft-90gr-176-x-260-mm-strip.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-kraft-90gr-176-x-260-mm-strip.html"
-  },
-  {
    "id": "73511",
    "sku": "8830",
    "name": "Soudeuse Thermique 30 CM 8830",
@@ -42776,7 +42539,7 @@
    "id": "72401",
    "sku": "MS-3629BT",
    "name": "Haut-parleur Sans Fil MS-3629BT RGB Avec Radio FM - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Haut-Parleur",
     "Son Numérique"
@@ -42792,7 +42555,7 @@
    "id": "72501",
    "sku": "MS-3630BT",
    "name": "Haut-parleur Sans Fil MS-3630BT RGB Avec Radio FM - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Haut-Parleur",
     "Son Numérique"
@@ -42821,6 +42584,21 @@
    "url": "https://www.mytek.tn/haut-parleur-sans-fil-zqs-p9-noir.html"
   },
   {
+   "id": "69986",
+   "sku": "112200",
+   "name": "Paquet de 500 Enveloppes PIGNA Blanches 110 x 220 mm Strip 80gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 45,
+   "new_price": 35.9,
+   "discount_pct": 20.2,
+   "savings": 9.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-pigna-blanches-110-x-220-mm-strip-80gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-blanches-110-x-220-mm-strip-80gr.html"
+  },
+  {
    "id": "58878",
    "sku": "BHR6756GL",
    "name": "Papier photo instantané XIAOMI 3 Pouces 40 feuilles",
@@ -42834,6 +42612,21 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/papier-photo-instantane-xiaomi-3-pouces-40-feuilles.jpg",
    "url": "https://www.mytek.tn/papier-photo-instantane-xiaomi-3-pouces-40-feuilles.html"
+  },
+  {
+   "id": "70055",
+   "sku": "002333",
+   "name": "Paquet de 500 Pochettes PIGNA kraft 90 gr 176 x 260 mm",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 99,
+   "new_price": 79,
+   "discount_pct": 20.2,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-kraft-90gr-176-x-260-mm-strip.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-kraft-90gr-176-x-260-mm-strip.html"
   },
   {
    "id": "53078",
@@ -43246,21 +43039,6 @@
    "url": "https://www.mytek.tn/friteuse-sans-huile-hisense-h06afbs2s3-6-7l-noir.html"
   },
   {
-   "id": "3365",
-   "sku": "40550",
-   "name": "Blender TOUCH Avec Moulin et Hachoir 400W - Blanc",
-   "brand": "TOUCH",
-   "categories": [
-    "Blender"
-   ],
-   "old_price": 149,
-   "new_price": 119,
-   "discount_pct": 20.1,
-   "savings": 30,
-   "image": "https://www.mytek.tn/media/catalog/product/4/0/40550.jpg",
-   "url": "https://www.mytek.tn/blender-touch-avec-moulin-et-hachoir-400w-blanc.html"
-  },
-  {
    "id": "62904",
    "sku": "EFSR24101",
    "name": "Ponceuse De Finition EMTOP 240W 110x100  EFSR24101",
@@ -43612,7 +43390,7 @@
    "id": "73640",
    "sku": "MS-2043BT",
    "name": "Haut Parleur Bluetooth MS-2043BT - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Haut-Parleur",
     "Son Numérique"
@@ -43737,10 +43515,26 @@
    "url": "https://www.mytek.tn/imprimante-code-a-barre-xprinter-xp-365b-noir.html"
   },
   {
+   "id": "73254",
+   "sku": "EFN056K",
+   "name": "Mixeur Plongeant Sans Fil EMTOP EFN056K 5en1 100W - Noir",
+   "brand": "EMTOP",
+   "categories": [
+    "Mixeur",
+    "Préparation culinaire"
+   ],
+   "old_price": 249,
+   "new_price": 199,
+   "discount_pct": 20.1,
+   "savings": 50,
+   "image": "https://www.mytek.tn/media/catalog/product/m/i/mixeur-plongeant-emtop-sans-fil-100w-5-vitesses-avec-mallette-1.jpg",
+   "url": "https://www.mytek.tn/mixeur-plongeant-sans-fil-emtop-efn056k-5en1-100w-noir.html"
+  },
+  {
    "id": "75944",
    "sku": "800914",
    "name": "Paquet 100 Feuilles RIBAT Bristol Blanc A4 200G",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "RIBAT-PAPIER",
    "categories": [
     "Papier"
    ],
@@ -43812,6 +43606,22 @@
    "savings": 40,
    "image": "https://www.mytek.tn/media/catalog/product/s/w/switch-hikvision-4-ports-gigabit-smart-poe-et-1-up-link-rj45.jpg",
    "url": "https://www.mytek.tn/switch-hikvision-4-ports-gigabit-smart-poe-et-1-up-link-rj45.html"
+  },
+  {
+   "id": "61088",
+   "sku": "DVB4412GL",
+   "name": "Routeur Xiaomi AX1500 Sans Fil - Blanc (DVB4412GL)",
+   "brand": "XIAOMI",
+   "categories": [
+    "Reseaux",
+    "Routeur"
+   ],
+   "old_price": 199,
+   "new_price": 159,
+   "discount_pct": 20.1,
+   "savings": 40,
+   "image": "https://www.mytek.tn/media/catalog/product/r/o/routeur-sans-fil-xiaomi-ax1500-blanc-dvb4412gl.jpg",
+   "url": "https://www.mytek.tn/routeur-sans-fil-xiaomi-ax1500-blanc-dvb4412gl.html"
   },
   {
    "id": "57312",
@@ -45043,6 +44853,22 @@
    "url": "https://www.mytek.tn/tuyau-d-arrosage-gardena-comfort-flex-19-mm-3-4-50m.html"
   },
   {
+   "id": "39869",
+   "sku": "HGE-OXYGENE",
+   "name": "Ventilateur De Table HGE Oxygène 60W - Blanc",
+   "brand": "HGE",
+   "categories": [
+    "Climatisation",
+    "Ventilateur"
+   ],
+   "old_price": 109,
+   "new_price": 88,
+   "discount_pct": 19.3,
+   "savings": 21,
+   "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur-mural-hge-60w---blanc1_2.png",
+   "url": "https://www.mytek.tn/ventilateur-de-table-hge-oxygene-60w-blanc.html"
+  },
+  {
    "id": "45766",
    "sku": "4000812",
    "name": "Pack de 3 rouleaux en mousse aux différents motifs JOVI Pour modelage",
@@ -45056,22 +44882,6 @@
    "savings": 2.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-3-rouleaux-en-mousse-aux-diff_rents-motifs-jovi-pour-modelage.jpg",
    "url": "https://www.mytek.tn/pack-de-3-rouleaux-en-mousse-aux-differents-motifs-jovi-pour-modelage.html"
-  },
-  {
-   "id": "64745",
-   "sku": "BAM84SBL-BR",
-   "name": "Lave Linge Frontal BRANDT BAM84SBL 8Kg - Silver",
-   "brand": "BRANDT",
-   "categories": [
-    "Lavage",
-    "Machine à Laver"
-   ],
-   "old_price": 1399,
-   "new_price": 1129,
-   "discount_pct": 19.3,
-   "savings": 270,
-   "image": "https://www.mytek.tn/media/catalog/product/m/a/machine-_-laver-frontal-brandt-bam84sbl-8kg---silver.jpg",
-   "url": "https://www.mytek.tn/lave-linge-frontal-brandt-bam84sbl-8kg-silver.html"
   },
   {
    "id": "8858",
@@ -45835,22 +45645,6 @@
    "url": "https://www.mytek.tn/croquettes-pour-chat-royal-canin-persian-adulte-2kg.html"
   },
   {
-   "id": "67498",
-   "sku": "10941725",
-   "name": "Paquet De 500 Pochettes Kraft LA COURONNE 176x250 mm 90 gr",
-   "brand": "LA-COURONNE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 79.9,
-   "new_price": 65,
-   "discount_pct": 18.6,
-   "savings": 14.9,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-kraft-la-couronne-176x250-mm-90-gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-pochettes-kraft-la-couronne-176x250-mm-90-gr.html"
-  },
-  {
    "id": "69847",
    "sku": "4630601",
    "name": "Destructeur de documents FELLOWES 10-M - Noir",
@@ -45973,36 +45767,19 @@
    "url": "https://www.mytek.tn/montre-femme-superdry-camouflage-rose-syl-296ep.html"
   },
   {
-   "id": "28697",
-   "sku": "872102",
-   "name": "Sac Déjeuner MAPED Picnik Jeune - Turquoise",
-   "brand": "MAPED",
+   "id": "67498",
+   "sku": "10941725",
+   "name": "Paquet De 500 Pochettes Kraft LA COURONNE 176x250 mm 90 gr",
+   "brand": "LA-COURONNE",
    "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
+    "Papier"
    ],
-   "old_price": 49,
-   "new_price": 39.9,
+   "old_price": 79.9,
+   "new_price": 65,
    "discount_pct": 18.6,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-d_jeuner-maped-picnik-jeune---turquoise-1.jpg",
-   "url": "https://www.mytek.tn/sac-dejeuner-maped-picnik-jeune-turquoise.html"
-  },
-  {
-   "id": "76215",
-   "sku": "872106",
-   "name": "Sac Déjeuner MAPED Origins Avec Bandouliere - Gris",
-   "brand": "MAPED",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 49,
-   "new_price": 39.9,
-   "discount_pct": 18.6,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-dejeuner-maped-origins-avec-bandouliere-gris-1.jpg",
-   "url": "https://www.mytek.tn/sac-dejeuner-maped-origins-avec-bandouliere-gris.html"
+   "savings": 14.9,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-kraft-la-couronne-176x250-mm-90-gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-pochettes-kraft-la-couronne-176x250-mm-90-gr.html"
   },
   {
    "id": "60730",
@@ -46374,22 +46151,6 @@
    "url": "https://www.mytek.tn/paquet-de-50-intercalaires-80-mic.html"
   },
   {
-   "id": "39869",
-   "sku": "HGE-OXYGENE",
-   "name": "Ventilateur De Table HGE Oxygène 60W - Blanc",
-   "brand": "HGE",
-   "categories": [
-    "Climatisation",
-    "Ventilateur"
-   ],
-   "old_price": 109,
-   "new_price": 89,
-   "discount_pct": 18.3,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur-mural-hge-60w---blanc1_2.png",
-   "url": "https://www.mytek.tn/ventilateur-de-table-hge-oxygene-60w-blanc.html"
-  },
-  {
    "id": "45778",
    "sku": "4000811",
    "name": "Pack de 3 gros rouleaux de peinture formes diverses JOVI Pour modelage - Rouge",
@@ -46699,54 +46460,6 @@
    "url": "https://www.mytek.tn/ecran-gaming-lg-ultragear-g6-27g610a-27-qhd-ips-200hz.html"
   },
   {
-   "id": "76235",
-   "sku": "872201",
-   "name": "Sac Déjeuner MAPED Concept Adult 4.4 L Rose - 872201",
-   "brand": "MAPED",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 55,
-   "new_price": 45,
-   "discount_pct": 18.2,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-dejeuner-maped-concept-adult-rose-872201.jpg",
-   "url": "https://www.mytek.tn/sac-dejeuner-maped-concept-adult-rose-872201.html"
-  },
-  {
-   "id": "76237",
-   "sku": "872203",
-   "name": "Sac Déjeuner MAPED Concept Adult 4.4 L Bleu - 872203",
-   "brand": "MAPED",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 55,
-   "new_price": 45,
-   "discount_pct": 18.2,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-dejeuner-maped-concept-adult-4-4-l-bleu-872203.jpg",
-   "url": "https://www.mytek.tn/sac-dejeuner-maped-concept-adult-4-4-l-bleu-872203.html"
-  },
-  {
-   "id": "76240",
-   "sku": "872204",
-   "name": "Sac Déjeuner MAPED Concept Adult 4.4 L Vert - 872204",
-   "brand": "MAPED",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 55,
-   "new_price": 45,
-   "discount_pct": 18.2,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-dejeuner-maped-concept-adult-4-4-l-vert-872204.jpg",
-   "url": "https://www.mytek.tn/sac-dejeuner-maped-concept-adult-4-4-l-vert-872204.html"
-  },
-  {
    "id": "71228",
    "sku": "611T-3A",
    "name": "Tableau d'Affichage en Liège FAIBO Tapisse 90 x 120 cm - Bleu",
@@ -46998,6 +46711,23 @@
    "url": "https://www.mytek.tn/cartouche-jet-d-encre-original-hp-727-noir-b3p22a.html"
   },
   {
+   "id": "59769",
+   "sku": "910-003357",
+   "name": "Souris Optique Filaire LOGITECH B100 USB - Noir",
+   "brand": "LOGITECH",
+   "categories": [
+    "Clavier & Tapis & Souris",
+    "Périphériques & Accessoires",
+    "Souris"
+   ],
+   "old_price": 14,
+   "new_price": 11.5,
+   "discount_pct": 17.9,
+   "savings": 2.5,
+   "image": "https://www.mytek.tn/media/catalog/product/s/o/souris-optique-filaire-logitech-b100-usb-noir-gg.jpg",
+   "url": "https://www.mytek.tn/souris-optique-filaire-logitech-b100-usb-noir.html"
+  },
+  {
    "id": "63864",
    "sku": "910-005907",
    "name": "Souris Sans Fil LOGITECH M190 - Bleu",
@@ -47239,7 +46969,7 @@
    "id": "65991",
    "sku": "MX12-3PACK",
    "name": "Paquet de 3 Systèmes Wi-Fi 6 Maillés TENDA Nova MX12/EX12 AX3000",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "TENDA",
    "categories": [
     "Point d'accès",
     "Reseaux"
@@ -47250,6 +46980,22 @@
    "savings": 160,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-3-systeme-wi-fi-tenda-6-maille-pour-toute-la-maison-ax3000-1.jpg",
    "url": "https://www.mytek.tn/paquet-de-3-systeme-wi-fi-tenda-6-maille-pour-toute-la-maison-ax3000.html"
+  },
+  {
+   "id": "39633",
+   "sku": "DS-3E0524EB",
+   "name": "Switch non géré Gigabit HIKVISION DS-3E0524EB 24 Ports 10/100/1000 Mbps",
+   "brand": "HIKVISION",
+   "categories": [
+    "Reseaux",
+    "Switch"
+   ],
+   "old_price": 449,
+   "new_price": 369,
+   "discount_pct": 17.8,
+   "savings": 80,
+   "image": "https://www.mytek.tn/media/catalog/product/s/w/switch-non-gere-gigabit-hikvision-24-ports-ds-3e0524eb.jpg",
+   "url": "https://www.mytek.tn/switch-non-gere-gigabit-hikvision-24-ports-ds-3e0524eb.html"
   },
   {
    "id": "71005",
@@ -47620,22 +47366,6 @@
    "url": "https://www.mytek.tn/classeur-a-levier-costo-pp-pp-d75-rose-pastel.html"
   },
   {
-   "id": "69982",
-   "sku": "114162",
-   "name": "Paquet de 1000 Enveloppes PIGNA Blanches 114 x 162 mm Strip 80gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 79,
-   "new_price": 65,
-   "discount_pct": 17.7,
-   "savings": 14,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-pigna-blanches-114-x-162-mm-strip-80gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-1000-enveloppes-pigna-blanches-114-x-162-mm-strip-80gr.html"
-  },
-  {
    "id": "76654",
    "sku": "OW-F11V01S",
    "name": "Lave Linge Frontal Inverter ORIENT OW-F11V01S 11Kg - Silver",
@@ -47668,12 +47398,26 @@
    "url": "https://www.mytek.tn/lave-linge-frontal-inverter-orient-ow-f11v01n-11kg-noir.html"
   },
   {
+   "id": "69982",
+   "sku": "114162",
+   "name": "Paquet de 1000 Enveloppes PIGNA Blanches 114 x 162 mm Strip 80gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 79,
+   "new_price": 65,
+   "discount_pct": 17.7,
+   "savings": 14,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-pigna-blanches-114-x-162-mm-strip-80gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-1000-enveloppes-pigna-blanches-114-x-162-mm-strip-80gr.html"
+  },
+  {
    "id": "70046",
    "sku": "253745",
    "name": "Paquet de 250 Pochettes PIGNA Blanches 370 x 450 mm Strip 90gr",
    "brand": "PIGNA",
    "categories": [
-    "Enveloppe & Pochette",
     "Papier"
    ],
    "old_price": 108,
@@ -48045,6 +47789,22 @@
    "url": "https://www.mytek.tn/boulonneuse-a-chocs-electrique-makita-380-w.html"
   },
   {
+   "id": "61897",
+   "sku": "HILW75222SL",
+   "name": "Plaque De Cuisson Encastrable BEKO HILW75222SL 5Feux 75cm - Noir Miroir",
+   "brand": "BEKO",
+   "categories": [
+    "Cuisson",
+    "Plaque de Cuisson"
+   ],
+   "old_price": 1039,
+   "new_price": 859,
+   "discount_pct": 17.3,
+   "savings": 180,
+   "image": "https://www.mytek.tn/media/catalog/product/p/l/plaque-de-cuisson-encastrable-beko-hilw75222sl-5feux-75cm-noir-miroir-g.jpg",
+   "url": "https://www.mytek.tn/plaque-de-cuisson-encastrable-beko-hilw75222sl-5feux-75cm-noir-miroir.html"
+  },
+  {
    "id": "71420",
    "sku": "907211",
    "name": "Créatif Fabulous Factory MAPED 907211 - UNICORN",
@@ -48059,23 +47819,6 @@
    "savings": 13,
    "image": "https://www.mytek.tn/media/catalog/product/c/r/creativ-fabulous-factory-maped-907211-unicorn-a.jpg",
    "url": "https://www.mytek.tn/creativ-fabulous-factory-maped-907211-unicorn.html"
-  },
-  {
-   "id": "71195",
-   "sku": "102230",
-   "name": "Colle PASCO Naturel Glue Stick 8G",
-   "brand": "PASCO",
-   "categories": [
-    "Adhésifs & Agrafage",
-    "Colle",
-    "Fourniture de Bureau"
-   ],
-   "old_price": 2.9,
-   "new_price": 2.4,
-   "discount_pct": 17.2,
-   "savings": 0.5,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/colle-pasco-naturel-glue-stick-8g.jpg",
-   "url": "https://www.mytek.tn/colle-pasco-naturel-glue-stick-8g.html"
   },
   {
    "id": "9249",
@@ -48659,7 +48402,7 @@
    "new_price": 49,
    "discount_pct": 16.9,
    "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/c/l/cli-451bk_1_1.jpg",
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cartouche-dencre-canon-cli-451noir-tunsie-1.jpg",
    "url": "https://www.mytek.tn/cartouche-dencre-canon-cli-451noir-tunsie.html"
   },
   {
@@ -49678,7 +49421,7 @@
    "id": "74293",
    "sku": "NDR-P15",
    "name": "Haut parleur Sans fil NDR P15 bluetooth - Noir",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Haut-Parleur",
     "Son Numérique"
@@ -49726,7 +49469,7 @@
    "id": "55404",
    "sku": "N4K99C",
    "name": "Imprimante Portable HP OfficeJet 202 Jet d’encre Wifi Couleur",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "HP",
    "categories": [
     "Imprimante"
    ],
@@ -50682,7 +50425,7 @@
    "id": "65489",
    "sku": "MT817X100",
    "name": "PERCEUSE A PERCUSSION Maktec 430W 13MM - Rouge",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MAKTEC",
    "categories": [
     "Bricolage & jardin"
    ],
@@ -51083,21 +50826,6 @@
    "savings": 80,
    "image": "https://www.mytek.tn/media/catalog/product/p/l/plastifieuse-fellowes-pixel-a3-4.jpg",
    "url": "https://www.mytek.tn/plastifieuse-fellowes-pixel-a3.html"
-  },
-  {
-   "id": "72008",
-   "sku": "MF-3010P",
-   "name": "Imprimante CANON I-SENSYS MF3010 Laser 3en1 Monochrome",
-   "brand": "CANON",
-   "categories": [
-    "Imprimante"
-   ],
-   "old_price": 999,
-   "new_price": 839,
-   "discount_pct": 16.0,
-   "savings": 160,
-   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-canon-mf3010-laser-monochrome-3-en-1-noir-1.jpg",
-   "url": "https://www.mytek.tn/imprimante-canon-mf3010-laser-monochrome-3-en-1-noir.html"
   },
   {
    "id": "58668",
@@ -51803,22 +51531,6 @@
    "url": "https://www.mytek.tn/pack-de-20-stylos-a-bille-bic-cristal-original-bleu.html"
   },
   {
-   "id": "70022",
-   "sku": "002535",
-   "name": "Paquet de 500 Enveloppes PIGNA Kraft  250 x 353 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 129,
-   "new_price": 109,
-   "discount_pct": 15.5,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-kraft-250-x-353-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-kraft-250-x-353-mm-strip-90gr.html"
-  },
-  {
    "id": "75284",
    "sku": "SC25",
    "name": "Multiprise EARLDOM SC25 4 Prises + 4 USB + 2 USB-C - Noir",
@@ -51878,6 +51590,21 @@
    "savings": 3.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-100-feuilles-ribat-couche-brillant-a3-115g.jpg",
    "url": "https://www.mytek.tn/paquet-100-feuilles-ribat-couche-brillant-a3-115g.html"
+  },
+  {
+   "id": "70022",
+   "sku": "002535",
+   "name": "Paquet de 500 Enveloppes PIGNA Kraft  250 x 353 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 129,
+   "new_price": 109,
+   "discount_pct": 15.5,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-kraft-250-x-353-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-kraft-250-x-353-mm-strip-90gr.html"
   },
   {
    "id": "46714",
@@ -52102,38 +51829,6 @@
    "url": "https://www.mytek.tn/routeur-sans-fil-xiaomi-ax3000ne-blanc-dvb4459gl.html"
   },
   {
-   "id": "76360",
-   "sku": "872301",
-   "name": "Sac Déjeuner MAPED Concept Figuratif - Rose",
-   "brand": "MAPED",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 59,
-   "new_price": 49.9,
-   "discount_pct": 15.4,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-dejeuner-maped-concept-figuratif-rose-001.jpg",
-   "url": "https://www.mytek.tn/sac-dejeuner-maped-concept-figuratif-rose.html"
-  },
-  {
-   "id": "76361",
-   "sku": "872303",
-   "name": "Sac Déjeuner MAPED Concept Figuratif - Bleu",
-   "brand": "MAPED",
-   "categories": [
-    "Sac à Goûter",
-    "Sacs Scolaires & Trousses"
-   ],
-   "old_price": 59,
-   "new_price": 49.9,
-   "discount_pct": 15.4,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/a/sac-dejeuner-maped-concept-figuratif-bleu-077.jpg",
-   "url": "https://www.mytek.tn/sac-dejeuner-maped-concept-figuratif-bleu.html"
-  },
-  {
    "id": "3763",
    "sku": "MARY-BEIGE",
    "name": "Sac Bandoulière MODALINE Mary avec Chaine - Beige & Gold",
@@ -52287,6 +51982,23 @@
    "url": "https://www.mytek.tn/agrafeuse-geante-210p-dl0240.html"
   },
   {
+   "id": "48507",
+   "sku": "416998",
+   "name": "Bloc Note WIRO YAMAMA Manager 50 Feuilles à Lignes (80 g/m²)",
+   "brand": "YAMAMA",
+   "categories": [
+    "Bloc Notes",
+    "Cahier & Feuille",
+    "Fourniture de Bureau"
+   ],
+   "old_price": 5.9,
+   "new_price": 5,
+   "discount_pct": 15.3,
+   "savings": 0.9,
+   "image": "https://www.mytek.tn/media/catalog/product/b/l/bloc-note-wiro-yamama-manager-50-feuilles-a-lignes-80-g-m.jpg",
+   "url": "https://www.mytek.tn/bloc-note-wiro-yamama-manager-50-feuilles-a-lignes-80-g-m.html"
+  },
+  {
    "id": "71347",
    "sku": "90YV0K60-M0NA00",
    "name": "Carte Graphique ASUS Dual GeForce RTX 3050 6Go GDDR6",
@@ -52303,22 +52015,6 @@
    "url": "https://www.mytek.tn/carte-graphique-asus-dual-geforce-rtx-3050-6go-gddr6.html"
   },
   {
-   "id": "70052",
-   "sku": "001726",
-   "name": "Paquet de 500 Pochettes PIGNA kraft 176 x 260 mm Strip 90 gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 79,
-   "new_price": 66.9,
-   "discount_pct": 15.3,
-   "savings": 12.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-kraft-176-x-260-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-kraft-176-x-260-mm-strip-90gr.html"
-  },
-  {
    "id": "64754",
    "sku": "C11CF40401",
    "name": "Imprimante EPSON LQ-2090II Matricielle USB",
@@ -52333,6 +52029,21 @@
    "savings": 340,
    "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-matricielle-epson-lq-2090ii-1.jpg",
    "url": "https://www.mytek.tn/imprimante-matricielle-epson-lq-2090ii.html"
+  },
+  {
+   "id": "70052",
+   "sku": "001726",
+   "name": "Paquet de 500 Pochettes PIGNA kraft 176 x 260 mm Strip 90 gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 79,
+   "new_price": 66.9,
+   "discount_pct": 15.3,
+   "savings": 12.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-kraft-176-x-260-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-kraft-176-x-260-mm-strip-90gr.html"
   },
   {
    "id": "66643",
@@ -53197,21 +52908,6 @@
    "url": "https://www.mytek.tn/tableau-blanc-magnetique-eco-60-x-90-cm.html"
   },
   {
-   "id": "60670",
-   "sku": "30717",
-   "name": "Tableau Blanc Magnétique BIOFFICE 60 X 90 cm",
-   "brand": "BI-OFFICE",
-   "categories": [
-    "Tableaux"
-   ],
-   "old_price": 95,
-   "new_price": 81,
-   "discount_pct": 14.7,
-   "savings": 14,
-   "image": "https://www.mytek.tn/media/catalog/product/t/a/tableau-blanc-magnetique-bioffice-60-x-90-cm-30717.jpg",
-   "url": "https://www.mytek.tn/tableau-blanc-magnetique-bioffice-60-x-90-cm-30717.html"
-  },
-  {
    "id": "607",
    "sku": "CTL-4100WLE-S",
    "name": "Tablette Graphique WACOM Intuos Confort S - Pistache (CTL-4100WLE-S)",
@@ -53594,22 +53290,6 @@
    "url": "https://www.mytek.tn/pack-de-10-stylos-a-bille-schneider-pen-take-4-bleu.html"
   },
   {
-   "id": "70025",
-   "sku": "162300",
-   "name": "Paquet de 500 Pochettes PIGNA Blanches 162 x 230 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 69,
-   "new_price": 59,
-   "discount_pct": 14.5,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-blanches-162-x-230-mm-strip-90gr_1_.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-blanches-162-x-230-mm-strip-90gr.html"
-  },
-  {
    "id": "35711",
    "sku": "ETIQ-PETARG-50X30MM",
    "name": "Rouleau D'étiquette Thermique 50 x 30mm - ARGENTÉE",
@@ -53671,6 +53351,21 @@
    "savings": 49,
    "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-eaton-in-line-ups-5e-gen2-iec-700va-360w---5e700i-1_1.jpg",
    "url": "https://www.mytek.tn/onduleur-eaton-in-line-ups-5e-gen2-usb-iec-700va-360w-5e700ui.html"
+  },
+  {
+   "id": "70025",
+   "sku": "162300",
+   "name": "Paquet de 500 Pochettes PIGNA Blanches 162 x 230 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 69,
+   "new_price": 59,
+   "discount_pct": 14.5,
+   "savings": 10,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-blanches-162-x-230-mm-strip-90gr_1_.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-blanches-162-x-230-mm-strip-90gr.html"
   },
   {
    "id": "60266",
@@ -53896,7 +53591,7 @@
    "id": "75543",
    "sku": "MILANO-MM-BE",
    "name": "Valise Moyen Modèle MILANO BAG avec mallette grand modèle - Beige",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MILANO-BAG",
    "categories": [
     "Sacs & Bagages"
    ],
@@ -54437,38 +54132,6 @@
    "url": "https://www.mytek.tn/toner-laser-hp-original-26x-a-haute-capacite-noir-cf226x.html"
   },
   {
-   "id": "70019",
-   "sku": "002232",
-   "name": "Paquet de 500 Enveloppes PIGNA Kraft 229 x 324 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 99,
-   "new_price": 85,
-   "discount_pct": 14.1,
-   "savings": 14,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-kraft-229-x-324-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-kraft-229-x-324-mm-strip-90gr.html"
-  },
-  {
-   "id": "70036",
-   "sku": "233300",
-   "name": "Paquet de 500 Pochettes PIGNA Blanches 230 x 330 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 99,
-   "new_price": 85,
-   "discount_pct": 14.1,
-   "savings": 14,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-blanches-230-x-330-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-blanches-230-x-330-mm-strip-90gr.html"
-  },
-  {
    "id": "52963",
    "sku": "5SC1000IR",
    "name": "Onduleur In Line EATON Rack 2U 5SC1000IR",
@@ -54498,6 +54161,36 @@
    "savings": 3.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-100-feuilles-ribat-couche-mat-a3-135g.jpg",
    "url": "https://www.mytek.tn/paquet-de-100-feuilles-ribat-couche-mat-a3-135g.html"
+  },
+  {
+   "id": "70019",
+   "sku": "002232",
+   "name": "Paquet de 500 Enveloppes PIGNA Kraft 229 x 324 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 99,
+   "new_price": 85,
+   "discount_pct": 14.1,
+   "savings": 14,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-kraft-229-x-324-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-kraft-229-x-324-mm-strip-90gr.html"
+  },
+  {
+   "id": "70036",
+   "sku": "233300",
+   "name": "Paquet de 500 Pochettes PIGNA Blanches 230 x 330 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 99,
+   "new_price": 85,
+   "discount_pct": 14.1,
+   "savings": 14,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-blanches-230-x-330-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-blanches-230-x-330-mm-strip-90gr.html"
   },
   {
    "id": "7100",
@@ -54748,6 +54441,21 @@
    "savings": 70,
    "image": "https://www.mytek.tn/media/catalog/product/p/o/point-d-acces-ruijie-reyee-rg-rap62-interieur-wi-fi-6-ax1800-1.jpg",
    "url": "https://www.mytek.tn/point-d-acces-ruijie-reyee-rg-rap62-interieur-wi-fi-6-ax1800.html"
+  },
+  {
+   "id": "71493",
+   "sku": "TVS-100F-01",
+   "name": "Support TV En Acier GEMBIRD au sol avec roulettes 37\" - 100\" - Noir",
+   "brand": "GEMBIRD",
+   "categories": [
+    "Accessoires Téléviseurs"
+   ],
+   "old_price": 799,
+   "new_price": 689,
+   "discount_pct": 13.8,
+   "savings": 110,
+   "image": "https://www.mytek.tn/media/catalog/product/s/u/support-tv-en-acier-gembird-au-sol-avec-roulettes-37-100-noir-001.jpg",
+   "url": "https://www.mytek.tn/support-tv-en-acier-gembird-au-sol-avec-roulettes-37-100-noir.html"
   },
   {
    "id": "42361",
@@ -55067,22 +54775,6 @@
    "url": "https://www.mytek.tn/pack-electromenager-franco-four-encastrable-plaque-de-cuisson-hotte-inox.html"
   },
   {
-   "id": "67502",
-   "sku": "10911725",
-   "name": "Paquet De 500 Enveloppes Blanc LA COURONNE 176 x 250 mm 90 gr",
-   "brand": "LA-COURONNE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 79.9,
-   "new_price": 69,
-   "discount_pct": 13.6,
-   "savings": 10.9,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppe-blanc-la-couronne-176x250-mm-90-gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppe-blanc-la-couronne-176x250-mm-90-gr.html"
-  },
-  {
    "id": "76241",
    "sku": "A3048",
    "name": "Plastifieuse OLYMPIA  A3 A3048 -Noir",
@@ -55111,6 +54803,21 @@
    "savings": 6.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-100-feuilles-ribat-couche-mat-a3-350g.jpg",
    "url": "https://www.mytek.tn/paquet-de-100-feuilles-ribat-couche-mat-a3-350g.html"
+  },
+  {
+   "id": "67502",
+   "sku": "10911725",
+   "name": "Paquet De 500 Enveloppes Blanc LA COURONNE 176 x 250 mm 90 gr",
+   "brand": "LA-COURONNE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 79.9,
+   "new_price": 69,
+   "discount_pct": 13.6,
+   "savings": 10.9,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppe-blanc-la-couronne-176x250-mm-90-gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppe-blanc-la-couronne-176x250-mm-90-gr.html"
   },
   {
    "id": "71428",
@@ -55441,23 +55148,6 @@
    "savings": 40,
    "image": "https://www.mytek.tn/media/catalog/product/s/w/switch-d-link-16-port-10-100-1000-base-t-gigabit_1.jpg",
    "url": "https://www.mytek.tn/switch-d-link-16-port-10-100-1000-base-t-gigabit.html"
-  },
-  {
-   "id": "68729",
-   "sku": "1580-V",
-   "name": "Corbeille à Papier ARK 20L Avec Pédale - Vert",
-   "brand": "ARK",
-   "categories": [
-    "Accessoires de Bureau",
-    "Corbeille à Papier",
-    "Fourniture de Bureau"
-   ],
-   "old_price": 45,
-   "new_price": 39,
-   "discount_pct": 13.3,
-   "savings": 6,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/corbeille-a-papier-ark-20l-avec-pedale-vert.jpg",
-   "url": "https://www.mytek.tn/corbeille-a-papier-ark-20l-avec-pedale-vert.html"
   },
   {
    "id": "71869",
@@ -56259,6 +55949,22 @@
    "url": "https://www.mytek.tn/bicyclette-vtt-prado-bliss-double-jante-18-vitesse-24-rouge-jaune.html"
   },
   {
+   "id": "36568",
+   "sku": "LM42R810",
+   "name": "Blender MOULINEX LM42R810 600W Avec Deuxième Bol - Noir",
+   "brand": "MOULINEX",
+   "categories": [
+    "Blender",
+    "Préparation culinaire"
+   ],
+   "old_price": 399,
+   "new_price": 349,
+   "discount_pct": 12.5,
+   "savings": 50,
+   "image": "https://www.mytek.tn/media/catalog/product/b/l/blender-moulinex-lm42r810-600w-avec-deuxi_me-bol---noir.jpg",
+   "url": "https://www.mytek.tn/blender-moulinex-lm42r810-600w-avec-deuxieme-bol-noir.html"
+  },
+  {
    "id": "76218",
    "sku": "872601",
    "name": "Bol Lunch MAPED Origins 1,4 l Rose - 872601",
@@ -56568,12 +56274,26 @@
    "url": "https://www.mytek.tn/meuleuse-makita-o-2200w-230mm-ga9020.html"
   },
   {
+   "id": "73900",
+   "sku": "DL9004",
+   "name": "Caisse Monnaie GGM Mixte - DL9004",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "MATERIEL POINT DE VENTE"
+   ],
+   "old_price": 65,
+   "new_price": 57,
+   "discount_pct": 12.3,
+   "savings": 8,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/caisse-monnaie-ggm-mixte-dl9004-2.jpg",
+   "url": "https://www.mytek.tn/caisse-monnaie-ggm-mixte-dl9004.html"
+  },
+  {
    "id": "65918",
    "sku": "500604",
    "name": "Paquet De 500 Enveloppes Kraft LA COURONNE 90 Gr 162 x 229 mm - Marron",
    "brand": "LA-COURONNE",
    "categories": [
-    "Enveloppe & Pochette",
     "Papier"
    ],
    "old_price": 55.9,
@@ -56589,7 +56309,6 @@
    "name": "Paquet de 50 Pochettes GAZELLE 22 x 32 Blanc 100g",
    "brand": "GAZELLE",
    "categories": [
-    "Enveloppe & Pochette",
     "Papier"
    ],
    "old_price": 65,
@@ -56598,21 +56317,6 @@
    "savings": 8,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-gazelle-22-x-32-blanc-100g.jpg",
    "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-22-x-32-blanc-100g.html"
-  },
-  {
-   "id": "73900",
-   "sku": "DL9004",
-   "name": "Caisse Monnaie GGM Mixte - DL9004",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "MATERIEL POINT DE VENTE"
-   ],
-   "old_price": 65,
-   "new_price": 57,
-   "discount_pct": 12.3,
-   "savings": 8,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/caisse-monnaie-ggm-mixte-dl9004-2.jpg",
-   "url": "https://www.mytek.tn/caisse-monnaie-ggm-mixte-dl9004.html"
   },
   {
    "id": "72818",
@@ -56631,22 +56335,6 @@
    "url": "https://www.mytek.tn/video-projecteur-epson-eb-fh54-full-hd-wifi-blanc.html"
   },
   {
-   "id": "69996",
-   "sku": "162229",
-   "name": "Paquet de 500 Enveloppes PIGNA Blanches 162 x 229 mm Strip 80gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 50,
-   "new_price": 43.9,
-   "discount_pct": 12.2,
-   "savings": 6.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-blanches-162-x-229-mm-strip-80gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-blanches-162-x-229-mm-strip-80gr.html"
-  },
-  {
    "id": "66513",
    "sku": "TDP-225W",
    "name": "Imprimante De Bracelet TSC TDP-225W Thermique Ethernet",
@@ -56661,6 +56349,21 @@
    "savings": 190,
    "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-code-barres-tsc-tdp-225w-de-2-pouces-wifi-1.jpg",
    "url": "https://www.mytek.tn/imprimante-code-barres-tsc-tdp-225w-de-2-pouces-ethernet.html"
+  },
+  {
+   "id": "69996",
+   "sku": "162229",
+   "name": "Paquet de 500 Enveloppes PIGNA Blanches 162 x 229 mm Strip 80gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 50,
+   "new_price": 43.9,
+   "discount_pct": 12.2,
+   "savings": 6.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-blanches-162-x-229-mm-strip-80gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-blanches-162-x-229-mm-strip-80gr.html"
   },
   {
    "id": "75551",
@@ -57828,21 +57531,6 @@
    "url": "https://www.mytek.tn/tableau-d-affichage-en-liege-faibo-611-4-100x150-cm.html"
   },
   {
-   "id": "71024",
-   "sku": "840-4",
-   "name": "Tableau Blanc Magnétique FAIBO 120 x 150 cm",
-   "brand": "FAIBO",
-   "categories": [
-    "Tableaux"
-   ],
-   "old_price": 439,
-   "new_price": 389,
-   "discount_pct": 11.4,
-   "savings": 50,
-   "image": "https://www.mytek.tn/media/catalog/product/t/a/tableau-blanc-faibo-magnetique-120-x-150-cm.jpg",
-   "url": "https://www.mytek.tn/tableau-blanc-faibo-magnetique-120-x-150-cm.html"
-  },
-  {
    "id": "76283",
    "sku": "77701",
    "name": "Porte Brochure FAIBO A6 4 Compartiments 26x11x15,5 cm -Transparent",
@@ -57860,7 +57548,7 @@
   {
    "id": "73123",
    "sku": "SAX249R",
-   "name": "Agrafeuse SAX 249 Métal Rouge",
+   "name": "Agrafeuse SAX 249 Métal 2,5 mm - Rouge",
    "brand": "SAX",
    "categories": [
     "Adhésifs & Agrafage",
@@ -59313,38 +59001,6 @@
    "url": "https://www.mytek.tn/parapheur-de-signature-ribat-de-12-volets-simple-luxe.html"
   },
   {
-   "id": "71852",
-   "sku": "PS003",
-   "name": "Paquet de 50 Pochettes GAZELLE 16x22 Kraft 90g",
-   "brand": "GAZELLE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 77,
-   "new_price": 68.9,
-   "discount_pct": 10.5,
-   "savings": 8.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-gazelle-16x22-kraft-90g.jpg",
-   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-16x22-kraft-90g.html"
-  },
-  {
-   "id": "70063",
-   "sku": "374525",
-   "name": "Paquet de 250 Pochettes PIGNA kraft 370 x 450 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 95,
-   "new_price": 85,
-   "discount_pct": 10.5,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-pigna-kraft-370-x-450-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-250-pochettes-pigna-kraft-370-x-450-mm-strip-90gr.html"
-  },
-  {
    "id": "60333",
    "sku": "WR-4385HSS",
    "name": "Réfrigérateur JOKER WR-4385HSS 430 Litres NoFrost - Inox",
@@ -59452,6 +59108,36 @@
    "savings": 4.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-100-feuilles-ribat-couche-brillant-a3-300g.jpg",
    "url": "https://www.mytek.tn/paquet-de-100-feuilles-ribat-couche-brillant-a3-300g.html"
+  },
+  {
+   "id": "71852",
+   "sku": "PS003",
+   "name": "Paquet de 50 Pochettes GAZELLE 16x22 Kraft 90g",
+   "brand": "GAZELLE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 77,
+   "new_price": 68.9,
+   "discount_pct": 10.5,
+   "savings": 8.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-gazelle-16x22-kraft-90g.jpg",
+   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-16x22-kraft-90g.html"
+  },
+  {
+   "id": "70063",
+   "sku": "374525",
+   "name": "Paquet de 250 Pochettes PIGNA kraft 370 x 450 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 95,
+   "new_price": 85,
+   "discount_pct": 10.5,
+   "savings": 10,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-pigna-kraft-370-x-450-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-250-pochettes-pigna-kraft-370-x-450-mm-strip-90gr.html"
   },
   {
    "id": "70158",
@@ -59740,7 +59426,7 @@
    "id": "72814",
    "sku": "8007520022651",
    "name": "Croquettes pour Chats MIGLIOR GATTO FLIK FLOK Poulet 20 kg",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "MIGLIOR-GATTO",
    "categories": [
     "Animalerie",
     "Nourriture Chat"
@@ -59878,22 +59564,6 @@
    "url": "https://www.mytek.tn/pack-de-12-crayons-graphite-bic-evolution-ecolutions.html"
   },
   {
-   "id": "70040",
-   "sku": "253040",
-   "name": "Paquet de 250 Pochettes PIGNA Kraft 300 x 400 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 99,
-   "new_price": 89,
-   "discount_pct": 10.1,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-pigna-blanches-300-x-400-mm-strip-90gr-1.jpg",
-   "url": "https://www.mytek.tn/paquet-de-250-pochettes-pigna-blanches-300-x-400-mm-strip-90gr.html"
-  },
-  {
    "id": "18591",
    "sku": "SAX329",
    "name": "Agrafeuse SAX 329 + Recharge d'agrafes - Noir",
@@ -59922,6 +59592,21 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/t/i/tiroir-caisse-moyen-en-metal-rj1111111111111111.jpg",
    "url": "https://www.mytek.tn/tiroir-caisse-moyen-en-metal-rj11.html"
+  },
+  {
+   "id": "70040",
+   "sku": "253040",
+   "name": "Paquet de 250 Pochettes PIGNA Kraft 300 x 400 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 99,
+   "new_price": 89,
+   "discount_pct": 10.1,
+   "savings": 10,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-pigna-blanches-300-x-400-mm-strip-90gr-1.jpg",
+   "url": "https://www.mytek.tn/paquet-de-250-pochettes-pigna-blanches-300-x-400-mm-strip-90gr.html"
   },
   {
    "id": "59513",
@@ -60103,7 +59788,7 @@
    "id": "60462",
    "sku": "MLY-D36M-A24PZ-R1",
    "name": "Refroidisseur De Processeur COOLER MASTER MasterLiquid 360 ION",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "COOLER-MASTER",
    "categories": [
     "Composant Pc Gamer"
    ],
@@ -60340,7 +60025,7 @@
    "id": "74806",
    "sku": "NDR-12",
    "name": "Haut Parleur Bluetooth NDR-12 Avec Telecommande et Micro Sans Fil",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "Sans-Fabricant",
    "categories": [
     "Haut-Parleur",
     "Son Numérique"
@@ -61269,22 +60954,6 @@
    "url": "https://www.mytek.tn/ensemble-clavier-souris-sans-fil-logitech-mk235-gris.html"
   },
   {
-   "id": "70057",
-   "sku": "100002",
-   "name": "Paquet de 500 Pochettes PIGNA kraft 250 x 350 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 109,
-   "new_price": 99,
-   "discount_pct": 9.2,
-   "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-kraft-250-x-350-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-kraft-250-x-350-mm-strip-90gr.html"
-  },
-  {
    "id": "69849",
    "sku": "4629201",
    "name": "Destructeur de Documents FELLOWES AutoMax™ 100M - Noir",
@@ -61298,6 +60967,21 @@
    "savings": 100,
    "image": "https://www.mytek.tn/media/catalog/product/d/e/destructeur-de-documents-fellowes-automaxtm-100m-noir-1.jpg",
    "url": "https://www.mytek.tn/destructeur-de-documents-fellowes-automaxtm-100m-noir.html"
+  },
+  {
+   "id": "70057",
+   "sku": "100002",
+   "name": "Paquet de 500 Pochettes PIGNA kraft 250 x 350 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 109,
+   "new_price": 99,
+   "discount_pct": 9.2,
+   "savings": 10,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-kraft-250-x-350-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-kraft-250-x-350-mm-strip-90gr.html"
   },
   {
    "id": "55289",
@@ -61391,22 +61075,6 @@
    "url": "https://www.mytek.tn/climatiseur-armoire-hisense-inverter-48000-btu-chaud-froid-blanc.html"
   },
   {
-   "id": "54301",
-   "sku": "10911622",
-   "name": "Paquet De 500 Enveloppes Blanches LA COURONNE 16.2 x 22.9 cm 80 gr - Blanc",
-   "brand": "LA-COURONNE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 54.9,
-   "new_price": 49.9,
-   "discount_pct": 9.1,
-   "savings": 5.0,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet_de_500_enveloppes_blanches_la_couronne_16.2_x_22.9_cm_80_gr_-_blanc.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-blanches-la-couronne-16-2-x-22-9-cm-80-gr-blanc.html"
-  },
-  {
    "id": "69852",
    "sku": "5502201",
    "name": "Destructeur de documents FELLOWES LX200 - Noir",
@@ -61469,6 +61137,21 @@
    "url": "https://www.mytek.tn/salon-de-jardin-sofpince-silva-5-places-grege.html"
   },
   {
+   "id": "54301",
+   "sku": "10911622",
+   "name": "Paquet De 500 Enveloppes Blanches LA COURONNE 16.2 x 22.9 cm 80 gr - Blanc",
+   "brand": "LA-COURONNE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 54.9,
+   "new_price": 49.9,
+   "discount_pct": 9.1,
+   "savings": 5.0,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet_de_500_enveloppes_blanches_la_couronne_16.2_x_22.9_cm_80_gr_-_blanc.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-blanches-la-couronne-16-2-x-22-9-cm-80-gr-blanc.html"
+  },
+  {
    "id": "76050",
    "sku": "LN-HL26U606",
    "name": "Coffret Réseau LANDE 26U 19\" HYPERline RAL 9005 - LN-HL26U606",
@@ -61502,7 +61185,7 @@
    "id": "68391",
    "sku": "MTJV3ZM-A",
    "name": "Airpods APPLE PRO 2éme Gén Avec Boitier de charge MAGSAFE",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "APPLE",
    "categories": [
     "Son Numérique"
    ],
@@ -62216,22 +61899,6 @@
    "url": "https://www.mytek.tn/hp-toner-d-encre-508a-yellow.html"
   },
   {
-   "id": "71859",
-   "sku": "PS009",
-   "name": "Paquet de 50 Pochettes GAZELLE 22 x 32 Kraft 90g",
-   "brand": "GAZELLE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 60,
-   "new_price": 55,
-   "discount_pct": 8.3,
-   "savings": 5,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-gazelle-22-x-32-kraft-90g-1.jpg",
-   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-22-x-32-kraft-90g.html"
-  },
-  {
    "id": "57",
    "sku": "9SX5KIRT",
    "name": "Onduleur On-Line EATON 9SX 5000 RT3U Tour/Rack - 9SX5KiRT",
@@ -62245,6 +61912,21 @@
    "savings": 1000,
    "image": "https://www.mytek.tn/media/catalog/product/9/s/9sx5kirt.jpg",
    "url": "https://www.mytek.tn/onduleur-on-line-eaton-9sx-5000-rt3u-tourrack-9sx5kirt.html"
+  },
+  {
+   "id": "71859",
+   "sku": "PS009",
+   "name": "Paquet de 50 Pochettes GAZELLE 22 x 32 Kraft 90g",
+   "brand": "GAZELLE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 60,
+   "new_price": 55,
+   "discount_pct": 8.3,
+   "savings": 5,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-gazelle-22-x-32-kraft-90g-1.jpg",
+   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-22-x-32-kraft-90g.html"
   },
   {
    "id": "59594",
@@ -62308,22 +61990,6 @@
    "url": "https://www.mytek.tn/toner-laserjet-dorigine-hp-507a-jaune-tunsie.html"
   },
   {
-   "id": "71824",
-   "sku": "WP042",
-   "name": "Paquet de 50 Enveloppes GAZELLE 11x22 Blanc 80g",
-   "brand": "GAZELLE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 74,
-   "new_price": 68,
-   "discount_pct": 8.1,
-   "savings": 6,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-gazelle-11x22-blanc-80gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-50-enveloppes-gazelle-11x22-blanc-80gr.html"
-  },
-  {
    "id": "61471",
    "sku": "5627601",
    "name": "Perforelieur FELLOWES Machine A Relieure PLSAR+300 A4",
@@ -62337,6 +62003,21 @@
    "savings": 60,
    "image": "https://www.mytek.tn/media/catalog/product/p/e/perforelieur-fellowes-machine-a-relieure-plsar-300-a4-1.png",
    "url": "https://www.mytek.tn/perforelieur-fellowes-machine-a-relieure-plsar-300-a4.html"
+  },
+  {
+   "id": "71824",
+   "sku": "WP042",
+   "name": "Paquet de 50 Enveloppes GAZELLE 11x22 Blanc 80g",
+   "brand": "GAZELLE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 74,
+   "new_price": 68,
+   "discount_pct": 8.1,
+   "savings": 6,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-gazelle-11x22-blanc-80gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-50-enveloppes-gazelle-11x22-blanc-80gr.html"
   },
   {
    "id": "59273",
@@ -62937,22 +62618,6 @@
    "url": "https://www.mytek.tn/toner-laserjet-original-hp-207a-magenta-w2213a.html"
   },
   {
-   "id": "71835",
-   "sku": "PS002",
-   "name": "Paquet de 50 Pochettes GAZELLE 16x22 Blanc 100g",
-   "brand": "GAZELLE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 80,
-   "new_price": 74,
-   "discount_pct": 7.5,
-   "savings": 6,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-gazelle-16x22-blanc-100g-1.jpg",
-   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-16x22-blanc-100g.html"
-  },
-  {
    "id": "48697",
    "sku": "REX623",
    "name": "Destructeur de papier Rexel ProMax REX623 à coupe croisée P4",
@@ -63014,6 +62679,21 @@
    "url": "https://www.mytek.tn/onduleur-kebos-2000va-pg2000-ups.html"
   },
   {
+   "id": "71835",
+   "sku": "PS002",
+   "name": "Paquet de 50 Pochettes GAZELLE 16x22 Blanc 100g",
+   "brand": "GAZELLE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 80,
+   "new_price": 74,
+   "discount_pct": 7.5,
+   "savings": 6,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-gazelle-16x22-blanc-100g-1.jpg",
+   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-16x22-blanc-100g.html"
+  },
+  {
    "id": "68672",
    "sku": "MAG-245F-X24",
    "name": "Ecran Gaming MSI MAG 245F X24 23.8'' Full HD Fast IPS 240Hz",
@@ -63057,6 +62737,21 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/e/c/ecran-de-projection-mural-electrique-avec-telecommande-203-x-203-cm.jpg",
    "url": "https://www.mytek.tn/ecran-de-projection-mural-electrique-avec-telecommande-203-x-203-cm.html"
+  },
+  {
+   "id": "78533",
+   "sku": "AS5404T00",
+   "name": "Serveur De Stockage ASUSTOR NAS AS5404T00 Nimbustor 4 - Noir",
+   "brand": "ASUSTOR",
+   "categories": [
+    "Reseaux"
+   ],
+   "old_price": 1999,
+   "new_price": 1849,
+   "discount_pct": 7.5,
+   "savings": 150,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/serveur-de-stockage-asustor-nas-as5404t00-nimbustor-4-noir-1.jpg",
+   "url": "https://www.mytek.tn/serveur-de-stockage-asustor-nas-as5404t00-nimbustor-4-noir.html"
   },
   {
    "id": "1599",
@@ -63431,22 +63126,6 @@
    "url": "https://www.mytek.tn/table-de-cuisson-focus-f406b-70-cm-5-feux-noir-sin.html"
   },
   {
-   "id": "71870",
-   "sku": "PS018",
-   "name": "Paquet de 50 Pochettes GAZELLE 25 x 35 Blanc 100g",
-   "brand": "GAZELLE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 69,
-   "new_price": 64,
-   "discount_pct": 7.2,
-   "savings": 5,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-gazelle-25-x-35-blanc-100g.jpg",
-   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-25-x-35-blanc-100g.html"
-  },
-  {
    "id": "69261",
    "sku": "600420",
    "name": "Moshaf 30 Jozaa Kaloun Al Moalem 17 x 24 cm - bleu",
@@ -63476,6 +63155,21 @@
    "savings": 50,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/carte-snmp-njoy-cg01b-compatible-avec-aster-argus-echo-pro.jpg",
    "url": "https://www.mytek.tn/carte-snmp-njoy-cg01b-compatible-avec-aster-argus-echo-pro.html"
+  },
+  {
+   "id": "71870",
+   "sku": "PS018",
+   "name": "Paquet de 50 Pochettes GAZELLE 25 x 35 Blanc 100g",
+   "brand": "GAZELLE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 69,
+   "new_price": 64,
+   "discount_pct": 7.2,
+   "savings": 5,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-250-pochettes-gazelle-25-x-35-blanc-100g.jpg",
+   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-25-x-35-blanc-100g.html"
   },
   {
    "id": "7830",
@@ -63571,22 +63265,6 @@
    "url": "https://www.mytek.tn/congelateur-horizontal-hisense-fc-55dd-410-litres-blanc.html"
   },
   {
-   "id": "71821",
-   "sku": "WP037",
-   "name": "Paquet de 50 Enveloppes GAZELLE 11x16  Blanc 80gr",
-   "brand": "GAZELLE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 70,
-   "new_price": 65,
-   "discount_pct": 7.1,
-   "savings": 5,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-gazelle-11x16-blanc-80gr-1.jpg",
-   "url": "https://www.mytek.tn/paquet-de-50-enveloppes-gazelle-11x16-blanc-80gr.html"
-  },
-  {
    "id": "69482",
    "sku": "021061",
    "name": "Moshaf Tajwid 4 Arbaa Kaloun Avec Coffret",
@@ -63632,6 +63310,36 @@
    "savings": 170,
    "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur_njoy_on_line_cho_pro_3000_-_noir_echopro3000_.jpg",
    "url": "https://www.mytek.tn/onduleur-njoy-on-line-echo-pro-3000-noir-echopro3000.html"
+  },
+  {
+   "id": "71821",
+   "sku": "WP037",
+   "name": "Paquet de 50 Enveloppes GAZELLE 11x16  Blanc 80gr",
+   "brand": "GAZELLE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 70,
+   "new_price": 65,
+   "discount_pct": 7.1,
+   "savings": 5,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-gazelle-11x16-blanc-80gr-1.jpg",
+   "url": "https://www.mytek.tn/paquet-de-50-enveloppes-gazelle-11x16-blanc-80gr.html"
+  },
+  {
+   "id": "78519",
+   "sku": "AS3304TE0",
+   "name": "Serveur De Stockage ASUSTOR NAS AS3304TE0 Drivestor 4 - Noir",
+   "brand": "ASUSTOR",
+   "categories": [
+    "Reseaux"
+   ],
+   "old_price": 1399,
+   "new_price": 1299,
+   "discount_pct": 7.1,
+   "savings": 100,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/serveur-de-stockage-asustor-nas-as3304te0-drivestor-4-noir-1.jpg",
+   "url": "https://www.mytek.tn/serveur-de-stockage-asustor-nas-as3304te0-drivestor-4-noir.html"
   },
   {
    "id": "70524",
@@ -63762,22 +63470,6 @@
    "url": "https://www.mytek.tn/micro-onde-fresh-fmw-20mc-sm-20-litres-700w-miroir.html"
   },
   {
-   "id": "70016",
-   "sku": "001725",
-   "name": "Paquet de 500 Enveloppes PIGNA Kraft 176 x 250 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 59,
-   "new_price": 54.9,
-   "discount_pct": 6.9,
-   "savings": 4.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-kraft-176-x-250-mm-strip-90gr.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-kraft-176-x-250-mm-strip-90gr.html"
-  },
-  {
    "id": "71784",
    "sku": "888610",
    "name": "Cisaille Universal MAPED A4 6 Feuilles Manuel",
@@ -63822,6 +63514,21 @@
    "savings": 5,
    "image": "https://www.mytek.tn/media/catalog/product/m/o/moshaf-tajwid-moujazaa-kaloun-17-x-24-cm-1.jpg",
    "url": "https://www.mytek.tn/moshaf-tajwid-moujazaa-kaloun-17-x-24-cm.html"
+  },
+  {
+   "id": "70016",
+   "sku": "001725",
+   "name": "Paquet de 500 Enveloppes PIGNA Kraft 176 x 250 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 59,
+   "new_price": 54.9,
+   "discount_pct": 6.9,
+   "savings": 4.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-enveloppes-pigna-kraft-176-x-250-mm-strip-90gr.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-enveloppes-pigna-kraft-176-x-250-mm-strip-90gr.html"
   },
   {
    "id": "5129",
@@ -65120,7 +64827,7 @@
    "id": "68485",
    "sku": "MLX-D24M-A25PZ-R1",
    "name": "Refroidisseur CPU COOLER MASTER MasterLiquid 240 ATMOS ARGB",
-   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "brand": "COOLER-MASTER",
    "categories": [
     "Composant Pc Gamer"
    ],
@@ -65130,22 +64837,6 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/1/1/11_17.jpg",
    "url": "https://www.mytek.tn/refroidisseur-liquide-pour-processeur-cooler-master-masterliquid-240-atmos-argb-noir.html"
-  },
-  {
-   "id": "71829",
-   "sku": "WP020",
-   "name": "Paquet de 50 Enveloppes GAZELLE 11x22 Vitrifié Blanc 80g",
-   "brand": "GAZELLE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 95,
-   "new_price": 89.9,
-   "discount_pct": 5.4,
-   "savings": 5.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-gazelle-11x22-vitrifie-blanc-80gr-1.jpg",
-   "url": "https://www.mytek.tn/paquet-de-50-enveloppes-gazelle-11x22-vitrifie-blanc-80gr.html"
   },
   {
    "id": "66329",
@@ -65176,6 +64867,21 @@
    "savings": 150,
    "image": "https://www.mytek.tn/media/catalog/product/d/e/destructeur-de-documents-hp-pro-shredder-auto-400cc-3.jpg",
    "url": "https://www.mytek.tn/destructeur-de-documents-hp-pro-shredder-auto-400cc.html"
+  },
+  {
+   "id": "71829",
+   "sku": "WP020",
+   "name": "Paquet de 50 Enveloppes GAZELLE 11x22 Vitrifié Blanc 80g",
+   "brand": "GAZELLE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 95,
+   "new_price": 89.9,
+   "discount_pct": 5.4,
+   "savings": 5.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-1000-enveloppes-gazelle-11x22-vitrifie-blanc-80gr-1.jpg",
+   "url": "https://www.mytek.tn/paquet-de-50-enveloppes-gazelle-11x22-vitrifie-blanc-80gr.html"
   },
   {
    "id": "63573",
@@ -65303,22 +65009,6 @@
    "url": "https://www.mytek.tn/cartouche-jet-d-encre-original-officejet-hp-59a-noir-cf259a.html"
   },
   {
-   "id": "70035",
-   "sku": "176260",
-   "name": "Paquet de 500 Pochettes PIGNA Blanches 176 x 260 mm Strip 90gr",
-   "brand": "PIGNA",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 79,
-   "new_price": 74.9,
-   "discount_pct": 5.2,
-   "savings": 4.1,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-blanches-176-x-260-mm-strip-90gr_1_.jpg",
-   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-blanches-176-x-260-mm-strip-90gr.html"
-  },
-  {
    "id": "68877",
    "sku": "DR-120RII_BK",
    "name": "Machine à Calculer CASIO Imprimable 12 Chiffres - Noir",
@@ -65348,6 +65038,21 @@
    "savings": 110,
    "image": "https://www.mytek.tn/media/catalog/product/r/_/r_frig_rateur-combin_-hisense-rb1n300nmf1-320litres-nofrost---noir.jpg",
    "url": "https://www.mytek.tn/refrigerateur-combine-hisense-rb1n300nmf1-320litres-nofrost-noir.html"
+  },
+  {
+   "id": "70035",
+   "sku": "176260",
+   "name": "Paquet de 500 Pochettes PIGNA Blanches 176 x 260 mm Strip 90gr",
+   "brand": "PIGNA",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 79,
+   "new_price": 74.9,
+   "discount_pct": 5.2,
+   "savings": 4.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-pigna-blanches-176-x-260-mm-strip-90gr_1_.jpg",
+   "url": "https://www.mytek.tn/paquet-de-500-pochettes-pigna-blanches-176-x-260-mm-strip-90gr.html"
   },
   {
    "id": "27278",
@@ -66434,22 +66139,6 @@
    "url": "https://www.mytek.tn/climatiseur-condor-inverter-12000-btu-chaud-froid-blanc.html"
   },
   {
-   "id": "71853",
-   "sku": "PS016",
-   "name": "Paquet de 50 Pochettes GAZELLE 17x25 Blanc 100g",
-   "brand": "GAZELLE",
-   "categories": [
-    "Enveloppe & Pochette",
-    "Papier"
-   ],
-   "old_price": 98,
-   "new_price": 95,
-   "discount_pct": 3.1,
-   "savings": 3,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-gazelle-17x25-blanc-100g.jpg",
-   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-17x25-blanc-100g.html"
-  },
-  {
    "id": "78193",
    "sku": "DS-UPS01K24-R-TS",
    "name": "Onduleur on-line Hikvision à Double Conversion DS-UPS01K24-R-TS",
@@ -66464,6 +66153,21 @@
    "savings": 50,
    "image": "https://www.mytek.tn/media/catalog/product/o/n/onduleur-on-line-hikvision-a-double-conversion-ds-ups01k24-r-ts-007.png",
    "url": "https://www.mytek.tn/onduleur-on-line-hikvision-a-double-conversion-ds-ups01k24-r-ts.html"
+  },
+  {
+   "id": "71853",
+   "sku": "PS016",
+   "name": "Paquet de 50 Pochettes GAZELLE 17x25 Blanc 100g",
+   "brand": "GAZELLE",
+   "categories": [
+    "Papier"
+   ],
+   "old_price": 98,
+   "new_price": 95,
+   "discount_pct": 3.1,
+   "savings": 3,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/paquet-de-500-pochettes-gazelle-17x25-blanc-100g.jpg",
+   "url": "https://www.mytek.tn/paquet-de-50-pochettes-gazelle-17x25-blanc-100g.html"
   },
   {
    "id": "69941",
