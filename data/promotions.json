@@ -1,8 +1,8 @@
 {
- "scanned_at": "2026-08-22T05:25:38.539305+00:00",
+ "scanned_at": "2026-08-23T05:28:26.088221+00:00",
  "source": "https://www.mytek.tn",
- "product_count": 4191,
- "duration_seconds": 10.3,
+ "product_count": 4196,
+ "duration_seconds": 12.1,
  "errors": 0,
  "products": [
   {
@@ -5250,22 +5250,6 @@
    "url": "https://www.mytek.tn/mini-ventilateur-a-main-rechargeable-support-fleur-jaune.html"
   },
   {
-   "id": "76699",
-   "sku": "MINI-FAN-BEIGE",
-   "name": "Mini ventilateur à main Rechargeable - Beige",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Climatisation",
-    "Ventilateur"
-   ],
-   "old_price": 29,
-   "new_price": 9.9,
-   "discount_pct": 65.9,
-   "savings": 19.1,
-   "image": "https://www.mytek.tn/media/catalog/product/m/i/mini-ventilateur-portable-rechargeable---3-vitesses---beige.jpg",
-   "url": "https://www.mytek.tn/mini-ventilateur-a-main-rechargeable-beige.html"
-  },
-  {
    "id": "76899",
    "sku": "MINI-FAN-RS",
    "name": "Mini Ventilateur Cartoon Fan USB - Rose",
@@ -6355,21 +6339,6 @@
    "url": "https://www.mytek.tn/cartouche-jet-d-encre-adaptable-compatible-canon-magenta-gi-490-ma.html"
   },
   {
-   "id": "71267",
-   "sku": "DC01V",
-   "name": "Chargeur Smartphone DENMEN Avec Cable Micro USB DC01V  2.4A - Blanc",
-   "brand": "DENMEN",
-   "categories": [
-    "Accessoires Téléphonie"
-   ],
-   "old_price": 29,
-   "new_price": 10.9,
-   "discount_pct": 62.4,
-   "savings": 18.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-smartphone-denmen-avec-cable-micro-usb-dc01v-2-4a-blanc-001.jpg",
-   "url": "https://www.mytek.tn/chargeur-smartphone-denmen-avec-cable-micro-usb-dc01v-2-4a-blanc.html"
-  },
-  {
    "id": "71265",
    "sku": "DC01T",
    "name": "Chargeur Smartphone DENMEN Avec Cable Type-C DC01T  2.4A - Blanc",
@@ -6383,6 +6352,21 @@
    "savings": 18.1,
    "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-smartphone-denmen-avec-cable-type-c-dc01t-2-4a-blanc-003.jpg",
    "url": "https://www.mytek.tn/chargeur-smartphone-denmen-avec-cable-type-c-dc01t-2-4a-blanc.html"
+  },
+  {
+   "id": "71267",
+   "sku": "DC01V",
+   "name": "Chargeur Smartphone DENMEN Avec Cable Micro USB DC01V  2.4A - Blanc",
+   "brand": "DENMEN",
+   "categories": [
+    "Accessoires Téléphonie"
+   ],
+   "old_price": 29,
+   "new_price": 10.9,
+   "discount_pct": 62.4,
+   "savings": 18.1,
+   "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-smartphone-denmen-avec-cable-micro-usb-dc01v-2-4a-blanc-001.jpg",
+   "url": "https://www.mytek.tn/chargeur-smartphone-denmen-avec-cable-micro-usb-dc01v-2-4a-blanc.html"
   },
   {
    "id": "69007",
@@ -6618,6 +6602,22 @@
    "savings": 80,
    "image": "https://www.mytek.tn/media/catalog/product/c/u/cuiseur-_lectrique-shanban-hm-18-_-1.2l-_-compact-_-vert-1.jpg",
    "url": "https://www.mytek.tn/cuiseur-electrique-multifonction-shanban-hm-18-18cm-600w.html"
+  },
+  {
+   "id": "75719",
+   "sku": "LV-WR07",
+   "name": "Routeur WiFi PIX-LINK LV-WR07 Sans Fil - Blanc",
+   "brand": "PIX-LINK",
+   "categories": [
+    "Reseaux",
+    "Routeur"
+   ],
+   "old_price": 129,
+   "new_price": 49,
+   "discount_pct": 62.0,
+   "savings": 80,
+   "image": "https://www.mytek.tn/media/catalog/product/r/o/routeur-wifi-pix-link-sans-fil-blanc-1.jpg",
+   "url": "https://www.mytek.tn/routeur-wifi-pix-link-sans-fil-blanc.html"
   },
   {
    "id": "66240",
@@ -10281,6 +10281,22 @@
    "url": "https://www.mytek.tn/cahier-de-dessin-ko-10x10-24x32-cm.html"
   },
   {
+   "id": "9274",
+   "sku": "8500224",
+   "name": "Cahier TP Wiro KO 192 Pages Seyès 80 GR 17 x 22 cm Couverture Plastique",
+   "brand": "KO",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 8.9,
+   "new_price": 4.3,
+   "discount_pct": 51.7,
+   "savings": 4.6,
+   "image": "https://www.mytek.tn/media/catalog/product/5/0/500224-3.jpg",
+   "url": "https://www.mytek.tn/cahier-tp-wiro-ko-192-pages-pf-avec-couverture-plastique-8500224.html"
+  },
+  {
    "id": "69030",
    "sku": "BU-2240N",
    "name": "Pack de 25 Stylos à Bille PENSAN MY TECH - Noir",
@@ -10424,6 +10440,22 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/d/i/diffuseur-d_huile-h2o-mengchong-300-ml---white.jpg",
    "url": "https://www.mytek.tn/diffuseur-d-huile-h2o-mengchong-300-ml-blanc.html"
+  },
+  {
+   "id": "78962",
+   "sku": "475650",
+   "name": "Pack De 50 Stylos CARTHAGE à Bille - Bleu",
+   "brand": "CARTHAGE",
+   "categories": [
+    "Ecriture & Correction",
+    "Stylos"
+   ],
+   "old_price": 39,
+   "new_price": 19,
+   "discount_pct": 51.3,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-50-stylos-carthage-a-bille-bleu-1.jpg",
+   "url": "https://www.mytek.tn/pack-de-50-stylos-carthage-a-bille-bleu.html"
   },
   {
    "id": "50726",
@@ -15880,22 +15912,6 @@
    "url": "https://www.mytek.tn/machine-a-pop-corn-minijoy-1200watts-rouge.html"
   },
   {
-   "id": "78200",
-   "sku": "8500668",
-   "name": "Cahier Wiro KO 400 Pages GF 70g/m² Avec Couverture Plastique UNI",
-   "brand": "KO",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 18.9,
-   "new_price": 10.6,
-   "discount_pct": 43.9,
-   "savings": 8.3,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-wiro-ko-400-pages-gf-70g-m-avec-couverture-plastique-uni-0065.jpg",
-   "url": "https://www.mytek.tn/cahier-wiro-ko-400-pages-gf-70g-m-avec-couverture-plastique-uni.html"
-  },
-  {
    "id": "74342",
    "sku": "G10-10W",
    "name": "Désinsectiseur d'Insectes Électrique ROMINZA G10 10W - Blanc",
@@ -16002,6 +16018,21 @@
    "savings": 100,
    "image": "https://www.mytek.tn/media/catalog/product/b/a/batterie-de-cuisine-granite-cook_art-_-pack-9-pi_ces-_-noir_1.jpg",
    "url": "https://www.mytek.tn/pack-cook-art-by-gusto-de-9-pieces-noir.html"
+  },
+  {
+   "id": "44511",
+   "sku": "TL-SM311LS",
+   "name": "Module TP-LINK TL-SM311LS MiniGBIC unimode",
+   "brand": "TP-LINK",
+   "categories": [
+    "Reseaux"
+   ],
+   "old_price": 229,
+   "new_price": 129,
+   "discount_pct": 43.7,
+   "savings": 100,
+   "image": "https://www.mytek.tn/media/catalog/product/m/o/module-tp-link-tl-sm311ls-minigbic-unimode.jpg",
+   "url": "https://www.mytek.tn/module-tp-link-tl-sm311ls-minigbic-unimode.html"
   },
   {
    "id": "522",
@@ -17672,21 +17703,6 @@
    "url": "https://www.mytek.tn/module-tp-link-tl-sm5110-lr-emetteur-recepteur-lc-sfp-10gbase-lr.html"
   },
   {
-   "id": "44511",
-   "sku": "TL-SM311LS",
-   "name": "Module TP-LINK TL-SM311LS MiniGBIC unimode",
-   "brand": "TP-LINK",
-   "categories": [
-    "Reseaux"
-   ],
-   "old_price": 229,
-   "new_price": 134,
-   "discount_pct": 41.5,
-   "savings": 95,
-   "image": "https://www.mytek.tn/media/catalog/product/m/o/module-tp-link-tl-sm311ls-minigbic-unimode.jpg",
-   "url": "https://www.mytek.tn/module-tp-link-tl-sm311ls-minigbic-unimode.html"
-  },
-  {
    "id": "59439",
    "sku": "C13T00R140",
    "name": "Bouteille d'encre d'origine EPSON ECOTANK 106 noir photo",
@@ -18522,6 +18538,21 @@
    "url": "https://www.mytek.tn/marmite-el-gusto-by-cook-art-5-litres-gris.html"
   },
   {
+   "id": "78414",
+   "sku": "EU366-MT",
+   "name": "Pochette de 6 Surligneurs DELI EU366-MT Assortis",
+   "brand": "DELI",
+   "categories": [
+    "Ecriture & Correction"
+   ],
+   "old_price": 15,
+   "new_price": 8.9,
+   "discount_pct": 40.7,
+   "savings": 6.1,
+   "image": "https://www.mytek.tn/media/catalog/product/p/o/pochette-de-6-surligneurs-deli-eu366-mt-assortis-1.jpg",
+   "url": "https://www.mytek.tn/pochette-de-6-surligneurs-deli-eu366-mt-assortis.html"
+  },
+  {
    "id": "66849",
    "sku": "TN60-MICRO-WH",
    "name": "Câble de Charge TN60 USB-A Vers Micro 6A - Blanc",
@@ -18844,6 +18875,21 @@
    "savings": 6.4,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-10-feutres-de-couleurs-staedtler-a-pointe-fibre-1.jpg",
    "url": "https://www.mytek.tn/pack-de-10-feutres-de-couleurs-staedtler-a-pointe-fibre.html"
+  },
+  {
+   "id": "78008",
+   "sku": "HBAS1155",
+   "name": "Impédancemètre JATA HBAS1155 Smart 180Kg - Noir",
+   "brand": "JATA",
+   "categories": [
+    "Pèse Personne"
+   ],
+   "old_price": 149,
+   "new_price": 89,
+   "discount_pct": 40.3,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/p/_/p_se-personne-imp_dancem_tre-jata-_-180kg-_-15-m_moires.jpg",
+   "url": "https://www.mytek.tn/impedancemetre-jata-hbas1155-smart-180kg-noir.html"
   },
   {
    "id": "74497",
@@ -19563,6 +19609,22 @@
    "savings": 39,
    "image": "https://www.mytek.tn/media/catalog/product/3/_/3_405_1.jpg",
    "url": "https://www.mytek.tn/cartouche-d-encre-d-origine-epson-t0792-cyan.html"
+  },
+  {
+   "id": "54953",
+   "sku": "CN059AE",
+   "name": "Cartouche Original Jet d'encre HP 933 - Magenta",
+   "brand": "HP",
+   "categories": [
+    "Cartouche d'encre",
+    "Consommables Imprimante"
+   ],
+   "old_price": 99,
+   "new_price": 60,
+   "discount_pct": 39.4,
+   "savings": 39,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cartouche-d-encre-original-hp-933-magenta.jpg",
+   "url": "https://www.mytek.tn/cartouche-d-encre-original-hp-933-magenta.html"
   },
   {
    "id": "39855",
@@ -20603,6 +20665,22 @@
    "url": "https://www.mytek.tn/chargeur-sans-fil-mgtu-multifonction-5-en-1-blanc.html"
   },
   {
+   "id": "77425",
+   "sku": "BT-MH2XN",
+   "name": "Batteur à Main CONDOR BT-MH2XN 400W - Noir&Inox",
+   "brand": "CONDOR",
+   "categories": [
+    "Batteur",
+    "Préparation culinaire"
+   ],
+   "old_price": 79,
+   "new_price": 49,
+   "discount_pct": 38.0,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/b/a/batteur-_-main-condor-master-mix-_-400w-_-5-vitesses-_-inox.jpg",
+   "url": "https://www.mytek.tn/batteur-a-main-condor-bt-mh2xn-400w-noir-inox.html"
+  },
+  {
    "id": "72768",
    "sku": "TK-475BKA",
    "name": "Toner Adaptable KYOCERA TK-475A - Noir",
@@ -20678,6 +20756,21 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/k/i/kit-de-couteaux-5-pi_ces-acier-inox-avec-fusil.jpg",
    "url": "https://www.mytek.tn/ensemble-de-couteaux-5-pieces-de-cuisine-noir.html"
+  },
+  {
+   "id": "78887",
+   "sku": "8684000882075",
+   "name": "Set de 5 Pièces Plats de Cuisson en Verre Borosilicate Borart 145053",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Cuisine"
+   ],
+   "old_price": 79,
+   "new_price": 49,
+   "discount_pct": 38.0,
+   "savings": 30,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-5-plats-de-cuisson-en-verre-borosilicate-_-moderne.jpg",
+   "url": "https://www.mytek.tn/set-de-5-pieces-plats-de-cuisson-en-verre-borosilicate-borart-145053.html"
   },
   {
    "id": "78609",
@@ -21154,22 +21247,6 @@
    "savings": 37,
    "image": "https://www.mytek.tn/media/catalog/product/3/_/3_426.jpg",
    "url": "https://www.mytek.tn/cartouche-dencre-couleur-canon-cl-446-tunsie.html"
-  },
-  {
-   "id": "54953",
-   "sku": "CN059AE",
-   "name": "Cartouche Original Jet d'encre HP 933 - Magenta",
-   "brand": "HP",
-   "categories": [
-    "Cartouche d'encre",
-    "Consommables Imprimante"
-   ],
-   "old_price": 99,
-   "new_price": 62,
-   "discount_pct": 37.4,
-   "savings": 37,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cartouche-d-encre-original-hp-933-magenta.jpg",
-   "url": "https://www.mytek.tn/cartouche-d-encre-original-hp-933-magenta.html"
   },
   {
    "id": "16493",
@@ -22660,22 +22737,6 @@
    "url": "https://www.mytek.tn/corbeille-a-papier-fapi-pleine-marron-305-09.html"
   },
   {
-   "id": "42625",
-   "sku": "18197",
-   "name": "Cahier Piqûre CALLIGRAPHE 96 Pages 90 Gr Seyès 24x32 cm Violet",
-   "brand": "CALLIGRAPHE",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 10.9,
-   "new_price": 7,
-   "discount_pct": 35.8,
-   "savings": 3.9,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-96-pages-90-gr-seyes-24x32-cm-violetx.gif",
-   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-96-pages-90-gr-seyes-24x32-cm-violet.html"
-  },
-  {
    "id": "44273",
    "sku": "8500392",
    "name": "Registre Wiro Répertoire KO 22.5 x 29.7 cm",
@@ -22736,22 +22797,6 @@
    "savings": 10.0,
    "image": "https://www.mytek.tn/media/catalog/product/d/m/dm25ba6-3046.jpg",
    "url": "https://www.mytek.tn/moule-a-manque-pyrex-daily-metal-25cm.html"
-  },
-  {
-   "id": "46072",
-   "sku": "BL4BP-3-G",
-   "name": "Bloc Multiprise SOMEF 4 Modules Avec Bouton poussoir 3 M - Blanc",
-   "brand": "SOMEF",
-   "categories": [
-    "Multiprises",
-    "Onduleurs & Protection Électrique"
-   ],
-   "old_price": 37,
-   "new_price": 23.8,
-   "discount_pct": 35.7,
-   "savings": 13.2,
-   "image": "https://www.mytek.tn/media/catalog/product/b/l/bloc-multiprise-somef-4-modules-avec-bouton-poussoir-1-4-m-blanc_1.jpg",
-   "url": "https://www.mytek.tn/bloc-multiprise-somef-4-modules-avec-bouton-poussoir-3-m-blanc.html"
   },
   {
    "id": "36950",
@@ -22986,6 +23031,22 @@
    "savings": 70,
    "image": "https://www.mytek.tn/media/catalog/product/a/s/aspirateur-balai-enzo-vc-1004---1500w---polyvalent-_-compact.jpg",
    "url": "https://www.mytek.tn/aspirateur-balai-9en1-enzo-vc-1004-1500w-gris.html"
+  },
+  {
+   "id": "75319",
+   "sku": "8500293",
+   "name": "Cahier Wiro KO 380 Pages 80 Gr 21 x 29.7 cm Couverture Plastique",
+   "brand": "KO",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 19.9,
+   "new_price": 12.9,
+   "discount_pct": 35.2,
+   "savings": 7.0,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-ko-wiro-380-pages-pf-80g-avec-couverture-plastique-pastel-001.jpg",
+   "url": "https://www.mytek.tn/cahier-ko-wiro-380-pages-pf-80g-avec-couverture-plastique-pastel.html"
   },
   {
    "id": "30323",
@@ -24341,22 +24402,6 @@
    "url": "https://www.mytek.tn/onduleur-njoy-in-line-token-600va-360-w-8-prises.html"
   },
   {
-   "id": "75719",
-   "sku": "LV-WR07",
-   "name": "Routeur WiFi PIX-LINK LV-WR07 Sans Fil - Blanc",
-   "brand": "PIX-LINK",
-   "categories": [
-    "Reseaux",
-    "Routeur"
-   ],
-   "old_price": 129,
-   "new_price": 85,
-   "discount_pct": 34.1,
-   "savings": 44,
-   "image": "https://www.mytek.tn/media/catalog/product/r/o/routeur-wifi-pix-link-sans-fil-blanc-1.jpg",
-   "url": "https://www.mytek.tn/routeur-wifi-pix-link-sans-fil-blanc.html"
-  },
-  {
    "id": "78487",
    "sku": "131805",
    "name": "Coffret d'instruments FLAIR de Dessin Mathématique Pro",
@@ -24465,23 +24510,6 @@
    "url": "https://www.mytek.tn/mini-power-bank-bavin-pc013-5000-mah-noir.html"
   },
   {
-   "id": "26150",
-   "sku": "42768",
-   "name": "Colle Scolaire Blanche CARIOCA 100 gr avec Bouchon Torsadé - Blanc",
-   "brand": "CARIOCA",
-   "categories": [
-    "Adhésifs & Agrafage",
-    "Colle",
-    "Fourniture Scolaire"
-   ],
-   "old_price": 5.9,
-   "new_price": 3.9,
-   "discount_pct": 33.9,
-   "savings": 2.0,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/colle-blanche-carioca-100gr.jpg",
-   "url": "https://www.mytek.tn/colle-blanche-carioca-100gr.html"
-  },
-  {
    "id": "72632",
    "sku": "6977009500043",
    "name": "Litière Agglomérante FELICAT Super White 20 Litres pour Chat",
@@ -24544,22 +24572,6 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur-bureau-led-rgb-rechargeable-usb---rose.jpg",
    "url": "https://www.mytek.tn/catalog/product/view/id/73861/s/mini-ventilateur-de-bureau-led-rose/"
-  },
-  {
-   "id": "73878",
-   "sku": "VENT-BLEU",
-   "name": "Mini Ventilateur de Bureau LED - Bleu",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Climatisation",
-    "Ventilateur"
-   ],
-   "old_price": 59,
-   "new_price": 39,
-   "discount_pct": 33.9,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/v/e/ventilateur-bureau-led-rgb-rechargeable-usb-bleu.jpg",
-   "url": "https://www.mytek.tn/catalog/product/view/id/73878/s/mini-ventilateur-de-bureau-led-bleu/"
   },
   {
    "id": "76777",
@@ -25786,6 +25798,74 @@
    "savings": 0.5,
    "image": "https://www.mytek.tn/media/catalog/product/b/o/boite-de-100-trombones-deli-28-mm-657.jpg",
    "url": "https://www.mytek.tn/boite-de-100-trombones-deli-28-mm.html"
+  },
+  {
+   "id": "74433",
+   "sku": "SET8964-N",
+   "name": "Coffret Notebook Bois Avec Stylo Bois (05c) - Noir",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Agendas & Notebook",
+    "Cahier & Feuille",
+    "Fourniture Scolaire"
+   ],
+   "old_price": 39,
+   "new_price": 26,
+   "discount_pct": 33.3,
+   "savings": 13,
+   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-notebook-bois-avec-stylo-bois-05c-noir.jpg",
+   "url": "https://www.mytek.tn/coffret-notebook-bois-avec-stylo-bois-05c-noir.html"
+  },
+  {
+   "id": "74434",
+   "sku": "SET8964-B",
+   "name": "Coffret Notebook Bois Avec Stylo Bois (05c) - Blanc",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Agendas & Notebook",
+    "Cahier & Feuille",
+    "Fourniture Scolaire"
+   ],
+   "old_price": 39,
+   "new_price": 26,
+   "discount_pct": 33.3,
+   "savings": 13,
+   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-notebook-bois-avec-stylo-bois-05c-blanc.jpg",
+   "url": "https://www.mytek.tn/coffret-notebook-bois-avec-stylo-bois-05c-blanc.html"
+  },
+  {
+   "id": "74435",
+   "sku": "SET8964-BL",
+   "name": "Coffret Notebook Bois Avec Stylo Bois (05c) - Bleu",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Agendas & Notebook",
+    "Cahier & Feuille",
+    "Fourniture Scolaire"
+   ],
+   "old_price": 39,
+   "new_price": 26,
+   "discount_pct": 33.3,
+   "savings": 13,
+   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-notebook-bois-avec-stylo-bois-05c-bleu.jpg",
+   "url": "https://www.mytek.tn/coffret-notebook-bois-avec-stylo-bois-05c-bleu.html"
+  },
+  {
+   "id": "74438",
+   "sku": "SET8964-V",
+   "name": "Coffret Notebook Bois Avec Stylo Bois (05c) - Vert",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Agendas & Notebook",
+    "Cahier & Feuille",
+    "Fourniture Scolaire"
+   ],
+   "old_price": 39,
+   "new_price": 26,
+   "discount_pct": 33.3,
+   "savings": 13,
+   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-notebook-bois-avec-stylo-bois-05c-vert.jpg",
+   "url": "https://www.mytek.tn/coffret-notebook-bois-avec-stylo-bois-05c-vert.html"
   },
   {
    "id": "10697",
@@ -27603,21 +27683,6 @@
    "url": "https://www.mytek.tn/support-de-bureau-novus-my-twin-fix-d-avec-fixation-tranversatnte.html"
   },
   {
-   "id": "37739",
-   "sku": "JBLT720BTPUR",
-   "name": "Micro Casque Sans Fil JBL Tune 720BT - Violet",
-   "brand": "JBL",
-   "categories": [
-    "Son Numérique"
-   ],
-   "old_price": 289,
-   "new_price": 199,
-   "discount_pct": 31.1,
-   "savings": 90,
-   "image": "https://www.mytek.tn/media/catalog/product/m/i/micro-casque-sans-fil-jbl-tune-720bt-bluetooth-violet-jblt720btpur.jpg",
-   "url": "https://www.mytek.tn/micro-casque-sans-fil-jbl-tune-720bt-violet.html"
-  },
-  {
    "id": "75833",
    "sku": "JBLT720BTWHT",
    "name": "Micro Casque Sans Fil JBL Tune 720BT - Blanc",
@@ -28860,6 +28925,22 @@
    "savings": 6.0,
    "image": "https://www.mytek.tn/media/catalog/product/b/o/boite-a-dejeuner-maped-origine-pour-enfants-bleu-009.jpg",
    "url": "https://www.mytek.tn/boite-a-dejeuner-maped-origine-pour-enfants-bleu.html"
+  },
+  {
+   "id": "78918",
+   "sku": "9037",
+   "name": "Cahier Tp Intégral OMEGA A4 200 pages Seyès PP Assortis",
+   "brand": "OMEGA",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 14.9,
+   "new_price": 10.4,
+   "discount_pct": 30.2,
+   "savings": 4.5,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-tp-integral-omega-a4-200-pages-seyes-pp-assortis.jpg",
+   "url": "https://www.mytek.tn/cahier-tp-integral-omega-a4-200-pages-seyes-pp-assortis.html"
   },
   {
    "id": "47193",
@@ -32942,6 +33023,22 @@
    "url": "https://www.mytek.tn/croquettes-pour-chats-royal-canin-sterilises-7-1-5kg.html"
   },
   {
+   "id": "62285",
+   "sku": "SCHKM1500",
+   "name": "Robot Pétrin SCHNEIDER SCHKM1500 5.5Litres 1500W - Inox",
+   "brand": "SCHNEIDER",
+   "categories": [
+    "Préparation culinaire",
+    "Robot Pétrin"
+   ],
+   "old_price": 379,
+   "new_price": 279,
+   "discount_pct": 26.4,
+   "savings": 100,
+   "image": "https://www.mytek.tn/media/catalog/product/r/o/robot-p_trin-schneider-schkm1500-6litres-1500w---inox_1.jpg",
+   "url": "https://www.mytek.tn/robot-petrin-schneider-schkm1500-6l-1500w-inox.html"
+  },
+  {
    "id": "37831",
    "sku": "700169",
    "name": "Rapporteur LE COQ 10 cm 180° - (700169)",
@@ -33143,74 +33240,6 @@
    "savings": 9.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/o/porte-brochure-faibo-a4-1-compartiment-27-5-23-5-10-cm-transparent-001.jpg",
    "url": "https://www.mytek.tn/porte-brochure-faibo-a4-1-compartiment-27-5-23-5-10-cm-transparent.html"
-  },
-  {
-   "id": "74433",
-   "sku": "SET8964-N",
-   "name": "Coffret Notebook Bois Avec Stylo Bois (05c) - Noir",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Agendas & Notebook",
-    "Cahier & Feuille",
-    "Fourniture Scolaire"
-   ],
-   "old_price": 35,
-   "new_price": 25.9,
-   "discount_pct": 26.0,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-notebook-bois-avec-stylo-bois-05c-noir.jpg",
-   "url": "https://www.mytek.tn/coffret-notebook-bois-avec-stylo-bois-05c-noir.html"
-  },
-  {
-   "id": "74434",
-   "sku": "SET8964-B",
-   "name": "Coffret Notebook Bois Avec Stylo Bois (05c) - Blanc",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Agendas & Notebook",
-    "Cahier & Feuille",
-    "Fourniture Scolaire"
-   ],
-   "old_price": 35,
-   "new_price": 25.9,
-   "discount_pct": 26.0,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-notebook-bois-avec-stylo-bois-05c-blanc.jpg",
-   "url": "https://www.mytek.tn/coffret-notebook-bois-avec-stylo-bois-05c-blanc.html"
-  },
-  {
-   "id": "74435",
-   "sku": "SET8964-BL",
-   "name": "Coffret Notebook Bois Avec Stylo Bois (05c) - Bleu",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Agendas & Notebook",
-    "Cahier & Feuille",
-    "Fourniture Scolaire"
-   ],
-   "old_price": 35,
-   "new_price": 25.9,
-   "discount_pct": 26.0,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-notebook-bois-avec-stylo-bois-05c-bleu.jpg",
-   "url": "https://www.mytek.tn/coffret-notebook-bois-avec-stylo-bois-05c-bleu.html"
-  },
-  {
-   "id": "74438",
-   "sku": "SET8964-V",
-   "name": "Coffret Notebook Bois Avec Stylo Bois (05c) - Vert",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Agendas & Notebook",
-    "Cahier & Feuille",
-    "Fourniture Scolaire"
-   ],
-   "old_price": 35,
-   "new_price": 25.9,
-   "discount_pct": 26.0,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-notebook-bois-avec-stylo-bois-05c-vert.jpg",
-   "url": "https://www.mytek.tn/coffret-notebook-bois-avec-stylo-bois-05c-vert.html"
   },
   {
    "id": "66583",
@@ -37563,21 +37592,6 @@
    "url": "https://www.mytek.tn/aimants-maped-fancy-13-mm-517111.html"
   },
   {
-   "id": "3498",
-   "sku": "870801",
-   "name": "Boîte à Déjeuner MAPED Kids Concept Story 870801 - Rose",
-   "brand": "MAPED",
-   "categories": [
-    "Boîte à Déjeuner"
-   ],
-   "old_price": 29.9,
-   "new_price": 23,
-   "discount_pct": 23.1,
-   "savings": 6.9,
-   "image": "https://www.mytek.tn/media/catalog/product/8/7/870801.jpg",
-   "url": "https://www.mytek.tn/boite-a-dejeuner-maped-kids-concept-story-870801-rose.html"
-  },
-  {
    "id": "65406",
    "sku": "H500-WGNN-S00",
    "name": "Boîtier Gamer COOLER MASTER HAF 500 - Blanc",
@@ -38630,6 +38644,22 @@
    "url": "https://www.mytek.tn/haut-parleur-bluetooth-120w-cqs-s668-avec-eclairage-led-noir.html"
   },
   {
+   "id": "7548",
+   "sku": "C31CH26052",
+   "name": "Imprimante de Ticket EPSON TM-T20X Ethernet - Noir",
+   "brand": "EPSON",
+   "categories": [
+    "Imprimante",
+    "Imprimante Thermique"
+   ],
+   "old_price": 449,
+   "new_price": 349,
+   "discount_pct": 22.3,
+   "savings": 100,
+   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-de-ticket-epson-tm-t20x-ethernet---noir-modifee.jpg",
+   "url": "https://www.mytek.tn/imprimante-de-ticket-epson-tm-t20x-ethernet-noir.html"
+  },
+  {
    "id": "13828",
    "sku": "F450068",
    "name": "Pull Coton FELICAN Cowboys F450068 4 X-large Pour chiens - Noir",
@@ -38709,6 +38739,51 @@
    "savings": 10,
    "image": "https://www.mytek.tn/media/catalog/product/t/a/tapis-de-souris-gamer-hyperx-pulsefire-mat-cloth-m-noir-b.jpg",
    "url": "https://www.mytek.tn/tapis-de-souris-gamer-hyperx-pulsefire-mat-cloth-m-noir.html"
+  },
+  {
+   "id": "78613",
+   "sku": "DQC27001",
+   "name": "Cartable de Coloriage YALONG DQC27001 Pour Enfants - Rose",
+   "brand": "YALONG",
+   "categories": [
+    "Coloriage & Pâte à Modeler"
+   ],
+   "old_price": 45,
+   "new_price": 35,
+   "discount_pct": 22.2,
+   "savings": 10,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cartable-de-coloriage-yalong-dqc27001-pour-enfants-001.jpg",
+   "url": "https://www.mytek.tn/cartable-de-coloriage-yalong-dqc27001-pour-enfants.html"
+  },
+  {
+   "id": "78939",
+   "sku": "DQC27001-BLEU",
+   "name": "Cartable de Coloriage YALONG DQC27001 Pour Enfants - Bleu",
+   "brand": "YALONG",
+   "categories": [
+    "Coloriage & Pâte à Modeler"
+   ],
+   "old_price": 45,
+   "new_price": 35,
+   "discount_pct": 22.2,
+   "savings": 10,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cartable-de-coloriage-yalong-dqc27001-pour-enfants-bleu-1.jpg",
+   "url": "https://www.mytek.tn/cartable-de-coloriage-yalong-dqc27001-pour-enfants-bleu.html"
+  },
+  {
+   "id": "78941",
+   "sku": "DQC27001-JAUNE",
+   "name": "Cartable de Coloriage YALONG DQC27001 Pour Enfants - Jaune",
+   "brand": "YALONG",
+   "categories": [
+    "Coloriage & Pâte à Modeler"
+   ],
+   "old_price": 45,
+   "new_price": 35,
+   "discount_pct": 22.2,
+   "savings": 10,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cartable-de-coloriage-yalong-dqc27001-pour-enfants-jaune-1.jpg",
+   "url": "https://www.mytek.tn/cartable-de-coloriage-yalong-dqc27001-pour-enfants-jaune.html"
   },
   {
    "id": "4239",
@@ -39149,6 +39224,22 @@
    "url": "https://www.mytek.tn/pot-a-stylo-rond-metal-bleu-ciel-802blciel.html"
   },
   {
+   "id": "23204",
+   "sku": "802NO",
+   "name": "Pot à Stylo Rond Métal - Noir (802NO)",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Accessoires de Bureau",
+    "Pot Á Stylos"
+   ],
+   "old_price": 3.2,
+   "new_price": 2.5,
+   "discount_pct": 21.9,
+   "savings": 0.7,
+   "image": "https://www.mytek.tn/media/catalog/product/p/o/pot-_-stylo-rond-m_tal---noir_802no_.jpg",
+   "url": "https://www.mytek.tn/pot-a-stylo-rond-metal-noir-802no.html"
+  },
+  {
    "id": "23207",
    "sku": "802OR",
    "name": "Pot à Stylo Rond Métal - Orange (802OR)",
@@ -39525,6 +39616,22 @@
    "savings": 86,
    "image": "https://www.mytek.tn/media/catalog/product/h/5/h578b8a61bfcd49be81117c8533c72037t.jpg",
    "url": "https://www.mytek.tn/imprimante-a-ticket-digipos-80mm-usb-reseau-serie-noir-et-blanc.html"
+  },
+  {
+   "id": "46072",
+   "sku": "BL4BP-3-G",
+   "name": "Bloc Multiprise SOMEF 4 Modules Avec Bouton poussoir 3 M - Blanc",
+   "brand": "SOMEF",
+   "categories": [
+    "Multiprises",
+    "Onduleurs & Protection Électrique"
+   ],
+   "old_price": 37,
+   "new_price": 29,
+   "discount_pct": 21.6,
+   "savings": 8,
+   "image": "https://www.mytek.tn/media/catalog/product/b/l/bloc-multiprise-somef-4-modules-avec-bouton-poussoir-1-4-m-blanc_1.jpg",
+   "url": "https://www.mytek.tn/bloc-multiprise-somef-4-modules-avec-bouton-poussoir-3-m-blanc.html"
   },
   {
    "id": "57592",
@@ -41724,6 +41831,21 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/m/a/manette-sony-ps4-dualshock-4-grand-theft-auto-v-edition-m.jpg",
    "url": "https://www.mytek.tn/manette-ps4-dualshock-4-grand-theft-auto-v-edition.html"
+  },
+  {
+   "id": "71572",
+   "sku": "M-PS4-KO",
+   "name": "Manette PS4 STREET FIGHTER KO Edition -M-PS4-KO",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Accessoires de Jeux"
+   ],
+   "old_price": 99,
+   "new_price": 79,
+   "discount_pct": 20.2,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/m/a/manette-sony-ps4-street-fighter-ko-edition-001.jpg",
+   "url": "https://www.mytek.tn/manette-sony-ps4-street-fighter-ko-edition.html"
   },
   {
    "id": "72122",
@@ -44384,7 +44506,7 @@
    "new_price": 629,
    "discount_pct": 19.3,
    "savings": 150,
-   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-a-reservoir-integre-epson-ecotank-l3251-3en1-wifi-couleur-c11cj67409-b.jpg",
+   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-a-reservoir-integre-epson-ecotank-l3251-3en1-wifi-couleur-c11cj67409-c.jpg",
    "url": "https://www.mytek.tn/imprimante-a-reservoir-integre-epson-ecotank-l3251-3en1-wifi-couleur-c11cj67409.html"
   },
   {
@@ -45406,7 +45528,7 @@
    "new_price": 635,
    "discount_pct": 18.5,
    "savings": 144,
-   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-multifonction-epson-ecotank-l3550-couleur-wifi-airprint-b_1_.jpg",
+   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-multifonction-epson-ecotank-l3550-couleur-wifi-airprint-c.jpg",
    "url": "https://www.mytek.tn/imprimante-multifonction-epson-ecotank-l3550-couleur-wifi-airprint.html"
   },
   {
@@ -45714,21 +45836,6 @@
    "savings": 2.0,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-3-gros-rouleaux-de-peinture-formes-diverses-jovi-pour-modelage---rouge.jpg",
    "url": "https://www.mytek.tn/pack-de-3-gros-rouleaux-de-peinture-formes-diverses-jovi-pour-modelage-rouge.html"
-  },
-  {
-   "id": "78414",
-   "sku": "EU366-MT",
-   "name": "Pochette de 6 Surligneurs DELI EU366-MT Assortis",
-   "brand": "DELI",
-   "categories": [
-    "Ecriture & Correction"
-   ],
-   "old_price": 10.9,
-   "new_price": 8.9,
-   "discount_pct": 18.3,
-   "savings": 2.0,
-   "image": "https://www.mytek.tn/media/catalog/product/p/o/pochette-de-6-surligneurs-deli-eu366-mt-assortis-1.jpg",
-   "url": "https://www.mytek.tn/pochette-de-6-surligneurs-deli-eu366-mt-assortis.html"
   },
   {
    "id": "67666",
@@ -46438,22 +46545,6 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/m/i/mini_hachoir_touch_40562_700w_-_noir.jpg",
    "url": "https://www.mytek.tn/mini-hachoir-touch-40562-700w-noir.html"
-  },
-  {
-   "id": "7548",
-   "sku": "C31CH26052",
-   "name": "Imprimante de Ticket EPSON TM-T20X Ethernet - Noir",
-   "brand": "EPSON",
-   "categories": [
-    "Imprimante",
-    "Imprimante Thermique"
-   ],
-   "old_price": 449,
-   "new_price": 369,
-   "discount_pct": 17.8,
-   "savings": 80,
-   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-de-ticket-epson-tm-t20x-ethernet---noir-modifee.jpg",
-   "url": "https://www.mytek.tn/imprimante-de-ticket-epson-tm-t20x-ethernet-noir.html"
   },
   {
    "id": "3399",
@@ -49610,6 +49701,22 @@
    "url": "https://www.mytek.tn/pack-de-4-marqueurs-bic-velleda-1751-eco-017545.html"
   },
   {
+   "id": "26235",
+   "sku": "742558",
+   "name": "Pochette de 6 Marqueurs MAPED Fluo Pastel",
+   "brand": "MAPED",
+   "categories": [
+    "Ecriture & Correction",
+    "Marqueurs"
+   ],
+   "old_price": 17.9,
+   "new_price": 15,
+   "discount_pct": 16.2,
+   "savings": 2.9,
+   "image": "https://www.mytek.tn/media/catalog/product/p/o/pochette-de-6-marqueurs-maped-fluo-pastel-d.jpg",
+   "url": "https://www.mytek.tn/pochette-de-6-marqueurs-maped-fluo-pastel.html"
+  },
+  {
    "id": "69236",
    "sku": "BU-348-2",
    "name": "Pack de 10 Marqueurs Permanent double pointe STAEDTLER Lumocolor Rouge",
@@ -51935,7 +52042,7 @@
    "new_price": 639,
    "discount_pct": 14.7,
    "savings": 110,
-   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-a-reservoir-integre-epson-ecotank-l3260-3en1-couleur-wifi-b.jpg",
+   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-a-reservoir-integre-epson-ecotank-l3260-3en1-couleur-wifi-c.jpg",
    "url": "https://www.mytek.tn/imprimante-a-reservoir-integre-epson-ecotank-l3260-3en1-couleur-wifi.html"
   },
   {
@@ -51953,21 +52060,6 @@
    "savings": 19,
    "image": "https://www.mytek.tn/media/catalog/product/r/o/rouleaux-plastification-glossy-330-mm-500-m-1.jpg",
    "url": "https://www.mytek.tn/rouleaux-plastification-glossy-330-mm-500-m.html"
-  },
-  {
-   "id": "68266",
-   "sku": "VG27AQ5A",
-   "name": "Ecran ASUS TUF Gaming VG27AQ5A 27\" QHD FAST IPS 210 Hz",
-   "brand": "ASUS",
-   "categories": [
-    "Périphériques et Accessoires Gamers"
-   ],
-   "old_price": 749,
-   "new_price": 639,
-   "discount_pct": 14.7,
-   "savings": 110,
-   "image": "https://www.mytek.tn/media/catalog/product/e/c/ecran-asus-tuf-gaming-vg27aq5a-27-qhd-fast-ips-210-hz-gt.jpg",
-   "url": "https://www.mytek.tn/ecran-asus-tuf-gaming-vg27aq5a-27-qhd-fast-ips-210-hz.html"
   },
   {
    "id": "52598",
@@ -57268,6 +57360,22 @@
    "savings": 44,
    "image": "https://www.mytek.tn/media/catalog/product/t/n/tn-cexv54c.jpg",
    "url": "https://www.mytek.tn/toner-d-origine-canon-c-exv-54-cyan-8500-pages.html"
+  },
+  {
+   "id": "10812",
+   "sku": "TN-CEXV54M",
+   "name": "Toner D'origine CANON C-EXV 54 Magenta (8500 Pages)",
+   "brand": "CANON",
+   "categories": [
+    "Consommables Photocopieur",
+    "Toner Photocopieur"
+   ],
+   "old_price": 399,
+   "new_price": 355,
+   "discount_pct": 11.0,
+   "savings": 44,
+   "image": "https://www.mytek.tn/media/catalog/product/t/n/tn-cexv54m.jpg",
+   "url": "https://www.mytek.tn/toner-d-origine-canon-c-exv-54-magenta-8500-pages.html"
   },
   {
    "id": "71419",
@@ -62717,21 +62825,6 @@
    "url": "https://www.mytek.tn/climatiseur-biolux-tropicale-smart-12000-btu-chaud-froid-garantie-3-ans.html"
   },
   {
-   "id": "77267",
-   "sku": "BU-BTS12TIQC",
-   "name": "Climatiseur BRANDT Inverter 12000 BTU CHAUD/FROID - Garantie 2 ans",
-   "brand": "BRANDT",
-   "categories": [
-    "Climatisation"
-   ],
-   "old_price": 1599,
-   "new_price": 1499,
-   "discount_pct": 6.3,
-   "savings": 100,
-   "image": "https://www.mytek.tn/media/catalog/product/c/l/climatiseur-brandt-inverter-12000-btu-chaud-froid-garantie-2-ans-e.jpg",
-   "url": "https://www.mytek.tn/climatiseur-brandt-inverter-12000-btu-chaud-froid-garantie-2-ans.html"
-  },
-  {
    "id": "35500",
    "sku": "BU-C6090GS-AC-383-IDSH-S-F",
    "name": "Cuisinière à Gaz UNIONAIRE Smart 5 Feux + Cadeau",
@@ -63724,22 +63817,6 @@
    "url": "https://www.mytek.tn/serveur-de-stockage-synology-nas-rs3621xs-rackstation-noir.html"
   },
   {
-   "id": "10812",
-   "sku": "TN-CEXV54M",
-   "name": "Toner D'origine CANON C-EXV 54 Magenta (8500 Pages)",
-   "brand": "CANON",
-   "categories": [
-    "Consommables Photocopieur",
-    "Toner Photocopieur"
-   ],
-   "old_price": 399,
-   "new_price": 379,
-   "discount_pct": 5.0,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/t/n/tn-cexv54m.jpg",
-   "url": "https://www.mytek.tn/toner-d-origine-canon-c-exv-54-magenta-8500-pages.html"
-  },
-  {
    "id": "67517",
    "sku": "4653101",
    "name": "Destructeur de Papier FELLOWES 53C Coupe Croisée Multi‑usage P‑4",
@@ -64436,6 +64513,21 @@
    "url": "https://www.mytek.tn/scarificateur-electrique-gardena-evc-1000-04068-20.html"
   },
   {
+   "id": "74981",
+   "sku": "BU-SP24CF-INV",
+   "name": "Climatiseur Inverter Coala R410 Chaud/Froid 24000 BTU - Garantie 3 ans",
+   "brand": "COALA",
+   "categories": [
+    "Climatisation"
+   ],
+   "old_price": 2499,
+   "new_price": 2399,
+   "discount_pct": 4.0,
+   "savings": 100,
+   "image": "https://www.mytek.tn/media/catalog/product/c/l/climatiseur-inverter-coala-r410-chaud-froid-24000-btu-garantie-3-ans-h.jpg",
+   "url": "https://www.mytek.tn/climatiseur-inverter-coala-r410-chaud-froid-24000-btu-garantie-3-ans.html"
+  },
+  {
    "id": "30253",
    "sku": "TE210",
    "name": "Imprimante d'étiquettes TSC TE210 Thermique Ethernet - Noir",
@@ -64819,21 +64911,6 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/t/o/toner-hp-laserjet-26a.jpg",
    "url": "https://www.mytek.tn/toner-hp-laserjet-26a.html"
-  },
-  {
-   "id": "76181",
-   "sku": "BU-TAC-09CHSA/ZG2I",
-   "name": "Climatiseur TCL SaveIN Smart Inverter 9000 BTU Chaud / Froid - Garantie 10 ans",
-   "brand": "TCL",
-   "categories": [
-    "Climatisation"
-   ],
-   "old_price": 1439,
-   "new_price": 1399,
-   "discount_pct": 2.8,
-   "savings": 40,
-   "image": "https://www.mytek.tn/media/catalog/product/c/l/climatiseur-tcl-savein-smart-inverter-9000-btu-chaud-froid-garantie-3-ans-z.jpg",
-   "url": "https://www.mytek.tn/climatiseur-tcl-savein-smart-inverter-9000-btu-chaud-froid-garantie-3-ans.html"
   },
   {
    "id": "72298",
