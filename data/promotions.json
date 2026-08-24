@@ -1,8 +1,8 @@
 {
- "scanned_at": "2026-08-23T05:28:26.088221+00:00",
+ "scanned_at": "2026-08-24T05:37:06.042906+00:00",
  "source": "https://www.mytek.tn",
  "product_count": 4196,
- "duration_seconds": 12.1,
+ "duration_seconds": 7.7,
  "errors": 0,
  "products": [
   {
@@ -7191,6 +7191,21 @@
    "url": "https://www.mytek.tn/ecouteurs-sans-fil-bluetooth-hoco-ew56-plus-blanc.html"
   },
   {
+   "id": "78970",
+   "sku": "ALX-C02-IOS-WH",
+   "name": "Câble Aulex USB-A vers Lightning C02 1M 30W - Blanc",
+   "brand": "{\"code\":\"manufacturer\",\"label\":false,\"value\":null}",
+   "categories": [
+    "Accessoires Téléphonie"
+   ],
+   "old_price": 14.9,
+   "new_price": 5.9,
+   "discount_pct": 60.4,
+   "savings": 9.0,
+   "image": "https://www.mytek.tn/media/catalog/product/c/_/c_ble_aulex_usb-a_vers_lightning_1m_30w_-_alx-c02-ios-wh-l.jpg",
+   "url": "https://www.mytek.tn/cable-aulex-usb-a-vers-lightning-c02-1m-30w-blanc.html"
+  },
+  {
    "id": "69268",
    "sku": "HOCO-X82-MICRO-WH",
    "name": "Câble De Charge Rapide HOCO X82 Micro USB - Blanc",
@@ -12742,21 +12757,6 @@
    "url": "https://www.mytek.tn/pack-de-12-crayons-de-couleurs-jovi-sans-bois-triangulaire-woodless.html"
   },
   {
-   "id": "71013",
-   "sku": "KEKE-160W",
-   "name": "Chargeur 160W Charge rapide Avec 2 port Type-C - Blanc",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Accessoires Téléphonie"
-   ],
-   "old_price": 59,
-   "new_price": 29.9,
-   "discount_pct": 49.3,
-   "savings": 29.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-160w-charge-rapide-avec-2-port-type-c-blanc-004.jpg",
-   "url": "https://www.mytek.tn/chargeur-160w-charge-rapide-avec-2-port-type-c-blanc.html"
-  },
-  {
    "id": "73496",
    "sku": "G3MINI",
    "name": "Chargeur Sans Fil avec Lampe LED RGB et Enceinte Intelligente - G3MINI",
@@ -12785,6 +12785,21 @@
    "savings": 29.1,
    "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-2-ports-usb-a-usb-c-avec-cable-type-c-1-8m-noir-p.jpg",
    "url": "https://www.mytek.tn/chargeur-2-ports-usb-a-usb-c-avec-cable-type-c-1-8m-noir.html"
+  },
+  {
+   "id": "71013",
+   "sku": "KEKE-160W",
+   "name": "Chargeur 160W Charge rapide Avec 2 port Type-C - Blanc",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Accessoires Téléphonie"
+   ],
+   "old_price": 59,
+   "new_price": 29.9,
+   "discount_pct": 49.3,
+   "savings": 29.1,
+   "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-160w-charge-rapide-avec-2-port-type-c-blanc-004.jpg",
+   "url": "https://www.mytek.tn/chargeur-160w-charge-rapide-avec-2-port-type-c-blanc.html"
   },
   {
    "id": "76412",
@@ -19732,22 +19747,6 @@
    "savings": 7.0,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-6-crayon-carioca-stamperello.gif",
    "url": "https://www.mytek.tn/pack-de-6-crayon-carioca-stamperello.html"
-  },
-  {
-   "id": "78536",
-   "sku": "HIMW95226SXEL",
-   "name": "Plaque de Cuisson Encastrable BEKO HIMW95226SXEL 5 Feux 90 cm - Inox",
-   "brand": "BEKO",
-   "categories": [
-    "Cuisson",
-    "Plaque de Cuisson"
-   ],
-   "old_price": 819,
-   "new_price": 499,
-   "discount_pct": 39.1,
-   "savings": 320,
-   "image": "https://www.mytek.tn/media/catalog/product/t/a/table-de-cuisson-gaz-beko-himw95226sxel-90-cm-5-foyers-inox.jpg",
-   "url": "https://www.mytek.tn/plaque-de-cuisson-encastrable-beko-himw95226sxel-5-feux-90-cm-inox.html"
   },
   {
    "id": "39904",
@@ -42466,21 +42465,6 @@
    "url": "https://www.mytek.tn/casque-sans-fil-philips-tah1108bk-00-noir.html"
   },
   {
-   "id": "51464",
-   "sku": "W35MAX-NOIR",
-   "name": "Casque Sans Fil HOCO W35 Max - Noir",
-   "brand": "HOCO",
-   "categories": [
-    "Son Numérique"
-   ],
-   "old_price": 99,
-   "new_price": 79,
-   "discount_pct": 20.2,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/casque-sans-fil-hoco-w35-noir-1.jpg",
-   "url": "https://www.mytek.tn/casque-sans-fil-hoco-w35-noir.html"
-  },
-  {
    "id": "77533",
    "sku": "W35MAX-G",
    "name": "Casque Sans Fil HOCO W35 max - Vert",
@@ -42539,6 +42523,21 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/casque-sans-fil-hoco-w35-max-silver.jpg",
    "url": "https://www.mytek.tn/casque-sans-fil-hoco-w35-max-silver.html"
+  },
+  {
+   "id": "51464",
+   "sku": "W35MAX-NOIR",
+   "name": "Casque Sans Fil HOCO W35 Max - Noir",
+   "brand": "HOCO",
+   "categories": [
+    "Son Numérique"
+   ],
+   "old_price": 99,
+   "new_price": 79,
+   "discount_pct": 20.2,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/casque-sans-fil-hoco-w35-noir-1.jpg",
+   "url": "https://www.mytek.tn/casque-sans-fil-hoco-w35-noir.html"
   },
   {
    "id": "2079",
