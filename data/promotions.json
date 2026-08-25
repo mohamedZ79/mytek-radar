@@ -1,8 +1,8 @@
 {
- "scanned_at": "2026-08-24T05:37:06.042906+00:00",
+ "scanned_at": "2026-08-25T05:30:45.382916+00:00",
  "source": "https://www.mytek.tn",
- "product_count": 4196,
- "duration_seconds": 7.7,
+ "product_count": 4194,
+ "duration_seconds": 9.3,
  "errors": 0,
  "products": [
   {
@@ -4808,6 +4808,22 @@
    "url": "https://www.mytek.tn/lot-de-6-verres-a-pied-cristal-d-arque-elixir-25-cl.html"
   },
   {
+   "id": "79003",
+   "sku": "SET-24",
+   "name": "Set de 24 Pièces Couverts en Acier inoxydable - Versatility",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Cuisine",
+    "Vaisselle & Art de la Table"
+   ],
+   "old_price": 89,
+   "new_price": 29.9,
+   "discount_pct": 66.4,
+   "savings": 59.1,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-24-couverts-inox-versatility-_-_l_gance-_-qualit_.jpg",
+   "url": "https://www.mytek.tn/set-de-24-pieces-couverts-en-acier-inoxydable-versatility.html"
+  },
+  {
    "id": "60385",
    "sku": "CH-9041-BK",
    "name": "Chargeur TREQA  Super Rapide Type-C 45W - Noir",
@@ -8210,6 +8226,22 @@
    "url": "https://www.mytek.tn/cahier-d-ecriture-yamama-32-pages-2-5-mm-80g.html"
   },
   {
+   "id": "47265",
+   "sku": "429011",
+   "name": "Cahier d’écriture YAMAMA 32 Pages 4 mm 80G",
+   "brand": "YAMAMA",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 4.9,
+   "new_price": 2,
+   "discount_pct": 59.2,
+   "savings": 2.9,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-d-ecriture-yamama-32-pages-4-mm-80g-3.jpg",
+   "url": "https://www.mytek.tn/cahier-d-ecriture-yamama-32-pages-4-mm-80g.html"
+  },
+  {
    "id": "76420",
    "sku": "8411712754679",
    "name": "Service d'Assiettes BORMIOLI ROCCO TOLEDO 18 Pièces - Blanc",
@@ -8303,6 +8335,22 @@
    "savings": 1.7,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-de-dessin-yamama-10x10-disney-pm-90gr.jpg",
    "url": "https://www.mytek.tn/cahier-de-dessin-yamama-10x10-disney-pm-90gr.html"
+  },
+  {
+   "id": "44972",
+   "sku": "429288",
+   "name": "Cahier Piqûre YAMAMA 48 Pages 70 Gr Seyès 17 x 22 cm Rouge",
+   "brand": "YAMAMA",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 2.9,
+   "new_price": 1.2,
+   "discount_pct": 58.6,
+   "savings": 1.7,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-pique-yamama-48-pages-a-carreaux-17-x-22-cm-70-gr-rouge.jpg",
+   "url": "https://www.mytek.tn/cahier-pique-yamama-48-pages-a-carreaux-17-x-22-cm-70-gr-rouge.html"
   },
   {
    "id": "68692",
@@ -9846,6 +9894,21 @@
    "url": "https://www.mytek.tn/lampe-multifonction-rechargeable-w5138-avec-mini-trepied.html"
   },
   {
+   "id": "78008",
+   "sku": "HBAS1155",
+   "name": "Impédancemètre JATA HBAS1155 Smart 180Kg - Noir",
+   "brand": "JATA",
+   "categories": [
+    "Pèse Personne"
+   ],
+   "old_price": 149,
+   "new_price": 69,
+   "discount_pct": 53.7,
+   "savings": 80,
+   "image": "https://www.mytek.tn/media/catalog/product/p/_/p_se-personne-imp_dancem_tre-jata-_-180kg-_-15-m_moires.jpg",
+   "url": "https://www.mytek.tn/impedancemetre-jata-hbas1155-smart-180kg-noir.html"
+  },
+  {
    "id": "69517",
    "sku": "KITCHEN-WARE-RS",
    "name": "Set De 19 Ustensiles De Cuisine En Silicone - Rose",
@@ -10642,22 +10705,6 @@
    "savings": 30,
    "image": "https://www.mytek.tn/media/catalog/product/m/i/micro-casque-sans-fil-barbie-ah706z-rouge-rr.jpg",
    "url": "https://www.mytek.tn/micro-casque-sans-fil-barbie-ah706z-rouge.html"
-  },
-  {
-   "id": "42427",
-   "sku": "95103501",
-   "name": "Cahier Piqûre CONQUERANT 96 Pages 90 Gr Seyès 24x32 cm - Bleu",
-   "brand": "CONQUERANT",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 14,
-   "new_price": 6.9,
-   "discount_pct": 50.7,
-   "savings": 7.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier_piq_re_conquerant_96_pages_90_gr_sey_s_24x32_cm_-_bleu.jpg",
-   "url": "https://www.mytek.tn/cahier-piqure-conquerant-96-pages-90-gr-seyes-24x32-cm-bleu.html"
   },
   {
    "id": "70161",
@@ -12493,21 +12540,6 @@
    "url": "https://www.mytek.tn/adaptateur-de-charge-hoco-c80a-rapide-20w-blanc.html"
   },
   {
-   "id": "27398",
-   "sku": "42785",
-   "name": "Pack de 8 Feutres CARIOCA Néon - Assortis",
-   "brand": "CARIOCA",
-   "categories": [
-    "Coloriage & Pâte à Modeler"
-   ],
-   "old_price": 12.9,
-   "new_price": 6.5,
-   "discount_pct": 49.6,
-   "savings": 6.4,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-8-feutres-carioca-n_on.jpg",
-   "url": "https://www.mytek.tn/pack-de-8-feutres-carioca-neon.html"
-  },
-  {
    "id": "57869",
    "sku": "RH-6668",
    "name": "Tondeuse à Cheveux Sans Fil Pour Pointes Fourchues - Rose",
@@ -12741,20 +12773,19 @@
    "url": "https://www.mytek.tn/porte-documents-deli-60-vues-assortis.html"
   },
   {
-   "id": "45346",
-   "sku": "73412",
-   "name": "Pack de 12 Crayons JOVI Sans Bois Triangulaire Couleurs",
-   "brand": "JOVI",
+   "id": "71013",
+   "sku": "KEKE-160W",
+   "name": "Chargeur 160W Charge rapide Avec 2 port Type-C - Blanc",
+   "brand": "Sans-Fabricant",
    "categories": [
-    "Coloriage & Pâte à Modeler",
-    "Crayons Couleurs"
+    "Accessoires Téléphonie"
    ],
-   "old_price": 8.9,
-   "new_price": 4.5,
-   "discount_pct": 49.4,
-   "savings": 4.4,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-crayons-de-couleurs-jovi-sans-bois-triangulaire-woodless.jpg",
-   "url": "https://www.mytek.tn/pack-de-12-crayons-de-couleurs-jovi-sans-bois-triangulaire-woodless.html"
+   "old_price": 59,
+   "new_price": 29.9,
+   "discount_pct": 49.3,
+   "savings": 29.1,
+   "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-160w-charge-rapide-avec-2-port-type-c-blanc-004.jpg",
+   "url": "https://www.mytek.tn/chargeur-160w-charge-rapide-avec-2-port-type-c-blanc.html"
   },
   {
    "id": "73496",
@@ -12785,21 +12816,6 @@
    "savings": 29.1,
    "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-2-ports-usb-a-usb-c-avec-cable-type-c-1-8m-noir-p.jpg",
    "url": "https://www.mytek.tn/chargeur-2-ports-usb-a-usb-c-avec-cable-type-c-1-8m-noir.html"
-  },
-  {
-   "id": "71013",
-   "sku": "KEKE-160W",
-   "name": "Chargeur 160W Charge rapide Avec 2 port Type-C - Blanc",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Accessoires Téléphonie"
-   ],
-   "old_price": 59,
-   "new_price": 29.9,
-   "discount_pct": 49.3,
-   "savings": 29.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/h/chargeur-160w-charge-rapide-avec-2-port-type-c-blanc-004.jpg",
-   "url": "https://www.mytek.tn/chargeur-160w-charge-rapide-avec-2-port-type-c-blanc.html"
   },
   {
    "id": "76412",
@@ -14511,6 +14527,22 @@
    "savings": 7,
    "image": "https://www.mytek.tn/media/catalog/product/s/u/sublim-epk.jpg",
    "url": "https://www.mytek.tn/bouteille-d-encre-epson-sublimation-100ml.html"
+  },
+  {
+   "id": "78707",
+   "sku": "BC-6106",
+   "name": "Set De 12 Marqueurs Acrylique a Double Pointe Assortis",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Ecriture & Correction",
+    "Marqueurs"
+   ],
+   "old_price": 30,
+   "new_price": 16,
+   "discount_pct": 46.7,
+   "savings": 14,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-12-marqueurs-acrylique-a-double-pointe-assortis-1.jpg",
+   "url": "https://www.mytek.tn/set-de-12-marqueurs-acrylique-a-double-pointe-assortis.html"
   },
   {
    "id": "73550",
@@ -16934,6 +16966,23 @@
    "url": "https://www.mytek.tn/boite-d-archives-ribat-z-10-a-bouton-violet.html"
   },
   {
+   "id": "25686",
+   "sku": "25471",
+   "name": "Cahier 200 Brochure YAMAMA Super 192 Pages 17X22cm",
+   "brand": "YAMAMA",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille",
+    "Fourniture Scolaire"
+   ],
+   "old_price": 3.5,
+   "new_price": 2,
+   "discount_pct": 42.9,
+   "savings": 1.5,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-200-brochure-yamama-super-192-pages-_25488_-5.jpg",
+   "url": "https://www.mytek.tn/cahier-200-brochure-yamama-super-192-pages-25488.html"
+  },
+  {
    "id": "47268",
    "sku": "429455",
    "name": "Cahier Piqué YAMAMA 48 Pages CP Uni SYS BMV 17 x 22 80G - Jaune",
@@ -17686,6 +17735,22 @@
    "savings": 2.5,
    "image": "https://www.mytek.tn/media/catalog/product/b/o/boite-d-archives-ribat-z-5-a-bouton-bleu-009.jpg",
    "url": "https://www.mytek.tn/boite-d-archives-ribat-z-5-a-bouton-bleu.html"
+  },
+  {
+   "id": "78671",
+   "sku": "SG-982-48",
+   "name": "Coffret De 48 Marqueurs SKYGLORY Peinture Acrylique Assortis",
+   "brand": "SKYGLORY",
+   "categories": [
+    "Ecriture & Correction",
+    "Marqueurs"
+   ],
+   "old_price": 60,
+   "new_price": 35,
+   "discount_pct": 41.7,
+   "savings": 25,
+   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-de-48-marqueurs-skyglory-peinture-acrylique-assortis.jpg",
+   "url": "https://www.mytek.tn/coffret-de-48-marqueurs-skyglory-peinture-acrylique-assortis.html"
   },
   {
    "id": "27080",
@@ -18892,21 +18957,6 @@
    "url": "https://www.mytek.tn/pack-de-10-feutres-de-couleurs-staedtler-a-pointe-fibre.html"
   },
   {
-   "id": "78008",
-   "sku": "HBAS1155",
-   "name": "Impédancemètre JATA HBAS1155 Smart 180Kg - Noir",
-   "brand": "JATA",
-   "categories": [
-    "Pèse Personne"
-   ],
-   "old_price": 149,
-   "new_price": 89,
-   "discount_pct": 40.3,
-   "savings": 60,
-   "image": "https://www.mytek.tn/media/catalog/product/p/_/p_se-personne-imp_dancem_tre-jata-_-180kg-_-15-m_moires.jpg",
-   "url": "https://www.mytek.tn/impedancemetre-jata-hbas1155-smart-180kg-noir.html"
-  },
-  {
    "id": "74497",
    "sku": "KB1050",
    "name": "Grill & Plancha Électrique Multifonction 2-en-1 DSP KB1050 1650W",
@@ -19747,6 +19797,22 @@
    "savings": 7.0,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-6-crayon-carioca-stamperello.gif",
    "url": "https://www.mytek.tn/pack-de-6-crayon-carioca-stamperello.html"
+  },
+  {
+   "id": "59779",
+   "sku": "LIC-2780",
+   "name": "Plaque à Induction LEXICAL LIC-2780 1500Watts - Noir",
+   "brand": "LEXICAL",
+   "categories": [
+    "Cuisson",
+    "Plaque de Cuisson"
+   ],
+   "old_price": 179,
+   "new_price": 109,
+   "discount_pct": 39.1,
+   "savings": 70,
+   "image": "https://www.mytek.tn/media/catalog/product/p/l/plaque-a-induction-lexical-lic-2780-1500watts-noir.jpg",
+   "url": "https://www.mytek.tn/plaque-a-induction-lexical-lic-2780-1500watts-noir.html"
   },
   {
    "id": "39904",
@@ -20818,6 +20884,22 @@
    "url": "https://www.mytek.tn/mixeur-plongeant-ironix-wmn43-19-1800w-beige.html"
   },
   {
+   "id": "79044",
+   "sku": "510689",
+   "name": "Pack de 12 blocs Notes Autocollantes de 100 Feuilles Chacun",
+   "brand": "Sans-Fabricant",
+   "categories": [
+    "Cahier & Feuille",
+    "Sticky Notes"
+   ],
+   "old_price": 29,
+   "new_price": 18,
+   "discount_pct": 37.9,
+   "savings": 11,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-blocs-notes-autocollantes-de-100-feuilles-chacun.jpg",
+   "url": "https://www.mytek.tn/pack-de-12-blocs-notes-autocollantes-de-100-feuilles-chacun.html"
+  },
+  {
    "id": "18265",
    "sku": "CE311AACF351AA",
    "name": "Toner Laser Adaptable Compatible HP 126A/130A - Cyan (CE311AACF351AA)",
@@ -21114,6 +21196,22 @@
    "savings": 600,
    "image": "https://www.mytek.tn/media/catalog/product/t/o/tondeuse-handymower-gardena-22-18v-p4a-avec-batterie-001.jpg",
    "url": "https://www.mytek.tn/tondeuse-handymower-gardena-22-18v-p4a-avec-batterie.html"
+  },
+  {
+   "id": "42300",
+   "sku": "95089764",
+   "name": "Cahier Piqûre CONQUERANT 192 Pages Seyès 70gr 24x32 cm - Vert",
+   "brand": "CONQUERANT",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 20,
+   "new_price": 12.5,
+   "discount_pct": 37.5,
+   "savings": 7.5,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-conquerant-192-pages-seyes-70gr-24x32-cm-vert-01.jpg",
+   "url": "https://www.mytek.tn/cahier-piqure-conquerant-192-pages-seyes-70gr-24x32-cm-vert.html"
   },
   {
    "id": "45454",
@@ -21777,22 +21875,6 @@
    "url": "https://www.mytek.tn/visseuse-emtop-4v-5nm-t-c-42-ecsr0406.html"
   },
   {
-   "id": "52048",
-   "sku": "700923",
-   "name": "Cahier Super ABC 96 Pages 60 Gr",
-   "brand": "ABC",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 1.9,
-   "new_price": 1.2,
-   "discount_pct": 36.8,
-   "savings": 0.7,
-   "image": "https://www.mytek.tn/media/catalog/product/n/o/nouvecahier-super-abc-60-gr-96-pagesau_projet.png",
-   "url": "https://www.mytek.tn/cahier-super-abc-60-gr-96-pages.html"
-  },
-  {
    "id": "53131",
    "sku": "MINI-COMP",
    "name": "Compteuse de Billets Mini Portable",
@@ -21985,6 +22067,23 @@
    "url": "https://www.mytek.tn/cahier-piqure-calligraphe-96-pages-90gr-seyes-21x29-7-cm-orange.html"
   },
   {
+   "id": "74721",
+   "sku": "9103",
+   "name": "Cahier Piqûre OMEGA  A4 192P 70gr Seyes pp",
+   "brand": "OMEGA",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille",
+    "Fourniture Scolaire"
+   ],
+   "old_price": 10.9,
+   "new_price": 6.9,
+   "discount_pct": 36.7,
+   "savings": 4.0,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-omega-a4-192p-70gr-seyes-pp_004.jpg",
+   "url": "https://www.mytek.tn/cahier-piqure-omega-a4-192p-70gr-seyes-pp.html"
+  },
+  {
    "id": "63745",
    "sku": "99102",
    "name": "Pack de 12 Crayons De Coloriage BIC Evolution Stripes 99102",
@@ -22138,22 +22237,6 @@
    "savings": 9.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/l/plateau-oval-dhrifa-lux-dore-.jpg",
    "url": "https://www.mytek.tn/plateau-oval-dhrifa-lux-dore.html"
-  },
-  {
-   "id": "78707",
-   "sku": "BC-6106",
-   "name": "Set De 12 Marqueurs Acrylique a Double Pointe Assortis",
-   "brand": "Sans-Fabricant",
-   "categories": [
-    "Ecriture & Correction",
-    "Marqueurs"
-   ],
-   "old_price": 25,
-   "new_price": 15.9,
-   "discount_pct": 36.4,
-   "savings": 9.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-12-marqueurs-acrylique-a-double-pointe-assortis-1.jpg",
-   "url": "https://www.mytek.tn/set-de-12-marqueurs-acrylique-a-double-pointe-assortis.html"
   },
   {
    "id": "6753",
@@ -24369,22 +24452,6 @@
    "url": "https://www.mytek.tn/machine-a-cafe-5en1-expresso-florence-1350w-chrome.html"
   },
   {
-   "id": "60831",
-   "sku": "73512",
-   "name": "Pack de 12 Cryaon de Couleurs JOVI en Bois Maxi Triangulaire",
-   "brand": "JOVI",
-   "categories": [
-    "Coloriage & Pâte à Modeler",
-    "Crayons Couleurs"
-   ],
-   "old_price": 24.9,
-   "new_price": 16.4,
-   "discount_pct": 34.1,
-   "savings": 8.5,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-cryaon-de-couleurs-jovi-en-bois-maxi-triangulaire.jpg",
-   "url": "https://www.mytek.tn/pack-de-12-cryaon-de-couleurs-jovi-en-bois-maxi-triangulaire.html"
-  },
-  {
    "id": "35862",
    "sku": "TOKEN600",
    "name": "Onduleur In-line NJOY Token 600VA / 360 W / 8 Prises",
@@ -24668,6 +24735,22 @@
    "url": "https://www.mytek.tn/pochette-de-4-stylos-krish-x7-a-bille-assortis.html"
   },
   {
+   "id": "78680",
+   "sku": "SG-9862",
+   "name": "Set de 36 Marqueurs Acrylique Pointe Avec Pinceau",
+   "brand": "SKYGLORY",
+   "categories": [
+    "Ecriture & Correction",
+    "Marqueurs"
+   ],
+   "old_price": 59,
+   "new_price": 39,
+   "discount_pct": 33.9,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-36-marqueurs-acrylique-pointe-avec-pinceau-1.jpg",
+   "url": "https://www.mytek.tn/set-de-36-marqueurs-acrylique-pointe-avec-pinceau.html"
+  },
+  {
    "id": "47685",
    "sku": "DL87B",
    "name": "Exfoliant JATA DL87B Pour Peaux Rugueuses + Epilateur Rechargeable",
@@ -24929,22 +25012,6 @@
    "savings": 3.0,
    "image": "https://www.mytek.tn/media/catalog/product/b/o/boite-de-12-tubes-de-gouache-le-coq-en-metal-9.jpg",
    "url": "https://www.mytek.tn/boite-de-12-tubes-de-gouache-le-coq-en-metal.html"
-  },
-  {
-   "id": "78462",
-   "sku": "Y251-12",
-   "name": "Pack de 12 Pâte à Modeler DELI Y251-12 6 G Assortis",
-   "brand": "DELI",
-   "categories": [
-    "Coloriage & Pâte à Modeler",
-    "Fourniture Scolaire"
-   ],
-   "old_price": 8.9,
-   "new_price": 5.9,
-   "discount_pct": 33.7,
-   "savings": 3.0,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-pate-a-modeler-deli-y251-12-6g-1.jpg",
-   "url": "https://www.mytek.tn/pack-de-12-pate-a-modeler-deli-y251-12-6g.html"
   },
   {
    "id": "45892",
@@ -26134,21 +26201,6 @@
    "url": "https://www.mytek.tn/porte-documents-deli-200-vues-assortis.html"
   },
   {
-   "id": "63748",
-   "sku": "888695",
-   "name": "Pack de 12 Feutres BIC KIDS - Assortie 888695",
-   "brand": "BIC",
-   "categories": [
-    "Coloriage & Pâte à Modeler"
-   ],
-   "old_price": 14.9,
-   "new_price": 10,
-   "discount_pct": 32.9,
-   "savings": 4.9,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-feutres-bic-kids-assortie-888695-e.jpg",
-   "url": "https://www.mytek.tn/pack-de-12-feutres-bic-kids-assortie-888695.html"
-  },
-  {
    "id": "39763",
    "sku": "T13",
    "name": "Toner Tout En Un CANON T13 - Noir",
@@ -26535,22 +26587,6 @@
    "savings": 2.9,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-192-pages-90-gr-seyes-17x22-cm-bleu-01.jpg",
    "url": "https://www.mytek.tn/cahier-piqure-calligraphe-192-pages-90-gr-seyes-17x22-cm-bleu.html"
-  },
-  {
-   "id": "42542",
-   "sku": "18344",
-   "name": "Cahier Piqûre CALLIGRAPHE 192 Pages 90 Gr Seyès 17x22 cm - Jaune",
-   "brand": "CALLIGRAPHE",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 8.9,
-   "new_price": 6,
-   "discount_pct": 32.6,
-   "savings": 2.9,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-192-pages-90-gr-seyes-17x22-cm-jaune-01.jpg",
-   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-192-pages-90-gr-seyes-17x22-cm-jaune.html"
   },
   {
    "id": "42543",
@@ -27682,21 +27718,6 @@
    "url": "https://www.mytek.tn/support-de-bureau-novus-my-twin-fix-d-avec-fixation-tranversatnte.html"
   },
   {
-   "id": "75833",
-   "sku": "JBLT720BTWHT",
-   "name": "Micro Casque Sans Fil JBL Tune 720BT - Blanc",
-   "brand": "JBL",
-   "categories": [
-    "Son Numérique"
-   ],
-   "old_price": 289,
-   "new_price": 199,
-   "discount_pct": 31.1,
-   "savings": 90,
-   "image": "https://www.mytek.tn/media/catalog/product/m/i/micro-casque-sans-fil-jbl-tune-720bt-blanc-1a.jpg",
-   "url": "https://www.mytek.tn/micro-casque-sans-fil-jbl-tune-720bt-blanc.html"
-  },
-  {
    "id": "73946",
    "sku": "25C",
    "name": "Boîte De 48 Clips 25 mm Couleur - 25C",
@@ -27758,6 +27779,23 @@
    "savings": 40,
    "image": "https://www.mytek.tn/media/catalog/product/p/e/perceuse-electrique-a-percussion-pusello-id003-810w-2800-tr-min-k.jpg",
    "url": "https://www.mytek.tn/perceuse-electrique-a-percussion-pusello-id003-810w-2800-tr-min.html"
+  },
+  {
+   "id": "43853",
+   "sku": "429271",
+   "name": "Cahier piquée YAMAMA à Carreaux 48 Pages 17x22 cm 70Gr - Jaune",
+   "brand": "YAMAMA",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille",
+    "Fourniture Scolaire"
+   ],
+   "old_price": 2.9,
+   "new_price": 2,
+   "discount_pct": 31.0,
+   "savings": 0.9,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piquee-yamama-a-carreaux-48-pages-17x22-cm-70gr-jaune-8745.gif",
+   "url": "https://www.mytek.tn/cahier-piquee-yamama-a-carreaux-48-pages-17x22-cm-70gr-jaune.html"
   },
   {
    "id": "43858",
@@ -28074,9 +28112,9 @@
    "url": "https://www.mytek.tn/cahier-piqure-calligraphe-96-pages-seyes-90gr-17x22-cm-rose.html"
   },
   {
-   "id": "42641",
-   "sku": "18122",
-   "name": "Cahier Piqûre CALLIGRAPHE 96 Pages Seyès 90gr 17x22 cm - Bleu",
+   "id": "42637",
+   "sku": "18129",
+   "name": "Cahier Piqûre CALLIGRAPHE 96 Pages 90 Gr Seyès 17x 22cm Transparent",
    "brand": "CALLIGRAPHE",
    "categories": [
     "Cahier",
@@ -28086,8 +28124,8 @@
    "new_price": 3.4,
    "discount_pct": 30.6,
    "savings": 1.5,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-96-pages-seyes-90gr-17x22-cm-bleu-02.jpg",
-   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-96-pages-seyes-90gr-17x22-cm-bleu.html"
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-calligraphe-96-pages-90-gr-seyes-17x-22cm-transparent-01.jpg",
+   "url": "https://www.mytek.tn/cahier-piqure-calligraphe-96-pages-90-gr-seyes-17x-22cm-transparent.html"
   },
   {
    "id": "11331",
@@ -30494,22 +30532,6 @@
    "url": "https://www.mytek.tn/cartouche-jet-d-encre-original-epson-27xl-magenta-c13t27134012.html"
   },
   {
-   "id": "78671",
-   "sku": "SG-982-48",
-   "name": "Coffret De 48 Marqueurs SKYGLORY Peinture Acrylique Assortis",
-   "brand": "SKYGLORY",
-   "categories": [
-    "Ecriture & Correction",
-    "Marqueurs"
-   ],
-   "old_price": 49,
-   "new_price": 34.9,
-   "discount_pct": 28.8,
-   "savings": 14.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/coffret-de-48-marqueurs-skyglory-peinture-acrylique-assortis.jpg",
-   "url": "https://www.mytek.tn/coffret-de-48-marqueurs-skyglory-peinture-acrylique-assortis.html"
-  },
-  {
    "id": "74897",
    "sku": "ABS-8103",
    "name": "Haut Parleur Sans Fil ABS-8103 Avec Micro Filaire et Télécommande",
@@ -31189,6 +31211,22 @@
    "savings": 16.9,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/calculatrice-de-bureau-canon-ks-125kb-rose.jpg",
    "url": "https://www.mytek.tn/calculatrice-de-bureau-canon-ks-125kb-rose.html"
+  },
+  {
+   "id": "42236",
+   "sku": "89822",
+   "name": "Cahier Piqûre CONQUERANT 192 Pages Seyès 90gr 17x22 cm Vert",
+   "brand": "CONQUERANT",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 8.9,
+   "new_price": 6.4,
+   "discount_pct": 28.1,
+   "savings": 2.5,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-conquerant-192-pages-seyes-90gr-17x22-cm-vert-100.jpg",
+   "url": "https://www.mytek.tn/cahier-piqure-conquerant-192-pages-seyes-90gr-17x22-cm-vert.html"
   },
   {
    "id": "42417",
@@ -32164,21 +32202,6 @@
    "url": "https://www.mytek.tn/chauffage-electrique-orient-oce-1750-blanc.html"
   },
   {
-   "id": "45790",
-   "sku": "4000810",
-   "name": "Rouleau Éponge Grand JOVI Pour modelage",
-   "brand": "JOVI",
-   "categories": [
-    "Coloriage & Pâte à Modeler"
-   ],
-   "old_price": 5.9,
-   "new_price": 4.3,
-   "discount_pct": 27.1,
-   "savings": 1.6,
-   "image": "https://www.mytek.tn/media/catalog/product/r/o/rouleau-_ponge-grand-jovi-pour-modelage.jpg",
-   "url": "https://www.mytek.tn/rouleau-eponge-grand-jovi-pour-modelage.html"
-  },
-  {
    "id": "75726",
    "sku": "BX8071512600KF",
    "name": "Processeur Intel Core I5-12600KF BOX LGA 1700",
@@ -32305,21 +32328,6 @@
    "savings": 24,
    "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-3-zazoua-vivaldi-743-a-avec-support-inox-s_1.jpg",
    "url": "https://www.mytek.tn/set-de-3-zazoua-vivaldi-743-a-avec-support-inox.html"
-  },
-  {
-   "id": "45796",
-   "sku": "5008386",
-   "name": "Pack de 4 Pinceaux Artistiques JOVI Poils Naturels Et Plate 4,6,8,12",
-   "brand": "JOVI",
-   "categories": [
-    "Coloriage & Pâte à Modeler"
-   ],
-   "old_price": 8.9,
-   "new_price": 6.5,
-   "discount_pct": 27.0,
-   "savings": 2.4,
-   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-4-pinceaux-artistiques-jovi-poils-naturels-et-plate-4_6_8_12.jpg",
-   "url": "https://www.mytek.tn/pack-de-4-pinceaux-artistiques-jovi-poils-naturels-et-plate-4-6-8-12.html"
   },
   {
    "id": "76022",
@@ -32925,23 +32933,6 @@
    "url": "https://www.mytek.tn/aspirateur-a-main-karcher-cvh2-70w-blanc.html"
   },
   {
-   "id": "47639",
-   "sku": "431182",
-   "name": "Recharge Porte Document YAMAMA A4 SYS BMV 70Gr",
-   "brand": "YAMAMA",
-   "categories": [
-    "Cahier & Feuille",
-    "Fourniture Scolaire",
-    "Recharge Classeur & Fiche"
-   ],
-   "old_price": 4.9,
-   "new_price": 3.6,
-   "discount_pct": 26.5,
-   "savings": 1.3,
-   "image": "https://www.mytek.tn/media/catalog/product/r/e/recharge-porte-document-yamama-a4-sys-bmv-70gr.jpg",
-   "url": "https://www.mytek.tn/recharge-porte-document-yamama-a4-sys-bmv-70gr.html"
-  },
-  {
    "id": "43112",
    "sku": "PD-219A",
    "name": "Toner Adaptable Compatible PANTUM PD-219A",
@@ -33146,6 +33137,21 @@
    "savings": 2.1,
    "image": "https://www.mytek.tn/media/catalog/product/a/g/agrafeuse-maped-353211-greenlogic-mini-n-10-noir-u.jpg",
    "url": "https://www.mytek.tn/agrafeuse-maped-353211-greenlogic-mini-n-10-noir.html"
+  },
+  {
+   "id": "63748",
+   "sku": "888695",
+   "name": "Pack de 12 Feutres BIC KIDS - Assortie 888695",
+   "brand": "BIC",
+   "categories": [
+    "Coloriage & Pâte à Modeler"
+   ],
+   "old_price": 14.9,
+   "new_price": 11,
+   "discount_pct": 26.2,
+   "savings": 3.9,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-feutres-bic-kids-assortie-888695-e.jpg",
+   "url": "https://www.mytek.tn/pack-de-12-feutres-bic-kids-assortie-888695.html"
   },
   {
    "id": "69985",
@@ -33666,21 +33672,6 @@
    "url": "https://www.mytek.tn/film-de-plastification-a3-80-microns.html"
   },
   {
-   "id": "66584",
-   "sku": "BDCHD12S1-QW",
-   "name": "Perceuse Visseuse BLACK+DECKER Brushless Sans Fil - BDCHD12S1-QW",
-   "brand": "BLACK-AND-DECKER",
-   "categories": [
-    "Bricolage & jardin"
-   ],
-   "old_price": 509,
-   "new_price": 379,
-   "discount_pct": 25.5,
-   "savings": 130,
-   "image": "https://www.mytek.tn/media/catalog/product/p/e/perceuse-a-percussion-black-decker-brushless-sans-fil-bdchd12s1-qw-1.jpg",
-   "url": "https://www.mytek.tn/perceuse-a-percussion-black-decker-brushless-sans-fil-bdchd12s1-qw.html"
-  },
-  {
    "id": "69326",
    "sku": "BU-6500VP",
    "name": "Pack de 12 Stylos Feutre PENSAN TRIPLUS Fine Liner - Vert Pistache",
@@ -33842,6 +33833,22 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/s/o/souris-filaire-gamer-cooler-master-mm310-rgb-noir5.jpg",
    "url": "https://www.mytek.tn/souris-filaire-gamer-cooler-master-mm310-rgb-noir.html"
+  },
+  {
+   "id": "78462",
+   "sku": "Y251-12",
+   "name": "Pack de 12 Pâte à Modeler DELI Y251-12 6 G Assortis",
+   "brand": "DELI",
+   "categories": [
+    "Coloriage & Pâte à Modeler",
+    "Fourniture Scolaire"
+   ],
+   "old_price": 7.9,
+   "new_price": 5.9,
+   "discount_pct": 25.3,
+   "savings": 2.0,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-12-pate-a-modeler-deli-y251-12-6g-1.jpg",
+   "url": "https://www.mytek.tn/pack-de-12-pate-a-modeler-deli-y251-12-6g.html"
   },
   {
    "id": "45805",
@@ -34948,6 +34955,21 @@
    "url": "https://www.mytek.tn/monture-de-scie-whf3168.html"
   },
   {
+   "id": "68175",
+   "sku": "2727",
+   "name": "Pack 12 Feutres de Coloriage BIC Kids Couleur Assorties",
+   "brand": "BIC",
+   "categories": [
+    "Coloriage & Pâte à Modeler"
+   ],
+   "old_price": 12,
+   "new_price": 9,
+   "discount_pct": 25.0,
+   "savings": 3,
+   "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-12-feutres-de-coloriage-bic-kids-couleur-assorties.jpg",
+   "url": "https://www.mytek.tn/pack-12-feutres-de-coloriage-bic-kids-couleur-assorties.html"
+  },
+  {
    "id": "54275",
    "sku": "BX80768265K",
    "name": "Processeur Intel Core Ultra 7 265K LGA1851",
@@ -35823,22 +35845,6 @@
    "url": "https://www.mytek.tn/pack-de-10-surligneurs-stabilo-boss-original-rouge.html"
   },
   {
-   "id": "78680",
-   "sku": "SG-9862",
-   "name": "Set de 36 Marqueurs Acrylique Pointe Avec Pinceau",
-   "brand": "SKYGLORY",
-   "categories": [
-    "Ecriture & Correction",
-    "Marqueurs"
-   ],
-   "old_price": 50,
-   "new_price": 37.9,
-   "discount_pct": 24.2,
-   "savings": 12.1,
-   "image": "https://www.mytek.tn/media/catalog/product/s/e/set-de-36-marqueurs-acrylique-pointe-avec-pinceau-1.jpg",
-   "url": "https://www.mytek.tn/set-de-36-marqueurs-acrylique-pointe-avec-pinceau.html"
-  },
-  {
    "id": "71774",
    "sku": "A02ANC",
    "name": "Casque Sans Fil INKAX A02ANC Bluetooth Anti Bruit - Silver",
@@ -35964,22 +35970,6 @@
    "savings": 1.9,
    "image": "https://www.mytek.tn/media/catalog/product/c/o/corbeille-a-courrier-faibo-a4-rose-pastel-104329-m.jpg",
    "url": "https://www.mytek.tn/corbeille-a-courrier-faibo-a4-rose-pastel-104329.html"
-  },
-  {
-   "id": "69608",
-   "sku": "104343",
-   "name": "Corbeille à courrier Faibo A4 - Vert Pastel (104343)",
-   "brand": "FAIBO",
-   "categories": [
-    "Classements & Archivages",
-    "Corbeille À Courrier"
-   ],
-   "old_price": 7.9,
-   "new_price": 6,
-   "discount_pct": 24.1,
-   "savings": 1.9,
-   "image": "https://www.mytek.tn/media/catalog/product/c/o/corbeille-a-courrier-faibo-a4-vert-pastel-104343-w.jpg",
-   "url": "https://www.mytek.tn/corbeille-a-courrier-faibo-a4-vert-pastel-104343.html"
   },
   {
    "id": "69609",
@@ -36125,22 +36115,6 @@
    "savings": 110,
    "image": "https://www.mytek.tn/media/catalog/product/b/u/bu-machine-crema-kit-sucre-avec-50-capsules.jpg",
    "url": "https://www.mytek.tn/machine-a-cafe-biancaffe-elfin-tc01-1400w-0-7l-compatible-ep-mini.html"
-  },
-  {
-   "id": "7146",
-   "sku": "404223",
-   "name": "Cahier YAMAMA Wiro Avec Séparations 3en1 PF CP 360 Pages 80g Uni",
-   "brand": "YAMAMA",
-   "categories": [
-    "Cahier",
-    "Cahier & Feuille"
-   ],
-   "old_price": 12.9,
-   "new_price": 9.8,
-   "discount_pct": 24.0,
-   "savings": 3.1,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-yamama-wiro-avec-s_parations-3en1-pm-360p_1.jpg",
-   "url": "https://www.mytek.tn/cahier-yamama-wiro-avec-separations-3en1-360p-404223.html"
   },
   {
    "id": "69699",
@@ -38280,23 +38254,6 @@
    "url": "https://www.mytek.tn/cahier-registre-omega-a4-192-pages-5-5.html"
   },
   {
-   "id": "42548",
-   "sku": "81002696",
-   "name": "Feuille Mobile CALLIGRAPHE Perforées Seyès 200 Pages A4 90Gr S/Film",
-   "brand": "CALLIGRAPHE",
-   "categories": [
-    "Cahier & Feuille",
-    "Fourniture Scolaire",
-    "Recharge Classeur & Fiche"
-   ],
-   "old_price": 12.9,
-   "new_price": 10,
-   "discount_pct": 22.5,
-   "savings": 2.9,
-   "image": "https://www.mytek.tn/media/catalog/product/f/e/feuille-mobile-calligraphe-perforees-seyes-200-pages-a4-90g-s-film-01.jpg",
-   "url": "https://www.mytek.tn/feuille-mobile-calligraphe-perforees-seyes-200-pages-a4-90g-s-film.html"
-  },
-  {
    "id": "31828",
    "sku": "CHT200-VERT",
    "name": "Chaise SOTUFAB Amiral Spiky - Vert Olive",
@@ -38729,8 +38686,7 @@
    "brand": "HyperX",
    "categories": [
     "Clavier & Tapis & Souris",
-    "Périphériques & Accessoires",
-    "Tapis de Souris"
+    "Périphériques & Accessoires"
    ],
    "old_price": 45,
    "new_price": 35,
@@ -42465,6 +42421,21 @@
    "url": "https://www.mytek.tn/casque-sans-fil-philips-tah1108bk-00-noir.html"
   },
   {
+   "id": "51464",
+   "sku": "W35MAX-NOIR",
+   "name": "Casque Sans Fil HOCO W35 Max - Gris",
+   "brand": "HOCO",
+   "categories": [
+    "Son Numérique"
+   ],
+   "old_price": 99,
+   "new_price": 79,
+   "discount_pct": 20.2,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/casque-sans-fil-hoco-w35-noir.jpg",
+   "url": "https://www.mytek.tn/casque-sans-fil-hoco-w35-max-gris.html"
+  },
+  {
    "id": "77533",
    "sku": "W35MAX-G",
    "name": "Casque Sans Fil HOCO W35 max - Vert",
@@ -42523,21 +42494,6 @@
    "savings": 20,
    "image": "https://www.mytek.tn/media/catalog/product/c/a/casque-sans-fil-hoco-w35-max-silver.jpg",
    "url": "https://www.mytek.tn/casque-sans-fil-hoco-w35-max-silver.html"
-  },
-  {
-   "id": "51464",
-   "sku": "W35MAX-NOIR",
-   "name": "Casque Sans Fil HOCO W35 Max - Noir",
-   "brand": "HOCO",
-   "categories": [
-    "Son Numérique"
-   ],
-   "old_price": 99,
-   "new_price": 79,
-   "discount_pct": 20.2,
-   "savings": 20,
-   "image": "https://www.mytek.tn/media/catalog/product/c/a/casque-sans-fil-hoco-w35-noir-1.jpg",
-   "url": "https://www.mytek.tn/casque-sans-fil-hoco-w35-noir.html"
   },
   {
    "id": "2079",
@@ -43963,6 +43919,21 @@
    "savings": 140,
    "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-multifonction-hp-laserjet-m141w-monochrome-wi-fi-012.jpg",
    "url": "https://www.mytek.tn/imprimante-multifonction-hp-laserjet-m141w-monochrome-wi-fi.html"
+  },
+  {
+   "id": "65571",
+   "sku": "G-2470",
+   "name": "Imprimante CANON PIXMA G2470 à Réservoir Intégré 3en1 Couleur",
+   "brand": "CANON",
+   "categories": [
+    "Imprimante"
+   ],
+   "old_price": 699,
+   "new_price": 559,
+   "discount_pct": 20.0,
+   "savings": 140,
+   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-jet-d-encre-canon-pixma-g-2470-multifonction-3en1-couleur-b.jpg",
+   "url": "https://www.mytek.tn/imprimante-jet-d-encre-canon-pixma-g-2470-multifonction-3en1-couleur.html"
   },
   {
    "id": "55496",
@@ -46258,22 +46229,6 @@
    "url": "https://www.mytek.tn/imprimante-multifonction-laserjet-pro-hp-mfp-4103fdn-reseau.html"
   },
   {
-   "id": "2607",
-   "sku": "C13T00S14A",
-   "name": "Bouteille D'encre Original EPSON ECOTANK 103 - Noir",
-   "brand": "EPSON",
-   "categories": [
-    "Bouteille D'encre",
-    "Consommables Imprimante"
-   ],
-   "old_price": 39,
-   "new_price": 32,
-   "discount_pct": 17.9,
-   "savings": 7,
-   "image": "https://www.mytek.tn/media/catalog/product/c/1/c13t00s14a-0001_1.jpg",
-   "url": "https://www.mytek.tn/bouteille-d-encre-original-epson-ecotank-103-noir-c13t00s14a.html"
-  },
-  {
    "id": "10702",
    "sku": "C13T00S34A",
    "name": "Bouteille D'encre Original EPSON ECOTANK 103 - Magenta",
@@ -46320,6 +46275,38 @@
    "savings": 7,
    "image": "https://www.mytek.tn/media/catalog/product/c/1/c13t00s24a.jpg",
    "url": "https://www.mytek.tn/bouteille-d-encre-original-epson-ecotank-103-cyan-c13t00s24a.html"
+  },
+  {
+   "id": "2607",
+   "sku": "C13T00S14A",
+   "name": "Bouteille D'encre Original EPSON ECOTANK 103 - Noir",
+   "brand": "EPSON",
+   "categories": [
+    "Bouteille D'encre",
+    "Consommables Imprimante"
+   ],
+   "old_price": 39,
+   "new_price": 32,
+   "discount_pct": 17.9,
+   "savings": 7,
+   "image": "https://www.mytek.tn/media/catalog/product/c/1/c13t00s14a-0001_1.jpg",
+   "url": "https://www.mytek.tn/bouteille-d-encre-original-epson-ecotank-103-noir-c13t00s14a.html"
+  },
+  {
+   "id": "47077",
+   "sku": "430703",
+   "name": "Cahier Piqure YAMAMA 96 Pages BMV 80 Gr 17x22 cm Pastel",
+   "brand": "YAMAMA",
+   "categories": [
+    "Cahier",
+    "Cahier & Feuille"
+   ],
+   "old_price": 3.9,
+   "new_price": 3.2,
+   "discount_pct": 17.9,
+   "savings": 0.7,
+   "image": "https://www.mytek.tn/media/catalog/product/c/a/cahier-piqure-yamama-96-pages-bmv-80-gr-17x22-cm-pastel.jpg",
+   "url": "https://www.mytek.tn/cahier-piqure-yamama-96-pages-bmv-80-gr-17x22-cm-pastel.html"
   },
   {
    "id": "539",
@@ -46387,6 +46374,21 @@
    "savings": 7,
    "image": "https://www.mytek.tn/media/catalog/product/s/o/souris-sans-fil-logitech-m190-rouge-f.jpg",
    "url": "https://www.mytek.tn/souris-sans-fil-logitech-m190-rouge.html"
+  },
+  {
+   "id": "79054",
+   "sku": "BU-BIOLUX-INV-9000",
+   "name": "Climatiseur BIOLUX 9000 BTU Inverter Chaud/Froid - Garantie 10 Ans",
+   "brand": "BIOLUX",
+   "categories": [
+    "Climatisation"
+   ],
+   "old_price": 1399,
+   "new_price": 1149,
+   "discount_pct": 17.9,
+   "savings": 250,
+   "image": "https://www.mytek.tn/media/catalog/product/c/l/climatiseur_biolux_inverter_chaud_froid_9000_btu_-_blanc-k.jpg",
+   "url": "https://www.mytek.tn/climatiseur-biolux-9000-btu-inverter-chaud-froid-garantie-10-ans.html"
   },
   {
    "id": "4043",
@@ -47355,21 +47357,6 @@
    "url": "https://www.mytek.tn/aspirateur-eau-et-poussiere-karcher-dvac-1500w-noir.html"
   },
   {
-   "id": "65495",
-   "sku": "HP1630K",
-   "name": "Perceuse à Percussion MAKITA HP1630K 710W 13 mm 3200 tr/min",
-   "brand": "MAKITA",
-   "categories": [
-    "Bricolage & jardin"
-   ],
-   "old_price": 289,
-   "new_price": 239,
-   "discount_pct": 17.3,
-   "savings": 50,
-   "image": "https://www.mytek.tn/media/catalog/product/p/e/perceuse_a_percussion_makita_710w_13mm_hp1630k_-10.jpg",
-   "url": "https://www.mytek.tn/perceuse-a-percussion-makita-710w-13mm-hp1630k.html"
-  },
-  {
    "id": "65535",
    "sku": "TW0200",
    "name": "Boulonneuse à Chocs électrique MAKITA 380 W",
@@ -47855,7 +47842,7 @@
    "new_price": 49,
    "discount_pct": 16.9,
    "savings": 10,
-   "image": "https://www.mytek.tn/media/catalog/product/b/a/batterie-plomb-rechargeable-hrx-6v-7000-mah-s.jpg",
+   "image": "https://www.mytek.tn/media/catalog/product/h/k/hk12-frozen_761_1.jpg",
    "url": "https://www.mytek.tn/batterie-plomb-rechargeable-hrx-6v-7000-mah.html"
   },
   {
@@ -47976,8 +47963,7 @@
    "brand": "HyperX",
    "categories": [
     "Clavier & Tapis & Souris",
-    "Périphériques & Accessoires",
-    "Tapis de Souris"
+    "Périphériques & Accessoires"
    ],
    "old_price": 59,
    "new_price": 49,
@@ -49779,21 +49765,6 @@
    "url": "https://www.mytek.tn/onduleur-on-line-itapowe-rack-smart-rt-2kva.html"
   },
   {
-   "id": "47797",
-   "sku": "BP-20M22",
-   "name": "Photocopieur SHARP BP-20M22 Monochrome",
-   "brand": "SHARP",
-   "categories": [
-    "Photocopieurs"
-   ],
-   "old_price": 4999,
-   "new_price": 4189,
-   "discount_pct": 16.2,
-   "savings": 810,
-   "image": "https://www.mytek.tn/media/catalog/product/p/h/photocopieur-multifonction-monochrome-sharp-bp-20m22-9856.jpg",
-   "url": "https://www.mytek.tn/photocopieur-multifonction-monochrome-sharp-bp-20m22.html"
-  },
-  {
    "id": "3679",
    "sku": "MILESSA-BLACK",
    "name": "Sac Bandoulière MODALINE Milessa avec Chaine - Gold & Noir",
@@ -50448,21 +50419,6 @@
    "savings": 1.1,
    "image": "https://www.mytek.tn/media/catalog/product/p/a/pack-de-4-stylos-bic-blister-cristal-med-pastel-mea-108331.jpg",
    "url": "https://www.mytek.tn/pack-de-4-stylos-bic-blister-cristal-med-pastel-mea-108331.html"
-  },
-  {
-   "id": "65571",
-   "sku": "G-2470",
-   "name": "Imprimante CANON PIXMA G2470 à Réservoir Intégré 3en1 Couleur",
-   "brand": "CANON",
-   "categories": [
-    "Imprimante"
-   ],
-   "old_price": 699,
-   "new_price": 589,
-   "discount_pct": 15.7,
-   "savings": 110,
-   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-jet-d-encre-canon-pixma-g-2470-multifonction-3en1-couleur-b.jpg",
-   "url": "https://www.mytek.tn/imprimante-jet-d-encre-canon-pixma-g-2470-multifonction-3en1-couleur.html"
   },
   {
    "id": "47492",
@@ -53941,21 +53897,6 @@
    "url": "https://www.mytek.tn/imprimante-a-reservoir-integre-canon-pixma-g3410-3en1-wifi-couleur.html"
   },
   {
-   "id": "68067",
-   "sku": "BU-G-3410",
-   "name": "Imprimante CANON Pixma G3410 à Réservoir Intégré WIFI 3en1 Couleur",
-   "brand": "CANON",
-   "categories": [
-    "Imprimante"
-   ],
-   "old_price": 669,
-   "new_price": 579,
-   "discount_pct": 13.5,
-   "savings": 90,
-   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-a-reservoir-integre-canon-pixma-g3410-3en1-wifi-couleur-bu-g-3410-cc.jpg",
-   "url": "https://www.mytek.tn/imprimante-a-reservoir-integre-canon-pixma-g3410-3en1-wifi-couleur-bu-g-3410.html"
-  },
-  {
    "id": "52347",
    "sku": "DR-S250N",
    "name": "Scanner CANON imageFORMULA DR-S250N - Noir",
@@ -55167,7 +55108,7 @@
   {
    "id": "70109",
    "sku": "BU-WM1212S",
-   "name": "Lave Linge Frontal Inverter MONTBLANC WM1212S 12kg + Mini Hachoir",
+   "name": "Lave Linge Frontal Inverter MONTBLANC WM1212S 12kg",
    "brand": "MONTBLANC",
    "categories": [
     "Lavage",
@@ -55177,7 +55118,7 @@
    "new_price": 1399,
    "discount_pct": 12.5,
    "savings": 200,
-   "image": "https://www.mytek.tn/media/catalog/product/m/a/machine-_-laver-frontal-inverter-montblanc-wm1212s-12kg.jpg",
+   "image": "https://www.mytek.tn/media/catalog/product/m/a/machine-_-laver-frontal-inverter-montblanc-wm1212s-12kg--.jpg",
    "url": "https://www.mytek.tn/lave-linge-frontal-inverter-montblanc-wm1212s-12kg-four-electrique.html"
   },
   {
@@ -55598,6 +55539,21 @@
    "savings": 60,
    "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-laserjet-pro-hp-m111w-monochrome-wi-fi-blanc-7md68a.jpg",
    "url": "https://www.mytek.tn/imprimante-laserjet-pro-hp-m111w-monochrome-wi-fi-blanc-7md68a.html"
+  },
+  {
+   "id": "79002",
+   "sku": "MS331DN",
+   "name": "Imprimante LEXMARK MS331DN Laser Ethernet Monochrome",
+   "brand": "LEXMARK",
+   "categories": [
+    "Imprimante"
+   ],
+   "old_price": 499,
+   "new_price": 439,
+   "discount_pct": 12.0,
+   "savings": 60,
+   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-lexmark-ms331dn-laser-ethernet-monochrome-1.jpg",
+   "url": "https://www.mytek.tn/imprimante-lexmark-ms331dn-laser-ethernet-monochrome.html"
   },
   {
    "id": "66245",
@@ -58541,8 +58497,7 @@
    "brand": "HyperX",
    "categories": [
     "Clavier & Tapis & Souris",
-    "Périphériques & Accessoires",
-    "Tapis de Souris"
+    "Périphériques & Accessoires"
    ],
    "old_price": 99,
    "new_price": 89,
@@ -60472,8 +60427,7 @@
    "brand": "HyperX",
    "categories": [
     "Clavier & Tapis & Souris",
-    "Périphériques & Accessoires",
-    "Tapis de Souris"
+    "Périphériques & Accessoires"
    ],
    "old_price": 152,
    "new_price": 139,
@@ -64755,6 +64709,21 @@
    "savings": 101,
    "image": "https://www.mytek.tn/media/catalog/product/d/e/destructeur-de-documents-hp-pro-shredder-auto-400mc-3.jpg",
    "url": "https://www.mytek.tn/destructeur-de-documents-hp-pro-shredder-auto-400mc.html"
+  },
+  {
+   "id": "79012",
+   "sku": "MS431DN",
+   "name": "Imprimante LEXMARK MS431DN Laser Ethernet Monochrome",
+   "brand": "LEXMARK",
+   "categories": [
+    "Imprimante"
+   ],
+   "old_price": 599,
+   "new_price": 579,
+   "discount_pct": 3.3,
+   "savings": 20,
+   "image": "https://www.mytek.tn/media/catalog/product/i/m/imprimante-lexmark-ms431dn-laser-ethernet-monochrome-1.jpg",
+   "url": "https://www.mytek.tn/imprimante-lexmark-ms431dn-laser-ethernet-monochrome.html"
   },
   {
    "id": "75158",
