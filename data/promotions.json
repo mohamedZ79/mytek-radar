@@ -1,8 +1,8 @@
 {
- "scanned_at": "2026-08-25T05:30:45.382916+00:00",
+ "scanned_at": "2026-08-26T05:33:18.935743+00:00",
  "source": "https://www.mytek.tn",
  "product_count": 4194,
- "duration_seconds": 9.3,
+ "duration_seconds": 12.8,
  "errors": 0,
  "products": [
   {
@@ -38686,7 +38686,8 @@
    "brand": "HyperX",
    "categories": [
     "Clavier & Tapis & Souris",
-    "Périphériques & Accessoires"
+    "Périphériques & Accessoires",
+    "Tapis de Souris"
    ],
    "old_price": 45,
    "new_price": 35,
@@ -46229,6 +46230,22 @@
    "url": "https://www.mytek.tn/imprimante-multifonction-laserjet-pro-hp-mfp-4103fdn-reseau.html"
   },
   {
+   "id": "2607",
+   "sku": "C13T00S14A",
+   "name": "Bouteille D'encre Original EPSON ECOTANK 103 - Noir",
+   "brand": "EPSON",
+   "categories": [
+    "Bouteille D'encre",
+    "Consommables Imprimante"
+   ],
+   "old_price": 39,
+   "new_price": 32,
+   "discount_pct": 17.9,
+   "savings": 7,
+   "image": "https://www.mytek.tn/media/catalog/product/c/1/c13t00s14a-0001_1.jpg",
+   "url": "https://www.mytek.tn/bouteille-d-encre-original-epson-ecotank-103-noir-c13t00s14a.html"
+  },
+  {
    "id": "10702",
    "sku": "C13T00S34A",
    "name": "Bouteille D'encre Original EPSON ECOTANK 103 - Magenta",
@@ -46275,22 +46292,6 @@
    "savings": 7,
    "image": "https://www.mytek.tn/media/catalog/product/c/1/c13t00s24a.jpg",
    "url": "https://www.mytek.tn/bouteille-d-encre-original-epson-ecotank-103-cyan-c13t00s24a.html"
-  },
-  {
-   "id": "2607",
-   "sku": "C13T00S14A",
-   "name": "Bouteille D'encre Original EPSON ECOTANK 103 - Noir",
-   "brand": "EPSON",
-   "categories": [
-    "Bouteille D'encre",
-    "Consommables Imprimante"
-   ],
-   "old_price": 39,
-   "new_price": 32,
-   "discount_pct": 17.9,
-   "savings": 7,
-   "image": "https://www.mytek.tn/media/catalog/product/c/1/c13t00s14a-0001_1.jpg",
-   "url": "https://www.mytek.tn/bouteille-d-encre-original-epson-ecotank-103-noir-c13t00s14a.html"
   },
   {
    "id": "47077",
@@ -47963,7 +47964,8 @@
    "brand": "HyperX",
    "categories": [
     "Clavier & Tapis & Souris",
-    "Périphériques & Accessoires"
+    "Périphériques & Accessoires",
+    "Tapis de Souris"
    ],
    "old_price": 59,
    "new_price": 49,
@@ -58497,7 +58499,8 @@
    "brand": "HyperX",
    "categories": [
     "Clavier & Tapis & Souris",
-    "Périphériques & Accessoires"
+    "Périphériques & Accessoires",
+    "Tapis de Souris"
    ],
    "old_price": 99,
    "new_price": 89,
@@ -60427,7 +60430,8 @@
    "brand": "HyperX",
    "categories": [
     "Clavier & Tapis & Souris",
-    "Périphériques & Accessoires"
+    "Périphériques & Accessoires",
+    "Tapis de Souris"
    ],
    "old_price": 152,
    "new_price": 139,
